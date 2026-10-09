@@ -112,7 +112,11 @@ $$;
 -- Read a setting (security definer: teachers can't read the settings table, but rules still apply to them).
 create or replace function private.setting(p_name text, p_default text) returns text
 language sql stable security definer set search_path = '' as $$
-  select coalesce((select s.value from public.settings s where s.name = p_name), p_default)
+  select coalesce((select s.value
+                     from public.settings s
+                    where s.name = p_name
+                    order by s.updated_at desc
+                    limit 1), p_default)
 $$;
 
 create or replace function private.academy_tz() returns text
