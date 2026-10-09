@@ -169,7 +169,11 @@ $$;
 create or replace function private.fail(p_status integer, p_message text, p_hint text default null) returns void
 language plpgsql immutable set search_path = '' as $$
 begin
-  raise exception '%', p_message using errcode = 'PT' || p_status::text, hint = p_hint;
+  if p_hint is null then
+    raise exception '%', p_message using errcode = 'PT' || p_status::text;
+  else
+    raise exception '%', p_message using errcode = 'PT' || p_status::text, hint = p_hint;
+  end if;
 end $$;
 
 -- Write an audit entry. Only definer functions/triggers call this; browsers cannot.
@@ -944,12 +948,17 @@ declare
   v_now timestamp := private.academy_now();
   v_today date := v_now::date;
   v_time time := date_trunc('minute', v_now)::time;
+  v_start time;
   v_ex public.attendance; v_status text; v_row public.attendance; v_t public.teachers;
 begin
   if (select auth.uid()) is null then perform private.fail(401, 'Please sign in to continue.'); end if;
   if v_tid is null then perform private.fail(403, 'Your account is not active.'); end if;
   if private.setting('self_checkin', '1') <> '1' then
     perform private.fail(403, 'Self check-in is turned off. Please ask the administrator to mark your attendance.');
+  end if;
+  v_start := coalesce(nullif(private.setting('school_start', '08:00'), '')::time, time '08:00');
+  if private.minutes_of(v_time) < private.minutes_of(v_start) then
+    perform private.fail(403, format('Check-in opens at %s. You cannot check in before school starts.', to_char(v_start, 'FMHH12:MI AM')));
   end if;
   select * into v_ex from public.attendance where teacher_id = v_tid and attendance_date = v_today;
   if found then

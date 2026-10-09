@@ -8,6 +8,15 @@
 -- =====================================================================================
 begin;
 
+-- Make attendance-time tests deterministic. This replacement is rolled back with the test transaction.
+create or replace function private.academy_now() returns timestamp
+language sql stable security definer set search_path = '' as $$
+  select coalesce(
+    nullif(current_setting('tst.academy_now', true), '')::timestamp,
+    now() at time zone private.academy_tz()
+  )
+$$;
+
 create schema tst;
 grant usage on schema tst to public;
 create table tst.results (n serial primary key, ok boolean not null, label text not null, detail text);
@@ -31,6 +40,35 @@ begin
 end $$;
 create function tst.eq(p_actual text, p_expected text, p_label text) returns void language sql as
   $$ select tst.record(p_actual is not distinct from p_expected, p_label, 'got [' || coalesce(p_actual, 'NULL') || '] expected [' || p_expected || ']') $$;
+create function tst.checkin_status_at(p_time time, p_expected text, p_label text) returns void language plpgsql as $$
+declare v_result jsonb;
+begin
+  perform set_config('tst.academy_now', (private.academy_today() + p_time)::text, true);
+  begin
+    v_result := public.self_check_in();
+    raise exception using errcode = 'Z0001', message = 'rollback test attendance row';
+  exception when sqlstate 'Z0001' then
+    null;
+  end;
+  perform tst.record(v_result -> 'data' ->> 'status' = p_expected, p_label,
+    format('got [%s] expected [%s]', coalesce(v_result -> 'data' ->> 'status', 'NULL'), p_expected));
+end $$;
+create function tst.checkin_before_start_at(p_time time, p_label text) returns void language plpgsql as $$
+declare v_state text; v_message text;
+begin
+  perform set_config('tst.academy_now', (private.academy_today() + p_time)::text, true);
+  begin
+    perform public.self_check_in();
+    raise exception using errcode = 'Z0001', message = 'check-in unexpectedly succeeded';
+  exception
+    when sqlstate 'Z0001' then
+      get stacked diagnostics v_state = returned_sqlstate, v_message = message_text;
+    when others then
+      get stacked diagnostics v_state = returned_sqlstate, v_message = message_text;
+  end;
+  perform tst.record(v_state = 'PT403' and v_message like 'Check-in opens at %', p_label,
+    coalesce(v_state, 'NULL') || ' ' || coalesce(v_message, ''));
+end $$;
 create function tst.as_user(p uuid) returns void language plpgsql as $$
 begin
   perform set_config('request.jwt.claims', json_build_object('sub', p, 'role', 'authenticated')::text, true);
@@ -172,9 +210,14 @@ select tst.denied($$select public.admin_complete_new_teacher(gen_random_uuid(), 
 
 -- ---------- Self check-in / check-out (time comes from the database clock) ----------
 select tst.as_user('11111111-1111-1111-1111-111111111111');
-select tst.allowed($$select public.admin_update_settings('23:00', 59, true)$$, 'admin: rules = start 23:00 + 59 min grace (so any check-in is on time)');
+select tst.allowed($$select public.admin_update_settings('15:45', 30, true)$$, 'admin: rules = start 15:45 + 30 min grace');
 select tst.as_user('22222222-2222-2222-2222-222222222222');
-select tst.eq((select public.self_check_in() -> 'data' ->> 'status'), 'present', 'T1 check-in is Present (within grace)');
+select tst.checkin_before_start_at('15:44', 'check-in before 15:45 is blocked with a clear message');
+select tst.checkin_status_at('15:45', 'present', 'check-in exactly at 15:45 is Present');
+select tst.checkin_status_at('16:15', 'present', 'last grace minute at 16:15 is Present');
+select tst.checkin_status_at('16:16', 'late', 'check-in after 16:15 is Late');
+select set_config('tst.academy_now', (private.academy_today() + time '15:45')::text, true);
+select tst.eq((select public.self_check_in() -> 'data' ->> 'status'), 'present', 'T1 check-in is Present at the start time');
 select tst.denied($$select public.self_check_in()$$, 'T1 cannot check in twice');
 select tst.denied($$select public.self_check_out()$$, 'check-out in the same minute is refused');
 select tst.as_owner();
