@@ -5,6 +5,13 @@ import { html, mount, toast, loading } from './ui.js';
 import { clearShell, renderRoute, startRouter } from './router.js';
 
 const app = document.getElementById('app');
+const splash = document.getElementById('splash');
+
+function hideSplash() {
+  if (!splash) return;
+  splash.classList.add('is-hidden');
+  setTimeout(() => splash.remove(), 400);
+}
 
 function endSession(message) {
   state.user = null;
@@ -45,6 +52,7 @@ if (configured) {
 }
 
 function showNotice(title, text) {
+  hideSplash();
   mount(app, html`<div class="boot" style="padding:24px"><div class="card" style="max-width:520px;padding:28px;text-align:center">
     <img src="assets/img/logo.png" alt="" width="84" height="84" style="object-fit:contain;margin-bottom:12px">
     <h2 style="color:var(--navy-800);margin-bottom:8px">${title}</h2><p class="muted">${text}</p></div></div>`);
@@ -93,4 +101,7 @@ if (!recoveryStarted) {
   }
 }
 startRouter();
+// Keep the branded screen visible for a moment so the app feels intentional,
+// while the existing route loading state handles slower network connections.
+setTimeout(hideSplash, 550);
 if (recoveryStarted) location.hash = '#/reset-password';
