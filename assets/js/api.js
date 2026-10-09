@@ -178,17 +178,30 @@ add('POST', '/auth/setup', async (m, p, b) => {
     throw new ApiError('The setup code is not correct.', 403, { setup_code: 'The setup code is not correct.' });
   }
   setRemember(false);
-  const { data, error } = await sb.auth.signUp({
-    email: lower(b.email), password: String(b.password || ''), options: { data: { name: b.name } },
-  });
+  const email = lower(b.email);
+  const password = String(b.password || '');
+  let data;
+  let error;
+  ({ data, error } = await sb.auth.signUp({
+    email, password, options: { data: { name: b.name } },
+  }));
+
+  // The intended administrator may already have an Auth account (for example, an
+  // earlier teacher signup). Reuse that account after verifying its password;
+  // claim_first_admin still performs the guarded role change inside Postgres.
+  if (error && (error.code === 'user_already_exists' || error.code === 'email_exists' || /already registered/i.test(error.message || ''))) {
+    ({ data, error } = await sb.auth.signInWithPassword({ email, password }));
+  }
   if (error) throw error;
   if (!data.session) {
     throw new ApiError('Your account was created but Supabase is waiting for email confirmation. Turn OFF "Confirm email" in Supabase (Authentication > Providers > Email) for the first setup, then try again. See the README.', 400);
   }
   try {
     const me = await rpc('claim_first_admin', { p_code: String(b.setup_code).trim() });
+    // Keep the setup form's name when an existing pending profile is promoted.
+    const named = await rpc('update_my_name', { p_name: b.name });
     touch();
-    return { message: 'Administrator account created. Welcome to Sunshine Academy!', user: toUser(me), csrf: '', today: me.today };
+    return { message: 'Administrator account created. Welcome to Sunshine Academy!', user: toUser(named.user || me), csrf: '', today: (named.user || me).today };
   } catch (e) {
     await sb.auth.signOut();
     throw e;
