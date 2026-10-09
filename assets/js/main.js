@@ -56,17 +56,41 @@ if (!configured) {
   showNotice('Almost there', 'This app is not connected to Supabase yet. Please follow the setup steps in the README (add your Supabase URL and publishable key), then reload this page.');
   throw new Error('Supabase is not configured');
 }
-try {
-  const data = await get('/auth/session');
-  state.user = data.user;
-  state.csrf = data.csrf || '';
-  state.today = data.today || '';
-  state.needsSetup = Boolean(data.needsSetup);
-} catch (error) {
-  state.user = null;
-  if (error.status === 503) {
-    showNotice('The database is not ready', error.message);
-    throw error;
+
+// Supabase recovery links arrive with a PKCE `?code=...` before the hash.
+// Do this before /auth/session: pending teachers are intentionally signed out
+// by that endpoint, but they still need a temporary session to set a password.
+const recoveryCode = new URLSearchParams(location.search).get('code');
+let recoveryStarted = false;
+if (recoveryCode) {
+  let { data } = await sb.auth.getSession();
+  // Older bundled clients may not auto-exchange the PKCE code during startup.
+  if (!data.session) {
+    const exchanged = await sb.auth.exchangeCodeForSession(recoveryCode);
+    data = exchanged.data;
+  }
+  if (data.session) {
+    sessionStorage.setItem('sunshine_recovery', '1');
+    state.user = { id: data.session.user.id, email: data.session.user.email, role: 'teacher' };
+    history.replaceState(null, '', location.pathname);
+    recoveryStarted = true;
+  }
+}
+
+if (!recoveryStarted) {
+  try {
+    const data = await get('/auth/session');
+    state.user = data.user;
+    state.csrf = data.csrf || '';
+    state.today = data.today || '';
+    state.needsSetup = Boolean(data.needsSetup);
+  } catch (error) {
+    state.user = null;
+    if (error.status === 503) {
+      showNotice('The database is not ready', error.message);
+      throw error;
+    }
   }
 }
 startRouter();
+if (recoveryStarted) location.hash = '#/reset-password';
