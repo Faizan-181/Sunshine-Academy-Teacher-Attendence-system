@@ -252,36 +252,29 @@ textarea.input { resize: vertical; min-height: 84px; }
 .login-logo img { width: 110px; height: 110px; object-fit: contain; padding: 8px; background: #fff; border-radius: 24px; box-shadow: var(--shadow); }
 .login-card { padding: 24px; }
 .academy-clock { display: flex; flex-direction: column; align-items: center; text-align: center; }
-.clock-dial { display: block; width: 100%; height: auto; overflow: visible; filter: drop-shadow(0 5px 9px rgba(0,0,0,.14)); }
-.clock-face { fill: #fff; stroke: rgba(245,197,24,.9); stroke-width: 2.5; }
-.clock-tick { stroke: var(--navy-700); stroke-width: 2; stroke-linecap: round; }
-.clock-tick.major { stroke: var(--navy-800); stroke-width: 3.5; }
+.clock-dial { display: block; width: 100%; max-width: 100%; height: auto; overflow: visible; filter: drop-shadow(0 9px 12px rgba(0,0,0,.17)); }
+.clock-bezel { fill: var(--navy-800); stroke: var(--gold); stroke-width: 2; }
+.clock-face { fill: #fff; stroke: rgba(255,255,255,.8); stroke-width: 1; }
+.clock-inner-ring { fill: none; stroke: #e8edf1; stroke-width: 1; }
+.clock-tick { stroke: #708296; stroke-width: 1.8; stroke-linecap: round; }
+.clock-tick.major { stroke: var(--navy-800); stroke-width: 3.2; }
 .clock-number { fill: var(--navy-800); font-family: "Nunito", sans-serif; font-size: 15px; font-weight: 800; }
+.clock-number.cardinal { fill: var(--royal); font-size: 17px; font-weight: 900; }
+.clock-hand { transform-box: view-box; transform-origin: 120px 120px; transition: transform .24s cubic-bezier(.2,.75,.3,1); }
 .clock-hand line { stroke-linecap: round; }
-.clock-hand.hour line { stroke: var(--navy-800); stroke-width: 6; }
-.clock-hand.minute line { stroke: var(--royal); stroke-width: 4; }
-.clock-hand.second line { stroke: var(--ember); stroke-width: 1.5; }
-.clock-brand-plate { fill: #fff; stroke: var(--gold); stroke-width: 1; }
-.clock-brand { fill: var(--navy-800); font-family: "Nunito", sans-serif; font-size: 8px; font-weight: 900; letter-spacing: .35px; }
-.clock-pin { fill: var(--gold); stroke: #fff; stroke-width: 1.5; }
-.clock-readout { display: flex; align-items: baseline; justify-content: center; gap: 7px; margin-top: 6px; }
-.clock-readout time { font-variant-numeric: tabular-nums; font-size: 21px; font-weight: 900; letter-spacing: .4px; }
-.clock-zone { padding: 2px 6px; border-radius: 6px; background: var(--gold); color: var(--navy-800); font-size: 10px; font-weight: 900; }
-.clock-date { margin-top: 2px; font-size: 12px; font-weight: 700; }
-.clock-caption { margin-top: 1px; font-size: 10px; opacity: .72; }
-.academy-clock--brand { width: 200px; margin-top: 25px; color: #fff; }
-.academy-clock--mobile { width: 156px; margin-top: 20px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 16px; background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
-.academy-clock--mobile .clock-dial { width: 116px; }
-.academy-clock--mobile .clock-readout time { font-size: 16px; }
-.academy-clock--mobile .clock-date { font-size: 10px; }
-.academy-clock--mobile .clock-caption { font-size: 9px; }
+.clock-hand.hour line { stroke: var(--navy-800); stroke-width: 7; }
+.clock-hand.minute line { stroke: var(--royal); stroke-width: 4.5; }
+.clock-hand.second line { stroke: var(--ember); stroke-width: 1.6; }
+.clock-brand-plate { fill: var(--gold-light); stroke: var(--gold-dark); stroke-width: 1; }
+.clock-brand { fill: var(--navy-800); font-family: "Nunito", sans-serif; font-size: 8px; font-weight: 1000; letter-spacing: .45px; }
+.clock-pin-halo { fill: #fff; stroke: var(--gold-dark); stroke-width: 2; }
+.clock-pin { fill: var(--ember); stroke: #fff; stroke-width: 1; }
+.academy-clock--brand { width: clamp(150px, 19vw, 210px); margin-top: 24px; color: #fff; }
+.academy-clock--mobile { width: clamp(142px, 42vw, 176px); margin: 18px auto 0; padding: 8px; border: 1px solid var(--line); border-radius: 18px; background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
+.academy-clock--admin { width: 170px; padding: 8px; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
+.academy-clock--profile { width: clamp(132px, 18vw, 168px); padding: 8px; border: 1px solid var(--line); border-radius: 18px; background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
 .admin-dashboard-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; margin-bottom: 24px; }
 .admin-dashboard-top .page-head { min-width: 0; margin: 0; }
-.academy-clock--admin { width: 232px; padding: 12px 16px; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
-.academy-clock--admin .clock-dial { width: 116px; }
-.academy-clock--admin .clock-readout time { font-size: 18px; }
-.academy-clock--admin .clock-date { font-size: 11px; }
-.academy-clock--admin .clock-caption { font-size: 9px; }
 .login-card h1 { font-size: 26px; font-weight: 800; color: var(--navy-800); }
 .login-card .sub { margin-top: 4px; font-size: 14px; color: var(--muted); }
 .login-card form { display: flex; flex-direction: column; gap: 16px; margin-top: 24px; }
@@ -313,6 +306,7 @@ textarea.input { resize: vertical; min-height: 84px; }
 .profile-tags { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px; }
 .profile-contact { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 20px; margin-top: 12px; font-size: 14px; color: var(--muted); }
 .profile-contact span { display: inline-flex; align-items: center; gap: 6px; }
+.profile-summary-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; }
 .details { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: 24px 0 0; padding-top: 20px; border-top: 1px solid var(--line); }
 .details dt { font-size: 12px; font-weight: 800; color: var(--muted); }
 .details dd { margin: 4px 0 0; font-size: 14px; font-weight: 700; }
@@ -356,12 +350,14 @@ textarea.input { resize: vertical; min-height: 84px; }
 }
 @media (max-width: 700px) {
   .admin-dashboard-top { grid-template-columns: 1fr; justify-items: start; }
-  .academy-clock--admin { justify-self: center; width: min(100%, 330px); display: grid; grid-template-columns: 112px 1fr; grid-template-rows: auto auto auto; align-items: center; column-gap: 12px; padding: 10px 14px; }
-  .academy-clock--admin .clock-dial { width: 112px; grid-column: 1; grid-row: 1 / 4; }
-  .academy-clock--admin .clock-readout { grid-column: 2; grid-row: 1; margin: 0; }
-  .academy-clock--admin .clock-readout time { font-size: 16px; }
-  .academy-clock--admin .clock-date { grid-column: 2; grid-row: 2; }
-  .academy-clock--admin .clock-caption { grid-column: 2; grid-row: 3; }
+  .academy-clock--admin { justify-self: center; width: min(100%, 190px); }
+  .profile-summary-row { grid-template-columns: 1fr; justify-items: center; }
+  .profile-summary-row .profile-top { width: 100%; }
+}
+@media (max-width: 420px) {
+  .academy-clock--mobile { width: min(44vw, 160px); padding: 6px; }
+  .academy-clock--profile { width: min(42vw, 150px); }
+  .clock-brand { font-size: 7.5px; }
 }
 @media (max-width: 1023px) {
   .sidebar { transform: translateX(-100%); }
