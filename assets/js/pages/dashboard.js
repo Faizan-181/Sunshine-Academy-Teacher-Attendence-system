@@ -3,6 +3,7 @@ import { get, post, errMsg } from '../api.js';
 import { state } from '../state.js';
 import { formatDate, formatLongDate, formatTime } from '../format.js';
 import { attendanceEditModal } from '../components.js';
+import { clockWidget, startClocks } from '../clock.js';
 
 export default function dashboard(ctx) {
   return state.user.role === 'admin' ? adminDashboard(ctx) : teacherDashboard(ctx);
@@ -10,11 +11,15 @@ export default function dashboard(ctx) {
 
 async function adminDashboard({ root }) {
   mount(root, html`
-    ${pageHead('Dashboard', 'Attendance overview for today', html`<a class="btn btn-primary" href="#/mark-attendance">${ic('clipboard-check', 16)} Mark attendance</a>`)}
+    <div class="admin-dashboard-top">
+      ${pageHead('Dashboard', 'Attendance overview for today', html`<a class="btn btn-primary" href="#/mark-attendance">${ic('clipboard-check', 16)} Mark attendance</a>`)}
+      ${clockWidget('admin')}
+    </div>
     <div id="pending"></div>
     <div id="pending-leaves"></div>
     <div id="stats"></div>
     <section class="card mt"><div class="card-head"><h2>Today's Attendance</h2><span id="not-marked"></span></div><div id="today"></div></section>`);
+  startClocks(root);
   const stats = $('#stats', root), today = $('#today', root), notMarked = $('#not-marked', root), pending = $('#pending', root);
   const pendingLeaves = $('#pending-leaves', root);
 

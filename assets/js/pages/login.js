@@ -1,19 +1,21 @@
 import { html, mount, ic, setLoading, showFieldErrors, field, input, passwordControl, bindPasswordToggles, openModal, dbOutdatedNotice } from '../ui.js';
 import { post, errMsg } from '../api.js';
 import { state } from '../state.js';
+import { clockWidget, startClocks } from '../clock.js';
 
 /** The left-hand brand panel and logo shared by the login, register and setup pages. */
-export const brandPanel = (title, text) => html`
+export const brandPanel = (title, text, withClock = false) => html`
   <div class="login-brand">
     <div class="logo-tile"><img src="assets/img/logo.png" alt="Sunshine Academy crest"></div>
     <h2>${title}</h2>
     <p>${text}</p>
+    ${withClock ? clockWidget('brand') : ''}
   </div>`;
 
 export default function renderLogin({ app, onSignedIn }) {
   mount(app, html`
     <div class="login">
-      ${brandPanel('Teacher Attendance', 'Mark, review and report teacher attendance for Sunshine Academy, all in one place.')}
+      ${brandPanel('Teacher Attendance', 'Mark, review and report teacher attendance for Sunshine Academy, all in one place.', true)}
       <div class="login-panel">
         <div class="login-box">
           <div class="login-logo"><img src="assets/img/logo.png" alt="Sunshine Academy crest"></div>
@@ -35,9 +37,11 @@ export default function renderLogin({ app, onSignedIn }) {
             <p class="login-alt">New teacher? <a class="link-btn" href="#/register">Create an account</a></p>
           </div>
         </div>
+        ${clockWidget('mobile')}
       </div>
     </div>`);
 
+  startClocks(app);
   const form = app.querySelector('#login-form');
   const formError = app.querySelector('#form-error');
   const button = app.querySelector('#login-btn');
