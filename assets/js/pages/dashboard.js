@@ -12,9 +12,34 @@ async function adminDashboard({ root }) {
   mount(root, html`
     ${pageHead('Dashboard', 'Attendance overview for today', html`<a class="btn btn-primary" href="#/mark-attendance">${ic('clipboard-check', 16)} Mark attendance</a>`)}
     <div id="pending"></div>
+    <div id="pending-leaves"></div>
     <div id="stats"></div>
     <section class="card mt"><div class="card-head"><h2>Today's Attendance</h2><span id="not-marked"></span></div><div id="today"></div></section>`);
   const stats = $('#stats', root), today = $('#today', root), notMarked = $('#not-marked', root), pending = $('#pending', root);
+  const pendingLeaves = $('#pending-leaves', root);
+
+  async function refreshPendingLeaves() {
+    if (!pendingLeaves?.isConnected) return;
+    if (document.visibilityState === 'hidden') return;
+    try {
+      const result = await get('/leave-requests', { status: 'pending', page: 1, limit: 1 });
+      const count = Number(result.pagination?.total) || 0;
+      mount(pendingLeaves, count > 0
+        ? html`<div class="notice"><span class="stat-icon tone-amber">${ic('calendar-check', 22)}</span>
+            <p><b>${count} teacher leave ${count === 1 ? 'request is' : 'requests are'} waiting for review.</b><br><span class="muted">Review pending leave requests before marking attendance.</span></p>
+            <a class="btn btn-primary btn-sm" href="#/leave-requests">Review leave requests</a></div>`
+        : html``);
+    } catch {
+      mount(pendingLeaves, html`<div class="notice"><span class="stat-icon tone-amber">${ic('calendar-check', 22)}</span>
+          <p><b>Pending leave requests could not be checked.</b><br><span class="muted">Open Leave Requests to review them.</span></p>
+          <a class="btn btn-secondary btn-sm" href="#/leave-requests">Open requests</a></div>`);
+    }
+  }
+  refreshPendingLeaves();
+  const leaveRefreshTimer = setInterval(() => {
+    if (!pendingLeaves?.isConnected) { clearInterval(leaveRefreshTimer); return; }
+    refreshPendingLeaves();
+  }, 30_000);
 
   async function load() {
     mount(stats, cardsSkeleton());
