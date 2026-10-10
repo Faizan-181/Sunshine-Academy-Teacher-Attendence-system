@@ -13,24 +13,20 @@ function clockFace() {
   });
   const numbers = Array.from({ length: 12 }, (_, index) => {
     const number = index || 12;
+    if (number % 3 !== 0) return '';
     const at = point(81, (index * 30 - 90) * Math.PI / 180);
-    const cardinal = number % 3 === 0;
-    return html`<text class="clock-number ${cardinal ? 'cardinal' : ''}" x="${at.x}" y="${at.y}" text-anchor="middle" dominant-baseline="central">${number}</text>`;
+    return html`<text class="clock-number cardinal" x="${at.x}" y="${at.y}" text-anchor="middle" dominant-baseline="central">${number}</text>`;
   });
 
   return html`<svg class="clock-dial" viewBox="0 0 240 240" role="img" aria-label="Sunshine Academy analog clock">
-    <circle class="clock-bezel" cx="120" cy="120" r="115" />
-    <circle class="clock-face" cx="120" cy="120" r="108" />
-    <circle class="clock-inner-ring" cx="120" cy="120" r="101" />
+    <circle class="clock-face" cx="120" cy="120" r="111" />
     ${ticks}
     ${numbers}
-    <g data-clock-hour class="clock-hand hour"><line x1="120" y1="127" x2="120" y2="75" /></g>
-    <g data-clock-minute class="clock-hand minute"><line x1="120" y1="130" x2="120" y2="48" /></g>
-    <g data-clock-second class="clock-hand second"><line x1="120" y1="137" x2="120" y2="36" /></g>
-    <rect class="clock-brand-plate" x="54" y="170" width="132" height="19" rx="9.5" />
-    <text class="clock-brand" x="120" y="183" text-anchor="middle">SUNSHINE ACADEMY</text>
-    <circle class="clock-pin-halo" cx="120" cy="120" r="8" />
-    <circle class="clock-pin" cx="120" cy="120" r="4.5" />
+    <g data-clock-hour class="clock-hand hour"><line x1="120" y1="126" x2="120" y2="76" /></g>
+    <g data-clock-minute class="clock-hand minute"><line x1="120" y1="127" x2="120" y2="49" /></g>
+    <g data-clock-second class="clock-hand second"><line x1="120" y1="135" x2="120" y2="38" /></g>
+    <text class="clock-brand" x="120" y="150" text-anchor="middle">SUNSHINE ACADEMY</text>
+    <circle class="clock-pin" cx="120" cy="120" r="5.5" />
   </svg>`;
 }
 
