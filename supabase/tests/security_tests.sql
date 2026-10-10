@@ -139,6 +139,31 @@ select tst.eq((select public.admin_set_teacher_status((select val::bigint from t
 select tst.denied($$select public.admin_set_teacher_status((select val::bigint from tst.ctx where key = 't1id'), 'admin')$$, 'status "admin" is not accepted');
 select tst.allowed($$select public.admin_set_teacher_status((select val::bigint from tst.ctx where key = 't3id'), 'inactive')$$, 'Sana set inactive again (used later)');
 
+-- ---------- Teacher leave requests and admin decisions ----------
+select tst.as_user('22222222-2222-2222-2222-222222222222');
+insert into tst.ctx values ('leave1', (public.teacher_create_leave(private.academy_today() + 10, private.academy_today() + 12, 'Family appointment') ->> 'id'));
+select tst.eq((select status from public.leave_requests where id = (select val::bigint from tst.ctx where key = 'leave1')), 'pending', 'teacher leave request starts pending');
+select tst.eq((select jsonb_array_length(public.list_leave_requests() -> 'data')::text), '1', 'teacher sees their own leave request');
+select tst.denied($$select public.teacher_create_leave(private.academy_today() + 11, private.academy_today() + 13, 'Overlapping dates')$$, 'teacher cannot submit overlapping leave dates');
+select tst.denied($$select public.admin_review_leave((select val::bigint from tst.ctx where key = 'leave1'), 'approved', '')$$, 'teacher cannot approve a leave request');
+select tst.as_user('33333333-3333-3333-3333-333333333333');
+insert into tst.ctx values ('leave2', (public.teacher_create_leave(private.academy_today() + 10, private.academy_today() + 12, 'Personal leave') ->> 'id'));
+select tst.eq((select jsonb_array_length(public.list_leave_requests() -> 'data')::text), '1', 'a second teacher sees only their own leave request');
+select tst.denied($$select public.teacher_cancel_leave((select val::bigint from tst.ctx where key = 'leave1'))$$, 'teacher cannot cancel another teacher request');
+select tst.as_user('22222222-2222-2222-2222-222222222222');
+select tst.allowed($$select public.teacher_cancel_leave((select val::bigint from tst.ctx where key = 'leave1'))$$, 'teacher can cancel their own pending request');
+select tst.eq((select status from public.leave_requests where id = (select val::bigint from tst.ctx where key = 'leave1')), 'cancelled', 'teacher cancellation is recorded');
+select tst.as_user('11111111-1111-1111-1111-111111111111');
+select tst.allowed($$select public.admin_review_leave((select val::bigint from tst.ctx where key = 'leave2'), 'approved', 'Approved for testing')$$, 'admin can approve a pending leave request');
+select tst.eq((select status from public.leave_requests where id = (select val::bigint from tst.ctx where key = 'leave2')), 'approved', 'admin decision is recorded');
+select tst.eq((select count(*)::text from public.attendance where teacher_id = (select val::bigint from tst.ctx where key = 't2id') and attendance_date between private.academy_today() + 10 and private.academy_today() + 12), '0', 'leave approval does not silently create or overwrite attendance');
+select tst.as_user('33333333-3333-3333-3333-333333333333');
+select set_config('tst.academy_now', (private.academy_today() + 10 + time '15:45')::text, true);
+select tst.denied($$select public.self_check_in()$$, 'teacher cannot self-check-in during approved leave');
+select tst.as_user('11111111-1111-1111-1111-111111111111');
+select tst.allowed($$select public.admin_review_leave((select val::bigint from tst.ctx where key = 'leave2'), 'cancelled', 'Plans changed')$$, 'admin can cancel an approved request');
+select tst.eq((select status from public.leave_requests where id = (select val::bigint from tst.ctx where key = 'leave2')), 'cancelled', 'cancellation of approval is recorded');
+
 -- ---------- attendance history for two teachers over three days ----------
 select tst.as_user('11111111-1111-1111-1111-111111111111');
 select tst.allowed($$select public.admin_save_attendance(private.academy_today() - 3, jsonb_build_array(
@@ -180,6 +205,8 @@ select tst.denied($$select * from private.setup_secret$$, 'T1 cannot read privat
 select tst.denied($$select private.audit(null, 'x', 'y', null, null, null)$$, 'T1 cannot write audit entries');
 -- direct writes with the teacher's own token
 select tst.denied($$update public.attendance set status = 'present'$$, 'T1 cannot UPDATE attendance directly');
+select tst.denied($$insert into public.leave_requests (teacher_id, start_date, end_date, reason) values ((select val::bigint from tst.ctx where key = 't1id'), private.academy_today() + 8, private.academy_today() + 8, 'Bypass')$$, 'T1 cannot INSERT leave requests directly');
+select tst.denied($$update public.leave_requests set status = 'approved'$$, 'T1 cannot UPDATE leave requests directly');
 select tst.denied($$update public.attendance set teacher_id = (select val::bigint from tst.ctx where key = 't2id')$$, 'T1 cannot move attendance to another teacher');
 select tst.denied($$insert into public.attendance (teacher_id, attendance_date, status) values ((select val::bigint from tst.ctx where key = 't1id'), private.academy_today() - 30, 'present')$$, 'T1 cannot INSERT (backdate) attendance directly');
 select tst.denied($$delete from public.attendance$$, 'T1 cannot DELETE attendance');

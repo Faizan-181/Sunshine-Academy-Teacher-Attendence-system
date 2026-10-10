@@ -352,6 +352,14 @@ textarea.input { resize: vertical; min-height: 84px; }
 .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 .login-alt { margin-top: 20px; text-align: center; font-size: 14px; color: var(--muted); }
 .badge-pending { background: var(--amber-light); color: var(--amber); }
+.badge-approved { background: var(--leaf-light); color: var(--leaf); }
+.badge-rejected { background: var(--red-light); color: var(--red); }
+.badge-cancelled { background: #f1f5f9; color: #475569; }
+.leave-info { align-items: flex-start; }
+.leave-info .icon { flex: 0 0 auto; margin-top: 2px; }
+.leave-table { min-width: 1040px; }
+.leave-reason, .leave-note { max-width: 260px; white-space: normal; overflow-wrap: anywhere; }
+.leave-actions { display: flex; flex-wrap: wrap; gap: 6px; min-width: 190px; }
 
 /* ---------- Teacher check-in ---------- */
 .today-main { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; }

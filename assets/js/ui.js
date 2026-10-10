@@ -112,7 +112,7 @@ export function confirmDialog({ title, message, confirmLabel = 'Confirm', varian
 }
 
 /* ---------- Small components ---------- */
-const STATUS_LABELS = { present: 'Present', absent: 'Absent', late: 'Late', leave: 'Leave', active: 'Active', inactive: 'Inactive', pending: 'Pending' };
+const STATUS_LABELS = { present: 'Present', absent: 'Absent', late: 'Late', leave: 'Leave', active: 'Active', inactive: 'Inactive', pending: 'Pending', approved: 'Approved', rejected: 'Rejected', cancelled: 'Cancelled' };
 export const badge = (status, title = '') =>
   html`<span class="badge badge-${status in STATUS_LABELS ? status : 'unmarked'}" ${title ? raw(`title="${esc(title)}"`) : ''}>${STATUS_LABELS[status] || 'Not marked'}</span>`;
 

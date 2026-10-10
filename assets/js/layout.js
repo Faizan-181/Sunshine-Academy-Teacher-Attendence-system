@@ -8,6 +8,7 @@ const ADMIN_LINKS = [
   ['/teachers', 'Teachers', 'users'],
   ['/mark-attendance', 'Mark Attendance', 'clipboard-check'],
   ['/attendance', 'Attendance History', 'history'],
+  ['/leave-requests', 'Leave Requests', 'calendar-check'],
   ['/reports', 'Reports', 'chart-column'],
   ['/profile', 'Profile', 'circle-user'],
   ['/settings', 'Settings', 'settings'],
@@ -15,6 +16,7 @@ const ADMIN_LINKS = [
 const TEACHER_LINKS = [
   ['/', 'Dashboard', 'layout-dashboard'],
   ['/my-attendance', 'My Attendance', 'calendar-check'],
+  ['/leave-requests', 'My Leave', 'calendar-check'],
   ['/profile', 'My Profile', 'circle-user'],
 ];
 

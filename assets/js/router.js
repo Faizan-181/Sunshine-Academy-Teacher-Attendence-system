@@ -12,6 +12,7 @@ const ROUTES = [
   { path: '/teachers/:id/edit', title: 'Edit Teacher', roles: ['admin'], load: () => import('./pages/teacher-form.js') },
   { path: '/mark-attendance', title: 'Mark Attendance', roles: ['admin'], load: () => import('./pages/mark-attendance.js') },
   { path: '/attendance', title: 'Attendance History', roles: ['admin'], load: () => import('./pages/history.js') },
+  { path: '/leave-requests', title: 'Leave Management', load: () => import('./pages/leave-requests.js') },
   { path: '/reports', title: 'Reports', roles: ['admin'], load: () => import('./pages/reports.js') },
   { path: '/settings', title: 'Settings', roles: ['admin'], load: () => import('./pages/settings.js') },
   { path: '/my-attendance', title: 'My Attendance', roles: ['teacher'], load: () => import('./pages/my-attendance.js') },

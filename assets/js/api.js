@@ -291,6 +291,18 @@ add('PUT', '/attendance/(\\d+)', (m, p, b) => rpc('admin_update_attendance', {
 add('POST', '/attendance/me/check-in', () => rpc('self_check_in'));
 add('POST', '/attendance/me/check-out', () => rpc('self_check_out'));
 
+// Leave requests (ownership, approval and date conflicts are enforced in PostgreSQL).
+add('GET', '/leave-requests', (m, p) => rpc('list_leave_requests', {
+  p_status: p.status || '', p_page: Number(p.page) || 1, p_limit: Number(p.limit) || 20,
+}));
+add('POST', '/leave-requests', (m, p, b) => rpc('teacher_create_leave', {
+  p_start_date: b.start_date, p_end_date: b.end_date, p_reason: b.reason,
+}));
+add('POST', '/leave-requests/(\\d+)/cancel', (m) => rpc('teacher_cancel_leave', { p_id: Number(m[1]) }));
+add('POST', '/leave-requests/(\\d+)/review', (m, p, b) => rpc('admin_review_leave', {
+  p_id: Number(m[1]), p_status: b.status, p_note: b.note || '',
+}));
+
 // ----- Reports, dashboards, settings, backups
 add('GET', '/reports/attendance', (m, p) => {
   const a = listArgs(p);
