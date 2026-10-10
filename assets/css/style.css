@@ -270,6 +270,8 @@ textarea.input { resize: vertical; min-height: 84px; }
 .academy-clock--profile { width: clamp(132px, 16vw, 154px); padding: 7px; border: 1px solid var(--line); border-radius: 18px; background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
 .admin-dashboard-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; margin-bottom: 24px; }
 .admin-dashboard-top .page-head { min-width: 0; margin: 0; }
+.teacher-dashboard-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; margin-bottom: 24px; }
+.teacher-dashboard-top .page-head { min-width: 0; margin: 0; }
 .login-card h1 { font-size: 26px; font-weight: 800; color: var(--navy-800); }
 .login-card .sub { margin-top: 4px; font-size: 14px; color: var(--muted); }
 .login-card form { display: flex; flex-direction: column; gap: 16px; margin-top: 24px; }
@@ -346,6 +348,8 @@ textarea.input { resize: vertical; min-height: 84px; }
 @media (max-width: 700px) {
   .admin-dashboard-top { grid-template-columns: 1fr; justify-items: start; }
   .academy-clock--admin { justify-self: center; width: min(100%, 190px); }
+  .teacher-dashboard-top { grid-template-columns: 1fr; justify-items: start; }
+  .academy-clock--profile { justify-self: center; width: min(42vw, 150px); }
   .profile-summary-row { grid-template-columns: 1fr; justify-items: center; }
   .profile-summary-row .profile-top { width: 100%; }
 }

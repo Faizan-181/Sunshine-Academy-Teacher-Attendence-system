@@ -113,7 +113,11 @@ function todayCard(d) {
 }
 
 async function teacherDashboard({ root }) {
-  mount(root, html`${pageHead(`Hello, ${state.user.name.split(' ')[0]}`, 'Your attendance at a glance')}<div id="body">${tableSkeleton(4, 4)}</div>`);
+  mount(root, html`<div class="teacher-dashboard-top">
+      ${pageHead(`Hello, ${state.user.name.split(' ')[0]}`, 'Your attendance at a glance')}
+      ${clockWidget('profile')}
+    </div><div id="body">${tableSkeleton(4, 4)}</div>`);
+  startClocks(root);
   const body = $('#body', root);
 
   async function load() {
