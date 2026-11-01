@@ -1,52 +1,4 @@
-import { html, mount, ic, pageHead, field, input, select, textarea, passwordControl, bindPasswordToggles, showFieldErrors, formValues, setLoading, toast, errorState, loading, $ } from '../ui.js';
-import { get, post, put, errMsg } from '../api.js';
-
-// The same rules the server uses, so people get instant feedback.
-function validate(v, isEdit) {
-  const e = {};
-  if (!/^[A-Za-z0-9-]{2,20}$/.test(v.teacher_id.trim())) e.teacher_id = 'Use letters, numbers and dashes only (2â€“20 characters).';
-  if (v.name.trim().length < 2) e.name = 'Enter the full name.';
-  if (!/^\S+@\S+\.\S+$/.test(v.email.trim())) e.email = 'Enter a valid email address.';
-  if (!/^[0-9+\-\s()]{7,20}$/.test(v.phone.trim())) e.phone = 'Enter a valid phone number.';
-  if (v.subject.trim().length < 2) e.subject = 'Enter the subject.';
-  if (!v.joining_date) e.joining_date = 'Choose the joining date.';
-  if (v.date_of_birth && v.joining_date && v.date_of_birth >= v.joining_date) e.date_of_birth = 'Date of birth must be before the joining date.';
-  if (!isEdit && v.password.length < 8) e.password = 'Password must be at least 8 characters.';
-  return e;
-}
-
-export default async function teacherForm({ root, params }) {
-  const isEdit = Boolean(params.id);
-  let t = { teacher_id: '', name: '', email: '', phone: '', subject: '', date_of_birth: '', joining_date: '', address: '', status: 'active' };
-
-  if (isEdit) {
-    mount(root, loading('Loading teacherâ€¦'));
-    try {
-      t = (await get(`/teachers/${params.id}`)).data;
-    } catch (error) {
-      mount(root, html`<div class="card">${errorState(errMsg(error, 'Unable to load this teacher. Please try again.'))}</div>`);
-      $('[data-retry]', root).addEventListener('click', () => location.reload());
-      return;
-    }
-  }
-
-  mount(root, html`
-    ${pageHead(isEdit ? 'Edit Teacher' : 'Add Teacher', html`Fields marked <b class="req">*</b> are required.`, html`<a class="btn btn-secondary" href="#/teachers">${ic('arrow-left', 16)} Back to teachers</a>`)}
-    <form id="teacher-form" class="stack" novalidate>
-      <section class="card"><div class="card-head"><h2>Teacher details</h2></div><div class="card-body form-grid">
-        ${field({ name: 'teacher_id', label: 'Teacher ID', required: true, control: input({ name: 'teacher_id', value: t.teacher_id, placeholder: 'e.g. T-001' }) })}
-        ${field({ name: 'name', label: 'Full name', required: true, control: input({ name: 'name', value: t.name, placeholder: 'e.g. Ayesha Khan' }) })}
-        ${field({ name: 'email', label: 'Email', required: true, hint: isEdit ? 'This is the teacher\'s login, so it cannot be changed here.' : 'The teacher signs in with this email address.', control: input({ name: 'email', type: 'email', value: t.email, placeholder: 'name@example.com', extra: isEdit ? 'readonly' : '' }) })}
-        ${field({ name: 'phone', label: 'Phone number', required: true, control: input({ name: 'phone', type: 'tel', value: t.phone, placeholder: 'e.g. 0300 1234567' }) })}
-        ${field({ name: 'subject', label: 'Subject', required: true, control: input({ name: 'subject', value: t.subject, placeholder: 'e.g. Mathematics' }) })}
-        ${field({ name: 'joining_date', label: 'Joining date', required: true, control: input({ name: 'joining_date', type: 'date', value: t.joining_date }) })}
-        ${field({ name: 'date_of_birth', label: 'Date of birth', control: input({ name: 'date_of_birth', type: 'date', value: t.date_of_birth }) })}
-        ${field({ name: 'status', label: 'Status', required: true, control: select({ name: 'status', value: t.status, options: [{ value: 'active', label: 'Active' }, { value: 'inactive', label: 'Inactive' }, ...(t.status === 'pending' ? [{ value: 'pending', label: 'Pending approval' }] : [])] }) })}
-        ${field({ name: 'address', label: 'Address', span: true, control: textarea({ name: 'address', value: t.address, placeholder: 'Street, city' }) })}
-      </div></section>
-      <section class="card"><div class="card-head"><h2>Sign-in details</h2></div><div class="card-body form-grid">
-        ${isEdit
-          ? html`<div class="span-2"><p class="muted" style="font-size:14px;margin-bottom:12px">${t.name} signs in with <b>${t.email}</b>. To give them a new password, send a password reset email.</p>
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐì¡Ñµ°°µ½Õ¹Ð°¥Œ°Á…•!•…°™¥•±°¥¹ÁÕÐ°Í•±•Ð°Ñ•áÑ…É•„°Á…ÍÍÝ½É‘½¹ÑÉ½°°‰¥¹‘A…ÍÍÝ½É‘Q½±•Ì°Í¡½Ý¥•±‘ÉÉ½ÉÌ°™½ÉµY…±Õ•Ì°Í•Ñ1½…‘¥¹œ°Ñ½…ÍÐ°•ÉÉ½ÉMÑ…Ñ”°±½…‘¥¹œ°€ô™É½´€œ¸¸½Õ¤¹©Ìœì4)¥µÁ½ÉÐì•Ð°Á½ÍÐ°ÁÕÐ°•ÉÉ5Íœô™É½´€œ¸¸½…Á¤¹©Ìœì4(4(¼¼Q¡”Í…µ”ÉÕ±•ÌÑ¡”Í•ÉÙ•ÈÕÍ•Ì°Í¼Á•½Á±”•Ð¥¹ÍÑ…¹Ð™••‘‰…¬¸4)™Õ¹Ñ¥½¸Ù…±¥‘…Ñ”¡Ø°¥Í‘¥Ð¤ì4(€½¹ÍÐ”€ôíôì4(€¥˜€ „½ymµi„µèÀ´äµuìÈ°ÈÁô¼¹Ñ•ÍÐ¡Ø¹Ñ•…¡•É}¥¹ÑÉ¥´ ¤¤¤”¹Ñ•…¡•É}¥€ô€UÍ”±•ÑÑ•ÉÌ°¹Õµ‰•ÉÌ…¹‘…Í¡•Ì½¹±ä€ ËŠLÈÀ¡…É…Ñ•ÉÌ¤¸œì4(€¥˜€¡Ø¹¹…µ”¹ÑÉ¥´ ¤¹±•¹Ñ €ð€È¤”¹¹…µ”€ô€¹Ñ•ÈÑ¡”™Õ±°¹…µ”¸œì4(€¥˜€ „½yqL­qL­p¹qL¬¼¹Ñ•ÍÐ¡Ø¹•µ…¥°¹ÑÉ¥´ ¤¤¤”¹•µ…¥°€ô€¹Ñ•È„Ù…±¥•µ…¥°…‘‘É•ÍÌ¸œì4(€¥˜€ „½ylÀ´ä­pµqÌ ¥uìÜ°ÈÁô¼¹Ñ•ÍÐ¡Ø¹Á¡½¹”¹ÑÉ¥´ ¤¤¤”¹Á¡½¹”€ô€¹Ñ•È„Ù…±¥Á¡½¹”¹Õµ‰•È¸œì4(€¥˜€¡Ø¹ÍÕ‰©•Ð¹ÑÉ¥´ ¤¹±•¹Ñ €ð€È¤”¹ÍÕ‰©•Ð€ô€¹Ñ•ÈÑ¡”ÍÕ‰©•Ð¸œì4(€¥˜€ …Ø¹©½¥¹¥¹}‘…Ñ”¤”¹©½¥¹¥¹}‘…Ñ”€ô€¡½½Í”Ñ¡”©½¥¹¥¹œ‘…Ñ”¸œì4(€¥˜€¡Ø¹‘…Ñ•}½™}‰¥ÉÑ €˜˜Ø¹©½¥¹¥¹}‘…Ñ”€˜˜Ø¹‘…Ñ•}½™}‰¥ÉÑ €øôØ¹©½¥¹¥¹}‘…Ñ”¤”¹‘…Ñ•}½™}‰¥ÉÑ €ô€…Ñ”½˜‰¥ÉÑ µÕÍÐ‰”‰•™½É”Ñ¡”©½¥¹¥¹œ‘…Ñ”¸œì4(€¥˜€¡Ø¹ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”€˜˜€„½x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åt¼¹Ñ•ÍÐ¡Ø¹ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”¤¤”¹ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”€ô€¡½½Í”„Ù…±¥ÍÑ…ÉÐÑ¥µ”¸œì4(€¥˜€¡Ø¹É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”€„ôô€œœ€˜˜€ „½yq¬¼¹Ñ•ÍÐ¡Ø¹É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”¤ñð9Õµ‰•È¡Ø¹É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”¤€ø€ÄÈÀ¤¤”¹É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”€ô€¹Ñ•È„Ý¡½±”¹Õµ‰•È½˜µ¥¹ÕÑ•Ì€ ÃŠLÄÈÀ¤°½È±•…Ù”‰±…¹¬™½ÈÑ¡”Í¡½½°‘•™…Õ±Ð¸œì4(€¥˜€¡Ø¹…ÕÑ½‰Í•¹Ñ5½‘”€ôôô€ÕÍÑ½´œ€˜˜€„½x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åt¼¹Ñ•ÍÐ¡Ø¹…ÕÑ½‰Í•¹ÑQ¥µ”ñð€œœ¤¤”¹…ÕÑ½‰Í•¹ÑQ¥µ”€ô€¡½½Í”„ÕÍÑ½´…‰Í•¹ÐÕÑ½™˜Ñ¥µ”¸œì4(€¥˜€ …¥Í‘¥Ð€˜˜Ø¹Á…ÍÍÝ½É¹±•¹Ñ €ð€à¤”¹Á…ÍÍÝ½É€ô€A…ÍÍÝ½ÉµÕÍÐ‰”…Ð±•…ÍÐ€à¡…É…Ñ•ÉÌ¸œì4(€É•ÑÕÉ¸”ì4)ô4(4)•áÁ½ÉÐ‘•™…Õ±Ð…Íå¹Œ™Õ¹Ñ¥½¸Ñ•…¡•É½É´¡ìÉ½½Ð°Á…É…µÌô¤ì4(€½¹ÍÐ¥Í‘¥Ð€ô	½½±•…¸¡Á…É…µÌ¹¥¤ì4(€±•ÐÐ€ôìÑ•…¡•É}¥è€œœ°¹…µ”è€œœ°•µ…¥°è€œœ°Á¡½¹”è€œœ°ÍÕ‰©•Ðè€œœ°‘…Ñ•}½™}‰¥ÉÑ è€œœ°©½¥¹¥¹}‘…Ñ”è€œœ°…‘‘É•ÍÌè€œœ°ÍÑ…ÑÕÌè€…Ñ¥Ù”œ°…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”è€œœ°…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ìè¹Õ±°°…ÕÑ½}…‰Í•¹Ñ}µ½‘”è€Í¡½½°œ°…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”è€œœôì4(4(€¥˜€¡¥Í‘¥Ð¤ì4(€€€µ½Õ¹Ð¡É½½Ð°±½…‘¥¹œ 1½…‘¥¹œÑ•…¡•ËŠ˜œ¤¤ì4(€€€ÑÉäì4(€€€€€Ð€ô€¡…Ý…¥Ð•Ð¡€½Ñ•…¡•ÉÌ¼‘íÁ…É…µÌ¹¥‘õ€¤¤¹‘…Ñ„ì4(€€€ô…Ñ €¡•ÉÉ½È¤ì4(€€€€€µ½Õ¹Ð¡É½½Ð°¡Ñµ±€ñ‘¥Ø±…ÍÌô‰…Éˆø‘í•ÉÉ½ÉMÑ…Ñ”¡•ÉÉ5Íœ¡•ÉÉ½È°€U¹…‰±”Ñ¼±½…Ñ¡¥ÌÑ•…¡•È¸A±•…Í”ÑÉä……¥¸¸œ¤¥ôð½‘¥Øù€¤ì4(€€€€€€ m‘…Ñ„µÉ•ÑÉåtœ°É½½Ð¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôø±½…Ñ¥½¸¹É•±½… ¤¤ì4(€€€€€É•ÑÕÉ¸ì4(€€€ô4(€ô4(4(€µ½Õ¹Ð¡É½½Ð°¡Ñµ±€4(€€€€‘íÁ…•!•…¡¥Í‘¥Ð€ü€‘¥ÐQ•…¡•Èœ€è€‘Q•…¡•Èœ°¡Ñµ±¥•±‘Ìµ…É­•€ñˆ±…ÍÌô‰É•Äˆø¨ð½ˆø…É”É•ÅÕ¥É•¹€°¡Ñµ±€ñ„±…ÍÌô‰‰Ñ¸‰Ñ¸µÍ•½¹‘…Éäˆ¡É•˜ôˆŒ½Ñ•…¡•ÉÌˆø‘í¥Œ …ÉÉ½Üµ±•™Ðœ°€ÄØ¥ô	…¬Ñ¼Ñ•…¡•ÉÌð½„ù€¥ô4(€€€€ñ™½É´¥ô‰Ñ•…¡•È·~¼¶‰žËkºwµçQ•Èè€”¹œ¸5…Ñ¡•µ…Ñ¥Ìœô¤ô¥ô4(€€€€€€€€‘í™¥•±¡ì¹…µ”è€©½¥¹¥¹}‘…Ñ”œ°±…‰•°è€)½¥¹¥¹œ‘…Ñ”œ°É•ÅÕ¥É•èÑÉÕ”°½¹ÑÉ½°è¥¹ÁÕÐ¡ì¹…µ”è€©½¥¹¥¹}‘…Ñ”œ°ÑåÁ”è€‘…Ñ”œ°Ù…±Õ”èÐ¹©½¥¹¥¹}‘…Ñ”ô¤ô¥ô4(€€€€€€€€‘í™¥•±¡ì¹…µ”è€‘…Ñ•}½™}‰¥ÉÑ œ°±…‰•°è€…Ñ”½˜‰¥ÉÑ œ°½¹ÑÉ½°è¥¹ÁÕÐ¡ì¹…µ”è€‘…Ñ•}½™}‰¥ÉÑ œ°ÑåÁ”è€‘…Ñ”œ°Ù…±Õ”èÐ¹‘…Ñ•}½™}‰¥ÉÑ ô¤ô¥ô4(€€€€€€€€‘í™¥•±¡ì¹…µ”è€ÍÑ…ÑÕÌœ°±…‰•°è€MÑ…ÑÕÌœ°É•ÅÕ¥É•èÑÉÕ”°½¹ÑÉ½°èÍ•±•Ð¡ì¹…µ”è€ÍÑ…ÑÕÌœ°Ù…±Õ”èÐ¹ÍÑ…ÑÕÌ°½ÁÑ¥½¹ÌèmìÙ…±Õ”è€…Ñ¥Ù”œ°±…‰•°è€Ñ¥Ù”œô°ìÙ…±Õ”è€¥¹…Ñ¥Ù”œ°±…‰•°è€%¹…Ñ¥Ù”œô°€¸¸¸¡Ð¹ÍÑ…ÑÕÌ€ôôô€Á•¹‘¥¹œœ€ümìÙ…±Õ”è€Á•¹‘¥¹œœ°±…‰•°è€A•¹‘¥¹œ…ÁÁÉ½Ù…°œõt€èmt¥tô¤ô¥ô4(€€€€€€€€‘í™¥•±¡ì¹…µ”è€…‘‘É•ÍÌœ°±…‰•°è€‘‘É•ÍÌœ°ÍÁ…¸èÑÉÕ”°½¹ÑÉ½°èÑ•áÑ…É•„¡ì¹…µ”è€…‘‘É•ÍÌœ°Ù…±Õ”èÐ¹…‘‘É•ÍÌ°Á±…•¡½±‘•Èè€MÑÉ••Ð°¥Ñäœô¤ô¥ô4(€€€€€€ð½‘¥Øøð½Í•Ñ¥½¸ø4(€€€€€€ñÍ•Ñ¥½¸±…ÍÌô‰…Éˆøñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ ÈùÑÑ•¹‘…¹”Í¡•‘Õ±”ð½ Èøð½‘¥Øøñ‘¥Ø±…ÍÌô‰…Éµ‰½‘äˆø4(€€€€€€€€ñÀ±…ÍÌô‰µÕÑ•ˆÍÑå±”ô‰™½¹ÐµÍ¥é”èÄÑÁàíµ…É¥¸èÀ€À€ÄÑÁàˆùM•ÐÑ¡¥ÌÑ•…¡•ËŠeÌ½Ý¸¡½ÕÉÌ°½È±•…Ù”ÍÑ…ÉÐ…¹É…”‰±…¹¬Ñ¼ÕÍ”Ñ¡”Í¡½½°‘•™…Õ±ÑÌ¸]••­±ä½™˜‘…åÌÍÑ¥±°™½±±½ÜÍ¡½½°Í•ÑÑ¥¹Ì¸ð½Àø4(€€€€€€€€ñ‘¥Ø±…ÍÌô‰™½É´µÉ¥ˆø4(€€€€€€€€€€‘í™¥•±¡ì¹…µ”è€ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”œ°±…‰•°è€Q•…¡•ÈÍÑ…ÉÐÑ¥µ”œ°¡¥¹Ðè€=ÁÑ¥½¹…°¸	±…¹¬ÕÍ•ÌÑ¡”Í¡½½°ÍÑ…ÉÐÑ¥µ”¸œ°½¹ÑÉ½°è¥¹ÁÕÐ¡ì¹…µ”è€ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”œ°ÑåÁ”è€Ñ¥µ”œ°Ù…±Õ”èÐ¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”ñð€œœô¤ô¥ô4(€€€€€€€€€€‘í™¥•±¡ì¹…µ”è€É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”œ°±…‰•°è€Q•…¡•ÈÉ…”Á•É¥½€¡µ¥¹ÕÑ•Ì¤œ°¡¥¹Ðè€=ÁÑ¥½¹…°¸	±…¹¬ÕÍ•ÌÑ¡”Í¡½½°É…”Á•É¥½¸œ°½¹ÑÉ½°è¥¹ÁÕÐ¡ì¹…µ”è€É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”œ°ÑåÁ”è€¹Õµ‰•Èœ°Ù…±Õ”èÐ¹…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì€üü€œœ°•áÑÉ„è€µ¥¸ôˆÀˆµ…àôˆÄÈÀˆÍÑ•ÀôˆÄˆ¥¹ÁÕÑµ½‘”ô‰¹Õµ•É¥Œˆœô¤ô¥ô4(€€€€€€€€€€‘í™¥•±¡ì¹…µ”è€…ÕÑ½‰Í•¹Ñ5½‘”œ°±…‰•°è€ÕÑ½µ…Ñ¥Œ…‰Í•¹ÐÉÕ±”œ°½¹ÑÉ½°èÍ•±•Ð¡ì¹…µ”è€…ÕÑ½‰Í•¹Ñ5½‘”œ°Ù…±Õ”èÐ¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”ñð€Í¡½½°œ°½ÁÑ¥½¹Ìèl4(€€€€€€€€€€€ìÙ…±Õ”è€Í¡½½°œ°±…‰•°è€UÍ”Í¡½½°Í•ÑÑ¥¹œœô°ìÙ…±Õ”è€ÕÍÑ½´œ°±…‰•°è€UÍ”„ÕÍÑ½´ÕÑ½™˜œô°ìÙ…±Õ”è€½™˜œ°±…‰•°è€=™˜™½ÈÑ¡¥ÌÑ•…¡•Èœô°4(€€€€€€€€€tô¤ô¥ô4(€€€€€€€€€€‘í™¥•±¡ì¹…µ”è€…ÕÑ½‰Í•¹ÑQ¥µ”œ°±…‰•°è€Q•…¡•È…‰Í•¹ÐÕÑ½™˜œ°¡¥¹Ðè€=¹±äÕÍ•Ý¥Ñ ƒŠqUÍ”„ÕÍÑ½´ÕÑ½™›Št¸œ°½¹ÑÉ½°è¥¹ÁÕÐ¡ì¹…µ”è€…ÕÑ½‰Í•¹ÑQ¥µ”œ°ÑåÁ”è€Ñ¥µ”œ°Ù…±Õ”èÐ¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”ñð€œœ°•áÑÉ„èÐ¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ôôô€ÕÍÑ½´œ€ü€œœ€è€‘¥Í…‰±•œô¤ô¥ô4(€€€€€€€€ð½‘¥Øø4(€€€€€€€€ñÀ±…ÍÌô‰¡¥¹Ðˆ¥ô‰Ñ•…¡•Èµ…‰Í•¹Ðµ¡¥¹ÐˆÍÑå±”ô‰µ…É¥¸µÑ½ÀèÄÉÁàˆøð½Àø4(€€€€€€ð½‘¥Øøð½Í•Ñ¥½¸ø4(€€€€€€ñÍ•Ñ¥½¸±…ÍÌô‰…Éˆøñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ ÈùM¥¸µ¥¸‘•Ñ…¥±Ìð½ Èøð½‘¥Øøñ‘¥Ø±…ÍÌô‰…Éµ‰½‘ä™½É´µÉ¥ˆø4(€€€€€€€€‘í¥Í‘¥Ð4(€€€€€€€€€€ü¡Ñµ±€ñ‘¥Ø±…ÍÌô‰ÍÁ…¸´ÈˆøñÀ±…ÍÌô‰µÕÑ•ˆÍÑå±”ô‰™½¹ÐµÍ¥é”èÄÑÁàíµ…É¥¸µ‰½ÑÑ½´èÄÈpx">${t.name} signs in with <b>${t.email}</b>. To give them a new password, send a password reset email.</p>
               <button type="button" class="btn btn-secondary" id="send-reset">${ic('mail', 16)} Send password reset email</button></div>`
           : field({ name: 'password', label: 'Password', required: true, hint: 'At least 8 characters.', control: passwordControl({ name: 'password' }) })}
       </div></section>
@@ -56,6 +8,18 @@ export default async function teacherForm({ root, params }) {
   const form = $('#teacher-form', root);
   bindPasswordToggles(root);
   if (!isEdit) form.elements.teacher_id.focus();
+  const updateAutoAbsent = () => {
+    const custom = form.elements.autoAbsentMode.value === 'custom';
+    form.elements.autoAbsentTime.disabled = !custom;
+    form.elements.autoAbsentTime.required = custom;
+    $('#teacher-absent-hint', root).textContent = custom
+      ? 'This teacher will be marked absent at or shortly after the custom cutoff.'
+      : form.elements.autoAbsentMode.value === 'off'
+        ? 'Automatic absent marking is disabled for this teacher.'
+        : 'This teacher follows the automatic absent cutoff in school settings.';
+  };
+  form.elements.autoAbsentMode.addEventListener('change', updateAutoAbsent);
+  updateAutoAbsent();
 
   $('#send-reset', root)?.addEventListener('click', async (e) => {
     const btn = e.currentTarget;

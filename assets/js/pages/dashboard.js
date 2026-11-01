@@ -1,110 +1,5 @@
-import { lateTitle, html, mount, ic, badge, emptyState, errorState, cardsSkeleton, tableSkeleton, statsSummary, statCard, pageHead, confirmDialog, toast, $, $$ } from '../ui.js';
-import { get, post, errMsg } from '../api.js';
-import { state } from '../state.js';
-import { formatDate, formatLongDate, formatTime } from '../format.js';
-import { attendanceEditModal } from '../components.js';
-import { clockWidget, startClocks } from '../clock.js';
-
-export default function dashboard(ctx) {
-  return state.user.role === 'admin' ? adminDashboard(ctx) : teacherDashboard(ctx);
-}
-
-async function adminDashboard({ root }) {
-  mount(root, html`
-    <div class="admin-dashboard-top">
-      ${pageHead('Dashboard', 'Attendance overview for today', html`<a class="btn btn-primary" href="#/mark-attendance">${ic('clipboard-check', 16)} Mark attendance</a>`)}
-      ${clockWidget('admin')}
-    </div>
-    <div id="pending"></div>
-    <div id="pending-leaves"></div>
-    <div id="stats"></div>
-    <section class="card mt"><div class="card-head"><h2>Today's Attendance</h2><span id="not-marked"></span></div><div id="today"></div></section>`);
-  startClocks(root);
-  const stats = $('#stats', root), today = $('#today', root), notMarked = $('#not-marked', root), pending = $('#pending', root);
-  const pendingLeaves = $('#pending-leaves', root);
-
-  async function refreshPendingLeaves() {
-    if (!pendingLeaves?.isConnected) return;
-    if (document.visibilityState === 'hidden') return;
-    try {
-      const result = await get('/leave-requests', { status: 'pending', page: 1, limit: 1 });
-      const count = Number(result.pagination?.total) || 0;
-      mount(pendingLeaves, count > 0
-        ? html`<div class="notice"><span class="stat-icon tone-amber">${ic('calendar-check', 22)}</span>
-            <p><b>${count} teacher leave ${count === 1 ? 'request is' : 'requests are'} waiting for review.</b><br><span class="muted">Review pending leave requests before marking attendance.</span></p>
-            <a class="btn btn-primary btn-sm" href="#/leave-requests">Review leave requests</a></div>`
-        : html``);
-    } catch {
-      mount(pendingLeaves, html`<div class="notice"><span class="stat-icon tone-amber">${ic('calendar-check', 22)}</span>
-          <p><b>Pending leave requests could not be checked.</b><br><span class="muted">Open Leave Requests to review them.</span></p>
-          <a class="btn btn-secondary btn-sm" href="#/leave-requests">Open requests</a></div>`);
-    }
-  }
-  refreshPendingLeaves();
-  const leaveRefreshTimer = setInterval(() => {
-    if (!pendingLeaves?.isConnected) { clearInterval(leaveRefreshTimer); return; }
-    refreshPendingLeaves();
-  }, 30_000);
-
-  async function load() {
-    mount(stats, cardsSkeleton());
-    mount(today, tableSkeleton(5, 7));
-    let data;
-    try {
-      data = await get('/dashboard/admin');
-    } catch (error) {
-      mount(stats, html``);
-      mount(today, errorState(errMsg(error, 'Unable to load the dashboard. Please try again.')));
-      $('[data-retry]', today).addEventListener('click', load);
-      return;
-    }
-
-    const s = data.stats;
-    mount(pending, s.pending > 0
-      ? html`<div class="notice"><span class="stat-icon tone-amber">${ic('user-plus', 22)}</span>
-          <p><b>${s.pending} ${s.pending === 1 ? 'teacher is' : 'teachers are'} waiting for approval.</b><br><span class="muted">They registered themselves and cannot sign in until you approve them.</span></p>
-          <a class="btn btn-primary btn-sm" href="#/teachers?status=pending">Review</a></div>`
-      : html``);
-    mount(stats, html`<div class="stat-grid">
-      ${statCard('users', 'Total Teachers', s.totalTeachers, 'navy')}
-      ${statCard('user-check', 'Present Today', s.present, 'leaf')}
-      ${statCard('user-x', 'Absent Today', s.absent, 'red')}
-      ${statCard('clock', 'Late Today', s.late, 'amber')}</div>`);
-    mount(notMarked, s.notMarked > 0
-      ? html`<a class="link-btn" href="#/mark-attendance">${s.notMarked} ${s.notMarked === 1 ? 'teacher' : 'teachers'} not marked yet</a>` : html``);
-
-    if (!data.todayAttendance.length) {
-      mount(today, emptyState({ icon: 'clipboard-list', title: 'No attendance has been marked today.', text: "Once you mark attendance, today's records will appear here.",
-        action: html`<a class="btn btn-primary" href="#/mark-attendance">${ic('clipboard-check', 16)} Mark attendance</a>` }));
-      return;
-    }
-    mount(today, html`<div class="table-scroll"><table class="table">
-      <thead><tr><th>Teacher ID</th><th>Teacher Name</th><th>Subject</th><th>Date</th><th>Check In</th><th>Check Out</th><th>Status</th><th class="right">Action</th></tr></thead>
-      <tbody>${data.todayAttendance.map((r, i) => html`<tr>
-        <td class="dim">${r.teacher.teacher_id}</td><td class="strong">${r.teacher.name}</td><td>${r.teacher.subject}</td>
-        <td class="nowrap">${formatDate(r.date)}</td><td class="nowrap">${formatTime(r.check_in)}</td><td class="nowrap">${formatTime(r.check_out)}</td>
-        <td>${badge(r.status, lateTitle(r))}</td>
-        <td><div class="actions">
-          <a class="icon-btn" href="#/teachers/${r.teacher.id}" aria-label="View teacher" title="View teacher">${ic('eye')}</a>
-          <button type="button" class="icon-btn" data-edit="${i}" aria-label="Edit attendance" title="Edit attendance">${ic('pencil')}</button></div></td></tr>`)}</tbody></table></div>`);
-    $$('[data-edit]', today).forEach((btn) => btn.addEventListener('click', () => attendanceEditModal(data.todayAttendance[btn.dataset.edit], load)));
-  }
-  await load();
-}
-
-/** What the teacher sees for today: a Check In button, a Check Out button, or the result. */
-function todayCard(d) {
-  const { today, rules } = d;
-  const hint = html`<p class="hint" style="margin-top:0">School starts at <b>${formatTime(rules.startTime)}</b>. Checking in after <b>${formatTime(rules.lateAfter)}</b> is marked Late.</p>`;
-
-  if (!today) {
-    return rules.selfCheckin
-      ? html`<div class="today-main"><div><p class="today-title">You have not checked in yet.</p>${hint}</div>
-          <button type="button" class="btn btn-primary btn-lg" id="check-in">${ic('log-in', 18)} Check In</button></div>`
-      : html`<p class="muted">Your attendance for today has not been marked yet. The administrator will mark it for you.</p>`;
-  }
-
-  const times = html`<p class="muted">Check in <b style="color:var(--ink)">${formatTime(today.check_in)}</b> Â· Check out <b style="color:var(--ink)">${formatTime(today.check_out)}</b></p>`;
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐì±…Ñ•Q¥Ñ±”°¡Ñµ°°µ½Õ¹Ð°¥Œ°‰…‘”°•µÁÑåMÑ…Ñ”°•ÉÉ½ÉMÑ…Ñ”°…É‘ÍM­•±•Ñ½¸°Ñ…‰±•M­•±•Ñ½¸°ÍÑ…ÑÍMÕµµ…Éä°ÍÑ…Ñ…É°Á…•!•…°½¹™¥Éµ¥…±½œ°Ñ½…ÍÐ°€°€ô™É½´€œ¸¸½Õ¤¹©Ìœì)¥µÁ½ÉÐì•Ð°Á½ÍÐ°•ÉÉ5Íœô™É½´€œ¸¸½…Á¤¹©Ìœì)¥µÁ½ÉÐìÍÑ…Ñ”ô™É½´€œ¸¸½ÍÑ…Ñ”¹©Ìœì)¥µÁ½ÉÐì™½Éµ…Ñ…Ñ”°™½Éµ…Ñ1½¹…Ñ”°™½Éµ…ÑQ¥µ”ô™É½´€œ¸¸½™½Éµ…Ð¹©Ìœì)¥µÁ½ÉÐì…ÑÑ•¹‘…¹•‘¥Ñ5½‘…°ô™É½´€œ¸¸½½µÁ½¹•¹ÑÌ¹©Ìœì)¥µÁ½ÉÐì±½­]¥‘•Ð°ÍÑ…ÉÑ±½­Ìô™É½´€œ¸¸½±½¬¹©Ìœì()•áÁ½ÉÐ‘•™…Õ±Ð™Õ¹Ñ¥½¸‘…Í¡‰½…É¡Ñà¤ì(€É•ÑÕÉ¸ÍÑ…Ñ”¹ÕÍ•È¹É½±”€ôôô€…‘µ¥¸œ€ü…‘µ¥¹…Í¡‰½…É¡Ñà¤€èÑ•…¡•É…Í¡‰½…É¡Ñà¤ì)ô()…Íå¹Œ™Õ¹Ñ¥½¸…‘µ¥¹…Í¡‰½…É¡ìÉ½½Ðô¤ì(€µ½Õ¹Ð¡É½½Ð°¡Ñµ±€(€€€€ñ‘¥Ø±…ÍÌô‰…‘µ¥¸µ‘…Í¡‰½…ÉµÑ½Àˆø(€€€€€€‘íÁ…•!•… …Í¡‰½…Éœ°€ÑÑ•¹‘…¹”½Ù•ÉÙ¥•Ü™½ÈÑ½‘…äœ°¡Ñµ±€ñ„±…ÍÌô‰‰Ñ¸‰Ñ¸µÁÉ¥µ…Éäˆ¡É•˜ôˆŒ½µ…É¬µ…ÑÑ•¹‘…¹”ˆø‘í¥Œ ±¥Á‰½…Éµ¡•¬œ°€ÄØ¥ô5…É¬…ÑÑ•¹‘…¹”ð½„ù€¥ô(€€€€€€‘í±½­]¥‘•Ð …‘µ¥¸œ¥ô(€€€€ð½‘¥Øø(€€€€ñ‘¥Ø¥ô‰Á•¹‘¥¹œˆøð½‘¥Øø(€€€€ñ‘¥Ø¥ô‰Á•¹‘¥¹œµ±•…Ù•Ìˆøð½‘¥Øø(€€€€ñ‘¥Ø¥ô‰ÍÑ…ÑÌˆøð½‘¥Øø(€€€€ñÍ•Ñ¥½¸±…ÍÌô‰…ÉµÐˆøñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ ÈùQ½‘…äÌÑÑ•¹‘…¹”ð½ ÈøñÍÁ…¸¥ô‰¹½Ðµµ…É­•ˆøð½ÍÁ…¸øð½‘¥Øøñ‘¥Ø¥ô‰Ñ½‘…äˆøð½‘¥Øøð½Í•Ñ¥½¸ù€¤ì(€ÍÑ…ÉÑ±½­Ì¡É½½Ð¤ì(€½¹ÍÐÍÑ…ÑÌ€ô€ œÍÑ…ÑÌœ°É½½Ð¤°Ñ½‘…ä€ô€ œÑ½‘…äœ°É½½Ð¤°¹½Ñ5…É­•€ô€ œ¹½Ðµµ…É­•œ°É½½Ð¤°Á•¹‘¥¹œ€ô€ œÁ•¹‘¥¹œœ°É½½Ð¤ì(€½¹ÍÐÁ•¹‘¥¹1•…Ù•Ì€ô€ œÁ•¹‘¥¹œµ±•…Ù•Ìœ°É½½Ð¤ì((€…Íå¹Œ™Õ¹Ñ¥½¸É•™É•Í¡A•¹‘¥¹1•…Ù•Ì ¤ì(€€€¥˜€ …Á•¹‘¥¹1•…Ù•Ìü¹¥Í½¹¹•Ñ•¤É•ÑÕÉ¸ì(€€€¥˜€¡‘½Õµ•¹Ð¹Ù¥Í¥‰¥±¥ÑåMÑ…Ñ”€ôôô€¡¥‘‘•¸œ¤É•ÑÕÉ¸ì(€€€ÑÉäì(€€€€€½¹ÍÐÉ•ÍÕ±Ð€ô…Ý…¥Ð•Ð œ½±•…Ù”µÉ•ÅÕ•ÍÑÌœ°ìÍÑ…ÑÕÌè€Á•¹‘¥¹œœ°Á…”è€Ä°±¥µ¥Ðè€Äô¤ì(€€€€€½¹ÍÐ½Õ¹Ð€ô9Õµ‰•È¡É•ÍÕ±Ð¹Á…¥¹…Ñ¥½¸ü¹Ñ½Ñ…°¤ñð€Àì(€€€€€µ½Õ¹Ð¡Á•¹‘¥¹1•…Ù•Ì°½Õ¹Ð€ø€À(€€€€€€€€ü¡Ñµ±€ñ‘¥Ø±…ÍÌô‰¹½Ñ¥”ˆøñÍÁ…¸±…ÍÌô‰ÍÑ…Ðµ¥½¸Ñ½¹”µ…µ‰•Èˆø‘í¥Œ …±•¹‘…Èµ¡•¬œ°€ÈÈ¥ôð½ÍÁ…¸ø(€€€€€€€€€€€€ñÀøñˆø‘í½Õ¹ÑôÑ•…¡•È±•…Ù”€‘í½Õ¹Ð€ôôô€Ä€ü€É•ÅÕ•ÍÐ¥Ìœ€è€É•ÅÕ•ÍÑÌ…É”ôÝ…¥Ñ¥¹œ™½ÈÉ•Ù¥•Ü¸ð½ˆøñ‰ÈøñÍÁ…¸±…ÍÌô‰µÕÑ•ˆùI•Ù¥•ÜÁ•¹‘¥¹œ±•…Ù”É•ÅÕ•ÍÑÌ‰•™½É”µ…É­¥¹œ…ÑÑ•¹‘…¹”¸ð½ÍÁ…¸øð½Àø(€€€€€€€€€€€€ñ„±…ÍÌô‰‰Ñ¸‰Ñ¸µÁÉ¥µ…Éä‰Ñ¸µÍ´ˆ¡É•˜ôˆŒ½±•…Ù”µÉ•ÅÕ•ÍÑÌˆùI•Ù¥•Ü±•…Ù”É•ÅÕ•ÍÑÌð½„øð½‘¥Øù€(€€€€€€€€è¡Ñµ±€¤ì(€€€ô…Ñ ì(€€€€€µ½Õ¹Ð¡Á•¹‘¥¹1•…Ù•Ì°¡Ñµ±€ñ‘¥Ø±…ÍÌô‰¹½Ñ¥”ˆøñÍÁ…¸±…ÍÌô‰ÍÑ…Ðµ¥½¸Ñ½¹”µ…µ‰•Èˆø‘í¥Œ …±•¹‘…Èµ¡•¬œ°€ÈÈ¥ôð½ÍÁ…¸ø(€€€€€€€€€€ñÀøñˆùA•¹‘¥¹œ±•…Ù”É•ÅÕ•ÍÑÌ½Õ±¹½Ð‰”¡•­•¸ð½ˆøñ‰ÈøñÍÁ…¸±…ÍÌô‰µÕÑ•ˆù=Á•¸1•…Ù”I•ÅÕ•ÍÑÌÑ¼É•Ù¥•ÜÑ¡•´¸ð½ÍÁ…¸øð½Àø(€€€€€€€€€€ñ„±…ÍÌô‰‰Ñ¸‰Ñ¸µÍ•½¹‘…Éä‰Ñ¸µÍ´ˆ¡É•˜ôˆŒ½±•…Ù”µÉ•ÅÕ•ÍÑÌˆù=Á•¸É•ÅÕ•ÍÑÌð½„øð½‘¥Øù€¤ì(€€€ô(€ô(€É•™É•Í¡A•¹‘¥¹1•…Ù•Ì ¤ì(€½¹ÍÐ±•…Ù•I•™É•Í¡Q¥µ•È€ôÍ•Ñ%¹Ñ•ÉÙ…°  ¤€ôøì(€€€¥˜€ …Á•¹‘¥¹1•…Ù•Ìü¹¥Í½¹¹•Ñ•¤ì±•…É%¹Ñ•ÉÙ…°¡±•…Ù•I•™É•Í¡Q¥µ•È¤ìÉ•ÑÕÉ¸ìô(€€€É•™É•Í¡A•¹‘¥¹1•…Ù•Ì ¤ì(€ô°€ÌÁ|ÀÀÀ¤ì((€…Íå¹Œ™Õ¹Ñ¥½¸³~¼¶‰žËkºwµçL¹…‰Í•¹Ð°€É•œ¥ô(€€€€€€‘íÍÑ…Ñ…É ±½¬œ°€1…Ñ”Q½‘…äœ°Ì¹±…Ñ”°€…µ‰•Èœ¥ôð½‘¥Øù€¤ì(€€€µ½Õ¹Ð¡¹½Ñ5…É­•°Ì¹¹½Ñ5…É­•€ø€À(€€€€€€ü¡Ñµ±€ñ„±…ÍÌô‰±¥¹¬µ‰Ñ¸ˆ¡É•˜ôˆŒ½µ…É¬µ…ÑÑ•¹‘…¹”ˆø‘íÌ¹¹½Ñ5…É­•‘ô€‘íÌ¹¹½Ñ5…É­•€ôôô€Ä€ü€Ñ•…¡•Èœ€è€Ñ•…¡•ÉÌô¹½Ðµ…É­•å•Ðð½„ù€€è¡Ñµ±€¤ì((€€€¥˜€ …‘…Ñ„¹Ñ½‘…åÑÑ•¹‘…¹”¹±•¹Ñ ¤ì(€€€€€µ½Õ¹Ð¡Ñ½‘…ä°•µÁÑåMÑ…Ñ”¡ì¥½¸è€±¥Á‰½…Éµ±¥ÍÐœ°Ñ¥Ñ±”è€9¼…ÑÑ•¹‘…¹”¡…Ì‰••¸µ…É­•Ñ½‘…ä¸œ°Ñ•áÐè€‰=¹”å½Ôµ…É¬…ÑÑ•¹‘…¹”°Ñ½‘…äÌÉ•½É‘ÌÝ¥±°…ÁÁ•…È¡•É”¸ˆ°(€€€€€€€…Ñ¥½¸è¡Ñµ±€ñ„±…ÍÌô‰‰Ñ¸‰Ñ¸µÁÉ¥µ…Éäˆ¡É•˜ôˆŒ½µ…É¬µ…ÑÑ•¹‘…¹”ˆø‘í¥Œ ±¥Á‰½…Éµ¡•¬œ°€ÄØ¥ô5…É¬…ÑÑ•¹‘…¹”ð½„ù€ô¤¤ì(€€€€€É•ÑÕÉ¸ì(€€€ô(€€€µ½Õ¹Ð¡Ñ½‘…ä°¡Ñµ±€ñ‘¥Ø±…ÍÌô‰Ñ…‰±”µÍÉ½±°ˆøñÑ…‰±”±…ÍÌô‰Ñ…‰±”ˆø(€€€€€€ñÑ¡•…øñÑÈøñÑ ùQ•…¡•È%ð½Ñ øñÑ ùQ•…¡•È9…µ”ð½Ñ øñÑ ùMÕ‰©•Ðð½Ñ øñÑ ù…Ñ”ð½Ñ øñÑ ù¡•¬%¸ð½Ñ øñÑ ù¡•¬=ÕÐð½Ñ øñÑ ùMÑ…ÑÕÌð½Ñ øñÑ ±…ÍÌô‰É¥¡ÐˆùÑ¥½¸ð½Ñ øð½ÑÈøð½Ñ¡•…ø(€€€€€€ñÑ‰½‘äø‘í‘…Ñ„¹Ñ½‘…åÑÑ•¹‘…¹”¹µ…À ¡È°¤¤€ôø¡Ñµ±€ñÑÈø(€€€€€€€€ñÑ±…ÍÌô‰‘¥´ˆø‘íÈ¹Ñ•…¡•È¹Ñ•…¡•É}¥‘ôð½ÑøñÑ±…ÍÌô‰ÍÑÉ½¹œˆø‘íÈ¹Ñ•…¡•È¹¹…µ•ôð½ÑøñÑø‘íÈ¹Ñ•…¡•È¹ÍÕ‰©•Ñôð½Ñø(€€€€€€€€ñÑ±…ÍÌô‰¹½ÝÉ…Àˆø‘í™½Éµ…Ñ…Ñ”¡È¹‘…Ñ”¥ôð½ÑøñÑ±…ÍÌô‰¹½ÝÉ…Àˆø‘í™½Éµ…ÑQ¥µ”¡È¹¡•­}¥¸¥ôð½ÑøñÑ±…ÍÌô‰¹½ÝÉ…Àˆø‘í™½Éµ…ÑQ¥µ”¡È¹¡•­}½ÕÐ¥ôð½Ñø(€€€€€€€€ñÑø‘í‰…‘”¡È¹ÍÑ…ÑÕÌ°±…Ñ•Q¥Ñ±”¡È¤¥ôð½Ñø(€€€€€€€€ñÑøñ‘¥Ø±…ÍÌô‰…Ñ¥½¹Ìˆø(€€€€€€€€€€ñ„±…ÍÌô‰¥½¸µ‰Ñ¸ˆ¡É•˜ôˆŒ½Ñ•…¡•ÉÌ¼‘íÈ¹Ñ•…¡•È¹¥‘ôˆ…É¥„µ±…‰•°ô‰Y¥•ÜÑ•…¡•ÈˆÑ¥Ñ±”ô‰Y¥•ÜÑ•…¡•Èˆø‘í¥Œ •å”œ¥ôð½„ø(€€€€€€€€€€ñ‰ÕÑÑ½¸ÑåÁ”ô‰‰ÕÑÑ½¸ˆ±…ÍÌô‰¥½¸µ‰Ñ¸ˆ‘…Ñ„µ•‘¥Ðôˆ‘í¥ôˆ…É¥„µ±…‰•°ô‰‘¥Ð…ÑÑ•¹‘…¹”ˆÑ¥Ñ±”ô‰‘¥Ð…ÑÑ•¹‘…¹”ˆø‘í¥Œ Á•¹¥°œ¥ôð½‰ÕÑÑ½¸øð½‘¥Øøð½Ñøð½ÑÈù€¥ôð½Ñ‰½‘äøð½Ñ…‰±”øð½‘¥Øù€¤ì(€€€€ m‘…Ñ„µ•‘¥Ñtœ°Ñ½‘…ä¤¹™½É…  ¡‰Ñ¸¤€ôø‰Ñ¸¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôø…ÑÑ•¹‘…¹•‘¥Ñ5½‘…°¡‘…Ñ„¹Ñ½‘…åÑÑ•¹‘…¹•m‰Ñ¸¹‘…Ñ…Í•Ð¹•‘¥Ñt°±½…¤¤¤ì(€ô(€…Ý…¥Ð±½… ¤ì)ô((¼¨¨]¡…ÐÑ¡”Ñ•…¡•ÈÍ••Ì™½ÈÑ½‘…äè„¡•¬%¸‰ÕÑÑ½¸°„¡•¬=ÕÐ‰ÕÑÑ½¸°½ÈÑ¡”É•ÍÕ±Ð¸€¨¼)™Õ¹Ñ¥½¸Ñ½‘…å…É¡¤ì(€½¹ÍÐìÑ½‘…ä°ÉÕ±•Ìô€ôì(€½¹ÍÐ¡¥¹Ð€ô¡Ñµ±€ñÀ±…ÍÌô‰¡¥¹ÐˆÍÑå±”ô‰µ…É¥¸µÑ½ÀèÀˆùe½ÕÈÝ½É­‘…äÍÑ…ÉÑÌ…Ð€ñˆø‘í™½Éµ…ÑQ¥µ”¡ÉÕ±•Ì¹ÍÑ…ÉÑQ¥µ”¥ôð½ˆø¸¡•­¥¹œ¥¸…™Ñ•È€ñˆø‘í™½Éµ…ÑQ¥µ”¡ÉÕ±•Ì¹±…Ñ•™Ñ•È¥ôð½ˆø¥Ìµ…É­•1…Ñ”¸ð½Àù€ì((€¥˜€ …Ñ½‘…ä¤ì(€€€É•ÑÕÉ¸ÉÕ±•Ì¹Í•±™¡•­¥¸(€€€€€€ü¡Ñµ±€ñ‘¥Ø±…ÍÌô‰Ñ½‘…äµµ…¥¸ˆøñ‘¥ØøñÀ±…ÍÌô‰Ñ½‘…äµÑ¥Ñ±”ˆùe½Ô¡…Ù”¹½Ð¡•­•¥¸å•Ð¸ð½Àø‘í¡¥¹Ñôð½‘¥Øø(€€€€€€€€€€ñ‰ÕÑÑ½¸ÑåÁ”ô‰‰ÕÑÑ½¸ˆ±…ÍÌô‰‰Ñ¸‰Ñ¸µÁÉ¥µ…Éä‰Ñ¸µ±œˆ¥ô‰¡•¬µ¥¸ˆø‘í¥Œ ±½œµ¥¸œ°€Äà¥ô¡•¬%¸ð½‰ÕÑÑ½¸øð½‘¥Øù€(€€€€€€è¡Ñµ±€ñÀ±…ÍÌô‰µÕÑ•ˆùe½ÕÈ…ÑÑ•¹‘…¹”™½ÈÑ½‘…ä¡…Ì¹½Ð‰••¸µ…É­•å•Ð¸Q¡”…‘µ¥¹¥ÍÑÉ…Ñ½ÈÝ¥±°µ…É¬¥Ð™½Èå½Ô¸ð½Àù€ì(€ô((€½¹ÍÐÑ¥µ•Ì€ô¡Ñµ±€ñÀ±…ÍÌô‰µÕÑ•ˆù¡•¬¥¸€ñˆÍÑå±”ô‰½±½ÈéÙ…È ´µ¥¹¬¤ˆø‘í™½Éµ…ÑQ¥µ”¡Ñ½‘…ä¹¡•­}¥¸¥ôð½ˆøƒ
+Ü¡•¬½ÕÐ€ñˆÍÑå±”ô‰½±½ÈéÙ…È ´µ¥¹¬¤ˆø${formatTime(today.check_out)}</b></p>`;
   const working = today.check_in && !today.check_out && rules.selfCheckin;
   return html`<div class="today-main"><div style="display:flex;flex-wrap:wrap;align-items:center;gap:12px">${badge(today.status, lateTitle(today))}${times}</div>
     ${working ? html`<button type="button" class="btn btn-navy btn-lg" id="check-out">${ic('log-out', 18)} Check Out</button>` : ''}</div>

@@ -1,6 +1,6 @@
 import { formatDate, MONTH_NAMES } from './format.js';
 
-const HEADERS = ['Teacher ID', 'Teacher', 'Subject', 'Working days', 'Present', 'Absent', 'Late', 'Leave', 'Attendance %'];
+const HEADERS = ['Teacher ID', 'Teacher', 'Subject', 'Working days', 'Present (incl. late)', 'Absent', 'Late (included in Present)', 'Leave', 'Attendance %'];
 const toRow = (r) => [r.teacher.teacher_id, r.teacher.name, r.teacher.subject, r.totalDays, r.present, r.absent, r.late, r.leave, `${r.percentage}%`];
 
 export const periodText = (p) => (p.from && p.to ? `${formatDate(p.from)} to ${formatDate(p.to)}` : 'All dates');
@@ -39,7 +39,7 @@ export async function exportPdf(report, name) {
   doc.setFontSize(10); doc.setTextColor(100, 112, 125);
   doc.text(`Period: ${periodText(report.period)}`, 14, 23);
   const t = report.totals;
-  doc.text(`Overall: ${t.present} present, ${t.absent} absent, ${t.late} late, ${t.leave} on leave - ${t.percentage}% attendance`, 14, 29);
+  doc.text(`Overall: ${t.present} present (includes ${t.late} late), ${t.absent} absent, ${t.leave} on leave - ${t.percentage}% attendance`, 14, 29);
   doc.autoTable({
     head: [HEADERS], body: report.rows.map(toRow), startY: 35,
     headStyles: { fillColor: [10, 53, 88], textColor: 255 }, alternateRowStyles: { fillColor: [246, 247, 244] }, styles: { fontSize: 9 },
@@ -53,7 +53,7 @@ export function downloadRowsCsv(headers, rows, name) {
   download(new Blob(['\uFEFF' + lines.join('\n')], { type: 'text/csv;charset=utf-8' }), name);
 }
 
-const YEAR_MONTH_HEAD = ['Month', 'Working days', 'Present', 'Absent', 'Late', 'Leave', 'Attendance %'];
+const YEAR_MONTH_HEAD = ['Month', 'Working days', 'Present (incl. late)', 'Absent', 'Late (included in Present)', 'Leave', 'Attendance %'];
 const monthRow = (m) => [MONTH_NAMES[m.month - 1], m.totalDays, m.present, m.absent, m.late, m.leave, `${m.percentage}%`];
 
 export function exportYearlyCsv(report, name) {
@@ -74,7 +74,7 @@ export async function exportYearlyPdf(report, name) {
   doc.setFontSize(18); doc.setTextColor(10, 53, 88);
   doc.text(`Sunshine Academy - Yearly Attendance Report ${report.year}`, 14, 16);
   doc.setFontSize(10); doc.setTextColor(100, 112, 125);
-  doc.text(`Whole year: ${t.present} present, ${t.absent} absent, ${t.late} late, ${t.leave} on leave - ${t.percentage}% attendance`, 14, 23);
+  doc.text(`Whole year: ${t.present} present (includes ${t.late} late), ${t.absent} absent, ${t.leave} on leave - ${t.percentage}% attendance`, 14, 23);
   const style = { headStyles: { fillColor: [10, 53, 88], textColor: 255 }, alternateRowStyles: { fillColor: [246, 247, 244] }, styles: { fontSize: 9 } };
   doc.autoTable({ head: [YEAR_MONTH_HEAD], body: report.months.map(monthRow), startY: 29, ...style });
   if (report.teachers.length) {
