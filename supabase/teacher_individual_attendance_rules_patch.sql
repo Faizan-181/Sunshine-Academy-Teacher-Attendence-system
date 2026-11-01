@@ -1,4 +1,408 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Ô´´AÉ½‘ÕÑ¥½¸µ¥É…Ñ¥½¸èÁ•ÈµÑ•…¡•È…ÑÑ•¹‘…¹”Í¡•‘Õ±”½Ù•ÉÉ¥‘•Ì¸)…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½±Õµ¸¥˜¹½Ð•á¥ÍÑÌ…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”Ñ¥µ”ì)…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½±Õµ¸¥˜¹½Ð•á¥ÍÑÌ…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì¥¹Ñ••Èì)…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½±Õµ¸¥˜¹½Ð•á¥ÍÑÌ…ÕÑ½}…‰Í•¹Ñ}µ½‘”Ñ•áÐ¹½Ð¹Õ±°‘•™…Õ±Ð€Í¡½½°œì)…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½±Õµ¸¥˜¹½Ð•á¥ÍÑÌ…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”Ñ¥µ”ì)‘¼€‰•¥¸(€¥˜¹½Ð•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´Á}½¹ÍÑÉ…¥¹ÐÝ¡•É”½¹É•±¥€ô€ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌœèéÉ•±…ÍÌ…¹½¹¹…µ”€ô€Ñ•…¡•ÉÍ}…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Í}¡•¬œ¤Ñ¡•¸(€€€…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½¹ÍÑÉ…¥¹ÐÑ•…¡•ÉÍ}…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Í}¡•¬(€€€€€¡•¬€¡…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì¥Ì¹Õ±°½È…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì‰•ÑÝ••¸€À…¹€ÄÈÀ¤ì(€•¹¥˜ì(€¥˜¹½Ð•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´Á}½¹ÍÑÉ…¥¹ÐÝ¡•É”½¹É•±¥€ô€ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌœèéÉ•±…ÍÌ…¹½¹¹…µ”€ô€Ñ•…¡•ÉÍ}…ÕÑ½}…‰Í•¹Ñ}µ½‘•}¡•¬œ¤Ñ¡•¸(€€€…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½¹ÍÑÉ…¥¹ÐÑ•…¡•ÉÍ}…ÕÑ½}…‰Í•¹Ñ}µ½‘•}¡•¬(€€€€€¡•¬€¡…ÕÑ½}…‰Í•¹Ñ}µ½‘”¥¸€ Í¡½½°œ°€ÕÍÑ½´œ°€½™˜œ¤¤ì(€•¹¥˜ì(€¥˜¹½Ð•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´Á}½¹ÍÑÉ…¥¹ÐÝ¡•É”½¹É•±¥€ô€ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌœèéÉ•±…ÍÌ…¹½¹¹…µ”€ô€Ñ•…¡•ÉÍ}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ•}µ½‘•}¡•¬œ¤Ñ¡•¸(€€€…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ…‘½¹ÍÑÉ…¥¹ÐÑ•…¡•ÉÍ}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ•}µ½‘•}¡•¬(€€€€€¡•¬€ ¡…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ô€ÕÍÑ½´œ¤€ô€¡…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¥Ì¹½Ð¹Õ±°¤¤ì(€•¹¥˜ì)•¹€ì(´´€à¸A•ÈµÑ•…¡•È…ÑÑ•¹‘…¹”Í¡•‘Õ±•Ì¸9U10ÍÑ…ÉÐ½É…”Ù…±Õ•Ì¥¹¡•É¥ÐÑ¡”Í¡½½°‘•™…Õ±ÑÌ¸(´´…ÕÑ½}…‰Í•¹Ñ}µ½‘”¥ÌÍ¡½½°°ÕÍÑ½´€¡É•ÅÕ¥É•Ì…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¤°½È½™˜¸)É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}ÍÑ…ÉÑ}Ñ¥µ”¡Á}Ñ•…¡•È‰¥¥¹Ð¤É•ÑÕÉ¹ÌÑ¥µ”)±…¹Õ…”ÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”°(€€€…Í”Ý¡•¸½…±•Í”¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í¡½½±}ÍÑ…ÉÐœ°€œÀàèÀÀœ¤°€œœ¤ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœ(€€€€€Ñ¡•¸ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í¡½½±}ÍÑ…ÉÐœ°€œÀàèÀÀœ¤èéÑ¥µ”•±Í”Ñ¥µ”€œÀàèÀÀœ•¹¤(€™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐÝ¡•É”Ð¹¥€ôÁ}Ñ•…¡•È(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}É…•}µ¥¹ÕÑ•Ì¡Á}Ñ•…¡•È‰¥¥¹Ð¤É•ÑÕÉ¹Ì¥¹Ñ••È)±…¹Õ…”ÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì°(€€€…Í”Ý¡•¸½…±•Í”¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ É…•}µ¥¹ÕÑ•Ìœ°€œÄÔœ¤°€œœ¤ø€ylÀ´åuìÄ°Íôœ(€€€€€€€€€€…¹ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ É…•}µ¥¹ÕÑ•Ìœ°€œÄÔœ¤èé¥¹Ñ••È‰•ÑÝ••¸€À…¹€ÄÈÀ(€€€€€Ñ¡•¸ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ É…•}µ¥¹ÕÑ•Ìœ°€œÄÔœ¤èé¥¹Ñ••È•±Í”€ÄÔ•¹¤(€™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐÝ¡•É”Ð¹¥€ôÁ}Ñ•…¡•È(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹½¹}Ñ¥µ•}±¥µ¥Ð¡Á}Ñ•…¡•È‰¥¥¹Ð¤É•ÑÕÉ¹Ì¥¹Ñ••È)±…¹Õ…”ÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð±•…ÍÐ¡ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}ÍÑ…ÉÑ}Ñ¥µ”¡Á}Ñ•…¡—~¼¶‰žËkºwµç@”€ØÀ¤èéÑ•áÐ°€È°€œÀœ¤°(€€€€Ñ¥µ•é½¹”œ°ÁÉ¥Ù…Ñ”¹……‘•µå}Ñè ¤°(€€€€…ÕÑ½‰Í•¹ÑQ¥µ”œ°½…±•Í”¡Ñ½}¡…È¡ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}…‰Í•¹Ñ}ÕÑ½™˜¡Á}Ñ•…¡•È¤°€! ÈÐé5$œ¤°€œœ¤°(€€€€Ý••­±å=™™…åÌœ°½…±•Í”  (€€€€€Í•±•Ð©Í½¹‰}…œ¡‘…äèé¥¹Ñ••È½É‘•È‰ä½É‘¥¹…°¤(€€€€€™É½´Õ¹¹•ÍÐ¡ÍÑÉ¥¹}Ñ½}…ÉÉ…ä¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Ý••­±å}½™™}‘…åÌœ°€œÀœ¤°€œ°œ¤¤Ý¥Ñ ½É‘¥¹…±¥Ñä…Ì‘…åÌ¡‘…ä°½É‘¥¹…°¤(€€€€¤°€mtœèé©Í½¹ˆ¤¤(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹¹½Éµ…±¥é•}Ñ•…¡•É}…ÑÑ•¹‘…¹•}ÉÕ±•Ì (€Á}ÉÕ±•Ì©Í½¹ˆ°(€Á}Í¡½½±}ÍÑ…ÉÐÑ•áÐ‘•™…Õ±Ð¹Õ±°°(€Á}Í¡½½±}É…”¥¹Ñ••È‘•™…Õ±Ð¹Õ±°°(€Á}Í¡½½±}ÕÑ½™˜Ñ•áÐ‘•™…Õ±Ð¹Õ±°(¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”Á±ÁÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}ÍÑ…ÉÐÑ¥µ”ì(€Ù}É…•}Ñ•áÐÑ•áÐì(€Ù}É…”¥¹Ñ••Èì(€Ù}µ½‘”Ñ•áÐì(€Ù}ÕÍÑ½µ}ÕÑ½™˜Ñ¥µ”ì(€Ù}•™™•Ñ¥Ù•}ÕÑ½™˜Ñ¥µ”ì(€Ù}Í¡½½±}ÍÑ…ÉÐÑ¥µ”ì(€Ù}Í¡½½±}É…”¥¹Ñ••Èì(€Ù}Í¡½½±}ÕÑ½™˜Ñ•áÐì(€Ù}•™™•Ñ¥Ù•}ÍÑ…ÉÐÑ¥µ”ì(€Ù}•™™•Ñ¥Ù•}É…”¥¹Ñ••Èì)‰•¥¸(€¥˜½…±•Í”¡©Í½¹‰}ÑåÁ•½˜¡Á}ÉÕ±•Ì¤°€¹Õ±°œ¤€ðø€½‰©•ÐœÑ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•ÈÙ…±¥Ñ•…¡•È…ÑÑ•¹‘…¹”ÉÕ±•Ì¸œ¤ì(€•¹¥˜ì((€Ù}Í¡½½±}ÍÑ…ÉÐ€èôÁÉ¥Ù…Ñ”¹Á…ÉÍ•}Ñ¥µ”¡½…±•Í”¡¹Õ±±¥˜¡Á}Í¡½½±}ÍÑ…ÉÐ°€œœ¤°ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í¡½½±}ÍÑ…ÉÐœ°€œÀàèÀÀœ¤¤°€Í¡½½±MÑ…ÉÐœ¤ì(€Ù}Í¡½½±}É…”€èô½…±•Í”¡Á}Í¡½½±}É…”°¹Õ±±¥˜¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ É…•}µ¥¹ÕÑ•Ìœ°€œÄÔœ¤°€œœ¤èé¥¹Ñ••È°€ÄÔ¤ì(€Ù}Í¡½½±}ÕÑ½™˜€èô…Í”Ý¡•¸Á}Í¡½½±}ÕÑ½™˜¥Ì¹Õ±°Ñ¡•¸ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°€œœ¤•±Í”Á}Í¡½½±}ÕÑ½™˜•¹ì((€Ù}ÍÑ…ÉÐ€èôÁÉ¥Ù…Ñ”¹Á…ÉÍ•}Ñ¥µ”¡¹Õ±±¥˜¡ÑÉ¥´¡½…±•Í”¡Á}ÉÕ±•Ì€´øø€ÍÑ…ÉÑQ¥µ”œ°€œœ¤¤°€œœ¤°€ÍÑ…ÉÑQ¥µ•=Ù•ÉÉ¥‘”œ¤ì(€Ù}É…•}Ñ•áÐ€èô¹Õ±±¥˜¡ÑÉ¥´¡½…±•Í”¡Á}ÉÕ±•Ì€´øø€É…•5¥¹ÕÑ•Ìœ°€œœ¤¤°€œœ¤ì(€¥˜Ù}É…•}Ñ•áÐ¥Ì¹½Ð¹Õ±°Ñ¡•¸(€€€¥˜Ù}É…•}Ñ•áÐ€…ø€ylÀ´åuìÄ°ÍôœÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•È„Ý¡½±”¹Õµ‰•È½˜µ¥¹ÕÑ•Ì€ À´ÄÈÀ¤°½È±•…Ù”‰±…¹¬™½ÈÑ¡”Í¡½½°‘•™…Õ±Ð¸œ°€É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”œ¤ì•¹¥˜ì(€€€Ù}É…”€èôÙ}É…•}Ñ•áÐèé¥¹Ñ••Èì(€€€¥˜Ù}É…”¹½Ð‰•ÑÝ••¸€À…¹€ÄÈÀÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•È„Ý¡½±”¹Õµ‰•È½˜µ¥¹ÕÑ•Ì€ À´ÄÈÀ¤°½È±•…Ù”‰±…¹¬™½ÈÑ¡”Í¡½½°‘•™…Õ±Ð¸œ°€É…•5¥¹ÕÑ•Í=Ù•ÉÉ¥‘”œ¤ì•¹¥˜ì(€•¹¥˜ì((€Ù}µ½‘”€èô½…±•Í”¡¹Õ±±¥˜¡ÑÉ¥´¡Á}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹Ñ5½‘”œ¤°€œœ¤°€Í¡½½°œ¤ì(€¥˜Ù}µ½‘”¹½Ð¥¸€ Í¡½½°œ°€ÕÍÑ½´œ°€½™˜œ¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„Ù…±¥…ÕÑ½µ…Ñ¥Œ…‰Í•¹ÐÉÕ±”¸œ°€…ÕÑ½‰Í•¹Ñ5½‘”œ¤ì(€•¹¥˜ì(€¥˜Ù}µ½‘”€ô€ÕÍÑ½´œÑ¡•¸(€€€Ù}ÕÍÑ½µ}ÕÑ½™˜€èôÁÉ¥Ù…Ñ”¹Á…ÉÍ•}Ñ¥µ”¡¹Õ±±¥˜¡ÑÉ¥´¡½…±•Í”¡Á}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹ÑQ¥µ”œ°€œœ¤¤°€œœ¤°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€€€¥˜Ù}ÕÍÑ½µ}ÕÑ½™˜¥Ì¹Õ±°Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„ÕÍÑ½´…‰Í•¹ÐÕÑ½™˜Ñ¥µ”¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì•¹¥˜ì(€€€Ù}•™™•Ñ¥Ù•}ÕÑ½™˜€èôÙ}ÕÍÑ½µ}ÕÑ½™˜ì(€•±Í¥˜Ù}µ½‘”€ô€Í¡½½°œÑ¡•¸(€€€Ù}•™™•Ñ¥Ù•|YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬ÕÕÑ½™˜€èôÁÉ¥Ù…Ñ”¹Á…ÉÍ•}Ñ¥µ”¡¹Õ±±¥˜¡ÑÉ¥´¡½…±•Í”¡Ù}Í¡½½±}ÕÑ½™˜°€œœ¤¤°€œœ¤°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€•¹¥˜ì((€Ù}•™™•Ñ¥Ù•}ÍÑ…ÉÐ€èô½…±•Í”¡Ù}ÍÑ…ÉÐ°Ù}Í¡½½±}ÍÑ…ÉÐ¤ì(€Ù}•™™•Ñ¥Ù•}É…”€èô½…±•Í”¡Ù}É…”°Ù}Í¡½½±}É…”¤ì(€¥˜Ù}•™™•Ñ¥Ù•}ÕÑ½™˜¥Ì¹½Ð¹Õ±°…¹ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}•™™•Ñ¥Ù•}ÕÑ½™˜¤€ðô±•…ÍÐ (€€€ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}•™™•Ñ¥Ù•}ÍÑ…ÉÐ¤€¬Ù}•™™•Ñ¥Ù•}É…”°€ÈÌ€¨€ØÀ€¬€Ôä(€€¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€Q¡”…‰Í•¹ÐÕÑ½™˜µÕÍÐ‰”±…Ñ•ÈÑ¡…¸Ñ¡¥ÌÑ•…¡•ËŠeÌÍÑ…ÉÐÑ¥µ”…¹É…”Á•É¥½¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€•¹¥˜ì((€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€…ÑÑ•¹‘…¹•MÑ…ÉÑQ¥µ”œ°½…±•Í”¡Ñ½}¡…È¡Ù}ÍÑ…ÉÐ°€! ÈÐé5$œ¤°€œœ¤°(€€€€…ÑÑ•¹‘…¹•É…•5¥¹ÕÑ•Ìœ°Ù}É…”°(€€€€…ÕÑ½‰Í•¹Ñ5½‘”œ°Ù}µ½‘”°(€€€€…ÕÑ½‰Í•¹ÑQ¥µ”œ°½…±•Í”¡Ñ½}¡…È¡Ù}ÕÍÑ½µ}ÕÑ½™˜°€! ÈÐé5$œ¤°€œœ¤(€€¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}©Í½¸¡ÐÁÕ‰±¥Œ¹Ñ•…¡•ÉÌ¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”ÍÅ°¥µµÕÑ…‰±”Í•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€¥œ°Ð¹¥°€Ñ•…¡•É}¥œ°Ð¹Ñ•…¡•É}¥°€¹…µ”œ°Ð¹¹…µ”°€•µ…¥°œ°Ð¹•µ…¥°°€Á¡½¹”œ°Ð¹Á¡½¹”°(€€€€ÍÕ‰©•Ðœ°Ð¹ÍÕ‰©•Ð°€‘…Ñ•}½™}‰¥ÉÑ œ°½…±•Í”¡Ñ½}¡…È¡Ð¹‘…Ñ•}½™}‰¥ÉÑ °€eeedµ54µœ¤°€œœ¤°(€€€€©½¥¹¥¹}‘…Ñ”œ°Ñ½}¡…È¡Ð¹©½¥¹¥¹}‘…Ñ”°€eeedµ54µœ¤°€±•…Ù¥¹}‘…Ñ”œ°½…±•Í”¡Ñ½}¡…È¡Ð¹±•…Ù¥¹}‘…Ñ”°€eeedµ54µœ¤°€œœ¤°(€€€€…‘‘É•ÍÌœ°Ð¹…‘‘É•ÍÌ°€ÍÑ…ÑÕÌœ°Ð¹ÍÑ…ÑÕÌ°(€€€€…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”œ°½…±•Í”¡Ñ½}¡…È¡Ð¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”°€! ÈÐé5$œ¤°€œœ¤°(€€€€…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ìœ°Ð¹…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì°(€€€€…ÕÑ½}…‰Í•¹Ñ}µ½‘”œ°Ð¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”°(€€€€…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°½…±•Í”¡Ñ½}¡…È¡Ð¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”°€! ÈÐé5$œ¤°€œœ¤°(€€€€É•…Ñ•‘}…Ðœ°Ð¹É•…Ñ•‘}…Ð°€ÕÁ‘…Ñ•‘}…Ðœ°Ð¹ÕÁ‘…Ñ•‘}…Ð¤(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹Ñ•…¡•ÉÍ}…Õ‘¥Ð ¤É•ÑÕÉ¹ÌÑÉ¥•È)±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}…Ñ¥½¸Ñ•áÐì(€Ù}½±©Í½¹ˆ€èô€íôœèé©Í½¹ˆì(€Ù}¹•Ü©Í½¹ˆ€èô€íôœèé©Í½¹ˆì(€Ù}Í•¹ÌÑ•áÑmt€èô€íôœì)‰•¥¸(€¥˜ÁÉ¥Ù…Ñ”¹¥Í}¥µÁ½ÉÑ¥¹œ ¤Ñ¡•¸É•ÑÕÉ¸¹•Üì•¹¥˜ì(€¥˜¹•Ü¹ÍÑ…ÑÕÌ¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹ÍÑ…ÑÕÌÑ¡•¸(€€€Ù}…Ñ¥½¸€èô…Í”(€€€€€Ý¡•¸½±¹ÍÑ…ÑÕÌ€ô€Á•¹‘¥¹œœ…¹¹•Ü¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œÑ¡•¸€Ñ•…¡•É}…ÁÁÉ½Ù•œ(€€€€€Ý¡•¸¹•Ü¹ÍÑ…ÑÕÌ€ô€É•©•Ñ•œÑ¡•¸€Ñ•…¡•É}É•©•Ñ•œ(€€€€€Ý¡•¸¹•Ü¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œÑ¡•¸€Ñ•…¡•É}…Ñ¥Ù…Ñ•œ(€€€€€Ý¡•¸¹•Ü¹ÍÑ…ÑÕÌ€ô€¥¹…Ñ¥Ù”œÑ¡•¸€Ñ•…¡•É}‘•…Ñ¥Ù…Ñ•œ(€€€€€•±Í”€Ñ•…¡•É}ÍÑ…ÑÕÍ}¡…¹•œ•¹ì(€€€Ù}½±€èôÙ}½±ñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð ÍÑ…ÑÕÌœ°½±¹ÍÑ…ÑÕÌ¤ì(€€€Ù}¹•Ü€èôÙ}¹•Üñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð ÍÑ…ÑÕÌœ°¹•Ü¹ÍÑ…ÑÕÌ¤ì(€•¹¥˜ì(€¥˜¹•Ü¹¹…µ”¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹¹…µ”Ñ¡•¸Ù}½±€èôÙ}½±ñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð ¹…µ”œ°½±¹¹…µ”¤ìÙ}¹•Ü€èôÙ}¹•Üñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð ¹…µ”œ°¹•Ü¹¹…µ”¤ì•¹¥˜ì(€¥˜¹•Ü¹Ñ•…¡•É}¥¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹Ñ•…¡•É}¥Ñ¡•¸Ù}½±€è÷~¼¶‰žËkºwµçyÑ}µ½‘”¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”Ñ¡•¸Ù}½±€èôÙ}½±ñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð …ÕÑ½}…‰Í•¹Ñ}µ½‘”œ°½±¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”¤ìÙ}¹•Ü€èôÙ}¹•Üñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð …ÕÑ½}…‰Í•¹Ñ}µ½‘”œ°¹•Ü¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”¤ì•¹¥˜ì(€¥˜¹•Ü¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”Ñ¡•¸Ù}½±€èôÙ}½±ñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°½±¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¤ìÙ}¹•Ü€èôÙ}¹•Üñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°¹•Ü¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¤ì•¹¥˜ì(€¥˜¹•Ü¹Á¡½¹”¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹Á¡½¹”Ñ¡•¸Ù}Í•¹Ì€èô…ÉÉ…å}…ÁÁ•¹¡Ù}Í•¹Ì°€Á¡½¹”œ¤ì•¹¥˜ì(€¥˜¹•Ü¹…‘‘É•ÍÌ¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹…‘‘É•ÍÌÑ¡•¸Ù}Í•¹Ì€èô…ÉÉ…å}…ÁÁ•¹¡Ù}Í•¹Ì°€…‘‘É•ÍÌœ¤ì•¹¥˜ì(€¥˜¹•Ü¹‘…Ñ•}½™}‰¥ÉÑ ¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹‘…Ñ•}½™}‰¥ÉÑ Ñ¡•¸Ù}Í•¹Ì€èô…ÉÉ…å}…ÁÁ•¹¡Ù}Í•¹Ì°€‘…Ñ•}½™}‰¥ÉÑ œ¤ì•¹¥˜ì(€¥˜Ù}¹•Ü€ô€íôœèé©Í½¹ˆ…¹…É‘¥¹…±¥Ñä¡Ù}Í•¹Ì¤€ô€ÀÑ¡•¸É•ÑÕÉ¸¹•Üì•¹¥˜ì(€¥˜…É‘¥¹…±¥Ñä¡Ù}Í•¹Ì¤€ø€ÀÑ¡•¸Ù}¹•Ü€èôÙ}¹•Üñð©Í½¹‰}‰Õ¥±‘}½‰©•Ð Í•¹Í¥Ñ¥Ù•}™¥•±‘Í}¡…¹•œ°Ñ½}©Í½¹ˆ¡Ù}Í•¹Ì¤¤ì•¹¥˜ì(€Á•É™½É´ÁÉ¥Ù…Ñ”¹…Õ‘¥Ð¡…ÕÑ ¹Õ¥ ¤°½…±•Í”¡Ù}…Ñ¥½¸°€Ñ•…¡•É}ÕÁ‘…Ñ•œ¤°€Ñ•…¡•Èœ°¹•Ü¹¥èéÑ•áÐ°Ù}½±°Ù}¹•Ü¤ì(€É•ÑÕÉ¸¹•Üì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹…ÑÑ•¹‘…¹•}‰•™½É•}ÝÉ¥Ñ” ¤É•ÑÕÉ¹ÌÑÉ¥•È)±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Í¡½½±}ÍÑ…ÉÐÑ•áÐì(€Ù}ÍÑ…ÉÐÑ¥µ”ì)‰•¥¸(€¥˜Ñ}½À€ô€UAQœ…¹€¡¹•Ü¹Ñ•…¡•É}¥¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹Ñ•…¡•É}¥½È¹•Ü¹…ÑÑ•¹‘…¹•}‘…Ñ”¥Ì‘¥ÍÑ¥¹Ð™É½´½±¹…ÑÑ•¹‘…¹•}‘…Ñ”¤Ñ¡•¸(€€€É…¥Í”•á•ÁÑ¥½¸€Q¡”Ñ•…¡•È…¹‘…Ñ”…¹¹½Ð‰”¡…¹•¸œÕÍ¥¹œ•ÉÉ½‘”€ô€APÐÀÀœì(€•¹¥˜ì(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}¥µÁ½ÉÑ¥¹œ ¤…¹¹•Ü¹…ÑÑ•¹‘…¹•}‘…Ñ”€øÁÉ¥Ù…Ñ”¹……‘•µå}Ñ½‘…ä ¤Ñ¡•¸(€€€É…¥Í”•á•ÁÑ¥½¸€e½Ô…¹¹½ÐÉ•½É…ÑÑ•¹‘…¹”™½È„™ÕÑÕÉ”‘…Ñ”¸œÕÍ¥¹œ•ÉÉ½‘”€ô€APÐÀÀœì(€•¹¥˜ì(€Ù}Í¡½½±}ÍÑ…ÉÐ€èô½…±•Í”¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í¡½½±}ÍÑ…ÉÐœ°€œÀàèÀÀœ¤°€œÀàèÀÀœ¤ì(€¥˜Ù}Í¡½½±}ÍÑ…ÉÐø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸Ù}ÍÑ…ÉÐ€èôÙ}Í¡½½±}ÍÑ…ÉÐèéÑ¥µ”ì•±Í”Ù}ÍÑ…ÉÐ€èôÑ¥µ”€œÀàèÀÀœì•¹¥˜ì(€Í•±•Ð½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”°Ù}ÍÑ…ÉÐ¤¥¹Ñ¼Ù}ÍÑ…ÉÐ™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐÝ¡•É”Ð¹¥€ô¹•Ü¹Ñ•…¡•É}¥ì(€¥˜¹•Ü¹ÍÑ…ÑÕÌ€ô€±…Ñ”œ…¹¹•Ü¹¡•­}¥¸¥Ì¹½Ð¹Õ±°Ñ¡•¸(€€€¹•Ü¹±…Ñ•}µ¥¹ÕÑ•Ì€èôÉ•…Ñ•ÍÐ À°ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡¹•Ü¹¡•­}¥¸¤€´ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}ÍÑ…ÉÐ¤¤ì(€•±Í”(€€€¹•Ü¹±…Ñ•}µ¥¹ÕÑ•Ì€èô€Àì(€•¹¥˜ì(€¹•Ü¹ÕÁ‘…Ñ•‘}‰ä€èô½…±•Í”¡…ÕÑ ¹Õ¥ ¤°¹•Ü¹ÕÁ‘…Ñ•‘}‰ä¤ì(€¥˜Ñ}½À€ô€%9MIPœÑ¡•¸¹•Ü¹É•…Ñ•‘}‰ä€èô½…±•Í”¡¹•Ü¹É•…Ñ•‘}‰ä°…ÕÑ ¹Õ¥ ¤¤ì•¹¥˜ì(€É•ÑÕÉ¸¹•Üì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÁÉ•¡•­}¹•Ý}Ñ•…¡•È (€Á}Ñ•…¡•É}¥Ñ•áÐ°Á}¹…µ”Ñ•áÐ°Á}•µ…¥°Ñ•áÐ°Á}Á¡½¹”Ñ•áÐ°Á}ÍÕ‰©•ÐÑ•áÐ°(€Á}‘…Ñ•}½™}‰¥ÉÑ Ñ•áÐ°Á}©½¥¹¥¹}‘…Ñ”Ñ•áÐ°Á}…‘‘É•ÍÌÑ•áÐ°Á}ÍÑ…ÑÕÌÑ•áÐ°(€Á}…ÑÑ•¹‘…¹•}ÉÕ±•Ì©Í½¹ˆ(¤É•ÑÕÉ¹Ì‰½¼YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Õ±•…¸±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”Ø©Í½¹ˆìÙ}ÉÕ±•Ì©Í½¹ˆìÙ}•µ…¥°Ñ•áÐ€èô±½Ý•È¡ÑÉ¥´¡½…±•Í”¡Á}•µ…¥°°€œœ¤¤¤ì)‰•¥¸(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}…‘µ¥¸ ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½Ô‘½»ŠeÐ¡…Ù”Á•Éµ¥ÍÍ¥½¸Ñ¼‘¼Ñ¡…Ð¸œ¤ì•¹¥˜ì(€¥˜Ù}•µ…¥°€…ø¨€ymyléÍÁ…”éut­myléÍÁ…”éut­p¹myléÍÁ…”éut¬œ½È¡…É}±•¹Ñ ¡Ù}•µ…¥°¤€ø€ÄÈÀÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•È„Ù…±¥•µ…¥°…‘‘É•ÍÌ¸œ°€•µ…¥°œ¤ì•¹¥˜ì(€Ø€èôÁÉ¥Ù…Ñ”¹Ù…±¥‘…Ñ•}Ñ•…¡•É}¥¹ÁÕÐ¡Á}Ñ•…¡•É}¥°Á}¹…µ”°Á}Á¡½¹”°Á}ÍÕ‰©•Ð°Á}‘…Ñ•}½™}‰¥ÉÑ °Á}©½¥¹¥¹}‘…Ñ”°Á}…‘‘É•ÍÌ°½…±•Í”¡¹Õ±±¥˜¡Á}ÍÑ…ÑÕÌ°€œœ¤°€…Ñ¥Ù”œ¤¤ì(€¥˜Ø€´øø€ÍÑ…ÑÕÌœ¹½Ð¥¸€ …Ñ¥Ù”œ°€¥¹…Ñ¥Ù”œ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„ÍÑ…ÑÕÌ¸œ°€ÍÑ…ÑÕÌœ¤ì•¹¥˜ì(€Ù}ÉÕ±•Ì€èôÁÉ¥Ù…Ñ”¹¹½Éµ…±¥é•}Ñ•…¡•É}…ÑÑ•¹‘…¹•}ÉÕ±•Ì¡Á}…ÑÑ•¹‘…¹•}ÉÕ±•Ì¤ì(€¥˜•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐÝ¡•É”Ð¹Ñ•…¡•É}¥€ôØ€´øø€Ñ•…¡•É}¥œ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€Q¡¥ÌQ•…¡•È%¥Ì…±É•…‘ä¥¸ÕÍ”¸œ°€Ñ•…¡•É}¥œ¤ì•¹¥˜ì(€¥˜•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐÝ¡•É”±½Ý•È¡Ð¹•µ…¥°¤€ôÙ}•µ…¥°¤½È•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´…ÕÑ ¹ÕÍ•ÉÌÔÝ¡•É”±½Ý•È¡Ô¹•µ…¥°¤€ôÙ}•µ…¥°¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€Q¡¥Ì•µ…¥°¥Ì…±É•…‘ä¥¸ÕÍ”¸œ°€•µ…¥°œ¤ì•¹¥˜ì(€É•ÑÕÉ¸ÑÉÕ”ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÕÁ‘…Ñ•}Ñ•…¡•È (€Á}¥‰¥¥¹Ð°Á}Ñ•…¡•É}¥Ñ•áÐ°Á}¹…µ”Ñ•áÐ°Á}Á¡½¹”Ñ•áÐ°Á}ÍÕ‰©•ÐÑ•áÐ°(€Á}‘…Ñ•}½™}‰¥ÉÑ Ñ•áÐ°Á}©½¥¹¥¹}‘…Ñ”Ñ•áÐ°Á}…‘‘É•ÍÌÑ•áÐ°Á}ÍÑ…ÑÕÌÑ•áÐ°(€Á}…ÑÑ•¹‘…¹•}ÉÕ±•Ì©Í½¹ˆ(¤É•ÑÕÉ¹Ì©Í½¹ˆ±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”Ø©Í½¹ˆìÙ}ÉÕ±•Ì©Í½¹ˆìÙ}ÐÁÕ‰±¥Œ¹Ñ•…¡•ÉÌì)‰•¥¸(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}…‘µ¥¸ ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½Ô‘½»ŠeÐ¡…Ù”Á•Éµ¥ÍÍ¥½¸Ñ¼‘¼Ñ¡…Ð¸œ¤ì•¹¥˜ì(€Ø€èôÁÉ¥Ù…Ñ”¹Ù…±¥‘…Ñ•}Ñ•…¡•É}¥¹ÁÕÐ¡Á}Ñ•…¡•É}¥°Á}¹…µ”°Á}Á¡½¹”°Á}ÍÕ‰©•Ð°Á}‘…Ñ•}½™}‰¥ÉÑ °Á}©½¥¹¥¹}‘…Ñ”°Á}…‘‘É•ÍÌ°Á}ÍÑ…ÑÕÌ¤ì(€Ù}ÉÕ±•Ì€èôÁÉ¥Ù…Ñ”¹¹½Éµ…±¥é•}Ñ•…¡•É}…ÑÑ•¹‘…¹•}ÉÕ±•Ì¡Á}…ÑÑ•¹‘…¹•}ÉÕ±•Ì¤ì(€‰•¥¸(€€€ÕÁ‘…Ñ”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÍ•Ð(€€€€€Ñ•…¡•É}¥€ôØ€´øø€Ñ•…¡•É}¥œ°¹…µ”€ôØ€´øø€¹…µ”œ°Á¡½¹”€ôØ€´øø€Á¡½¹”œ°ÍÕ‰©•Ð€ôØ€´øø€ÍÕ‰©•Ðœ°(€€€€€‘…Ñ•}½™}‰¥ÉÑ €ô¹Õ±±¥˜¡Ø€´øø€‘…Ñ•}½™}‰¥ÉÑ œ°€œœ¤èé‘…Ñ”°©½¥¹¥¹}‘…Ñ”€ô€¡Ø€´øø€©½¥¹¥¹}‘…Ñ”œ¤èé‘…Ñ”°(€€€€€…‘‘É•ÍÌ€ôØ€´øø€…‘‘É•ÍÌœ°ÍÑ…ÑÕÌ€ôØ€´øø€ÍÑ…ÑÕÌœ°(€€€€€…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÑÑ•¹‘…¹•MÑ…ÉÑQ¥µ”œ°€œœ¤èéÑ¥µ”°(€€€€€…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÑÑ•¹‘…¹•É…•5¥¹ÕÑ•Ìœ°€œœ¤èé¥¹Ñ••È°(€€€€€…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ôÙ}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹Ñ5½‘”œ°(€€€€€…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹ÑQ¥µ”œ°€œœ¤èéÑ¥µ”(€€€Ý¡•É”¥€ôÁ}¥É•ÑÕÉ¹¥¹œ€¨¥¹Ñ¼Ù}Ðì(€•á•ÁÑ¥½¸Ý¡•¸Õ¹¥ÅÕ•}Ù¥½±…Ñ¥½¸Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€Q¡¥ÌQ•…¡•È%¥Ì…±É•…‘ä¥¸ÕÍ”¸œ°€Ñ—~¼¶‰žËkºwµçdì(€Í•±•Ð¥¥¹Ñ¼Ù}¥™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÝ¡•É”…ÕÑ¡}ÕÍ•É}¥€ôÁ}…ÕÑ¡}ÕÍ•É}¥…¹ÍÑ…ÑÕÌ€ô€Á•¹‘¥¹œœ™½ÈÕÁ‘…Ñ”ì(€¥˜Ù}¥¥Ì¹Õ±°Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€]”½Õ±¹½Ð™¥¹¥Í É•…Ñ¥¹œÑ¡¥ÌÑ•…¡•È¸A±•…Í”¡•¬Ñ¡”Q•…¡•ÉÌÁ…”¸œ¤ì•¹¥˜ì(€‰•¥¸(€€€ÕÁ‘…Ñ”ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÍ•Ð(€€€€€Ñ•…¡•É}¥€ôØ€´øø€Ñ•…¡•É}¥œ°¹…µ”€ôØ€´øø€¹…µ”œ°Á¡½¹”€ôØ€´øø€Á¡½¹”œ°ÍÕ‰©•Ð€ôØ€´øø€ÍÕ‰©•Ðœ°(€€€€€‘…Ñ•}½™}‰¥ÉÑ €ô¹Õ±±¥˜¡Ø€´øø€‘…Ñ•}½™}‰¥ÉÑ œ°€œœ¤èé‘…Ñ”°©½¥¹¥¹}‘…Ñ”€ô€¡Ø€´øø€©½¥¹¥¹}‘…Ñ”œ¤èé‘…Ñ”°(€€€€€…‘‘É•ÍÌ€ôØ€´øø€…‘‘É•ÍÌœ°ÍÑ…ÑÕÌ€ôØ€´øø€ÍÑ…ÑÕÌœ°(€€€€€…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÑÑ•¹‘…¹•MÑ…ÉÑQ¥µ”œ°€œœ¤èéÑ¥µ”°(€€€€€…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÑÑ•¹‘…¹•É…•5¥¹ÕÑ•Ìœ°€œœ¤èé¥¹Ñ••È°(€€€€€…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ôÙ}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹Ñ5½‘”œ°(€€€€€…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”€ô¹Õ±±¥˜¡Ù}ÉÕ±•Ì€´øø€…ÕÑ½‰Í•¹ÑQ¥µ”œ°€œœ¤èéÑ¥µ”(€€€Ý¡•É”¥€ôÙ}¥É•ÑÕÉ¹¥¹œ€¨¥¹Ñ¼Ù}Ðì(€•á•ÁÑ¥½¸Ý¡•¸Õ¹¥ÅÕ•}Ù¥½±…Ñ¥½¸Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€Q¡¥ÌQ•…¡•È%¥Ì…±É•…‘ä¥¸ÕÍ”¸œ°€Ñ•…¡•É}¥œ¤ì(€•¹ì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð µ•ÍÍ…”œ°€Q•…¡•È…‘‘•ÍÕ•ÍÍ™Õ±±ä¸œ°€‘…Ñ„œ°ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}©Í½¸¡Ù}Ð¤¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÕÁ‘…Ñ•}…ÑÑ•¹‘…¹•}ÉÕ±•Ì (€Á}ÍÑ…ÉÑ}Ñ¥µ”Ñ•áÐ°Á}É…•}µ¥¹ÕÑ•Ì¥¹Ñ••È°Á}Í•±™}¡•­¥¸‰½½±•…¸°(€Á}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”Ñ•áÐ°Á}Ý••­±å}½™™}‘…åÌ¥¹Ñ••Émt(¤É•ÑÕÉ¹Ì©Í½¹ˆ±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Õ¥ÕÕ¥€èô…ÕÑ ¹Õ¥ ¤ì(€Ù}ÕÑ½™˜Ñ•áÐ€èô½…±•Í”¡Á}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”°€œœ¤ì(€Ù}‘…åÌ¥¹Ñ••Émtì(€Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì¥¹Ñ••Èì)‰•¥¸(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}…‘µ¥¸ ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½Ô‘½»ŠeÐ¡…Ù”Á•Éµ¥ÍÍ¥½¸Ñ¼‘¼Ñ¡…Ð¸œ¤ì•¹¥˜ì(€¥˜½…±•Í”¡Á}ÍÑ…ÉÑ}Ñ¥µ”°€œœ¤€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”Ñ¡”Ñ¥µ”Í¡½½°ÍÑ…ÉÑÌ¸œ°€ÍÑ…ÉÑQ¥µ”œ¤ì•¹¥˜ì(€¥˜Á}É…•}µ¥¹ÕÑ•Ì¥Ì¹Õ±°½ÈÁ}É…•}µ¥¹ÕÑ•Ì¹½Ð‰•ÑÝ••¸€À…¹€ÄÈÀÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•È„Ý¡½±”¹Õµ‰•È½˜µ¥¹ÕÑ•Ì€ À´ÄÈÀ¤¸œ°€É…•5¥¹ÕÑ•Ìœ¤ì•¹¥˜ì(€¥˜Ù}ÕÑ½™˜€ðø€œœ…¹Ù}ÕÑ½™˜€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„Ù…±¥…ÕÑ½µ…Ñ¥Œ…‰Í•¹ÐÑ¥µ”¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì•¹¥˜ì(€¥˜Á}Ý••­±å}½™™}‘…åÌ¥Ì¹Õ±°½È•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´Õ¹¹•ÍÐ¡Á}Ý••­±å}½™™}‘…åÌ¤Ý¡•É”€ð€À½È€ø€Ø¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”Ù…±¥Ý••­±ä½™˜‘…åÌ¸œ¤ì•¹¥˜ì(€Í•±•Ð½…±•Í”¡…ÉÉ…å}…œ¡‘…ä½É‘•È‰ä‘…ä¤°…ÉÉ…åmtèé¥¹Ñ••Émt¤¥¹Ñ¼Ù}‘…åÌ(€€€™É½´€¡Í•±•Ð‘¥ÍÑ¥¹Ð…Ì‘…ä™É½´Õ¹¹•ÍÐ¡Á}Ý••­±å}½™™}‘…åÌ¤¤¡½¥•Ìì((€¥˜Ù}ÕÑ½™˜€ðø€œœÑ¡•¸(€€€Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì€èôÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}ÕÑ½™˜èéÑ¥µ”¤ì(€€€¥˜Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì€ðô±•…ÍÐ¡ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Á}ÍÑ…ÉÑ}Ñ¥µ”èéÑ¥µ”¤€¬Á}É…•}µ¥¹ÕÑ•Ì°€ÈÌ€¨€ØÀ€¬€Ôä¤Ñ¡”YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Õ¸(€€€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„Ñ¥µ”±…Ñ•ÈÑ¡…¸Ñ¡”Í¡½½°±…Ñ”Ñ¡É•Í¡½±¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€€€•¹¥˜ì(€•¹¥˜ì(€¥˜•á¥ÍÑÌ€ (€€€Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ(€€€Ý¡•É”Ð¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œ…¹Ð¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ô€ÕÍÑ½´œ(€€€€€…¹ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ð¹…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”¤€ðô±•…ÍÐ (€€€€€€€ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”°Á}ÍÑ…ÉÑ}Ñ¥µ”èéÑ¥µ”¤¤(€€€€€€€€€€¬½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì°Á}É…•}µ¥¹ÕÑ•Ì¤°€ÈÌ€¨€ØÀ€¬€Ôä¤(€€¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€Q¡”¹•ÜÍ¡½½°¡½ÕÉÌÝ½Õ±µ…­”„ÕÍÑ½´Ñ•…¡•È…‰Í•¹ÐÕÑ½™˜Ñ½¼•…É±ä¸UÁ‘…Ñ”Ñ¡…ÐÑ•…¡•ËŠeÌÍ¡•‘Õ±”™¥ÉÍÐ¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€•¹¥˜ì(€¥˜Ù}ÕÑ½™˜€ðø€œœ…¹•á¥ÍÑÌ€ (€€€Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ(€€€Ý¡•É”Ð¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œ…¹Ð¹…ÕÑ½}…‰Í•¹Ñ}µ½‘”€ô€Í¡½½°œ(€€€€€…¹ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}ÕÑ½™˜èéÑ¥µ”¤€ðô±•…ÍÐ (€€€€€€€ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}ÍÑ…ÉÑ}Ñ¥µ”°Á}ÍÑ…ÉÑ}Ñ¥µ”èéÑ¥µ”¤¤(€€€€€€€€€€¬½…±•Í”¡Ð¹…ÑÑ•¹‘…¹•}É…•}µ¥¹ÕÑ•Ì°Á}É…•}µ¥¹ÕÑ•Ì¤°€ÈÌ€¨€ØÀ€¬€Ôä¤(€€¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€Q¡¥ÌÍ¡½½°…‰Í•¹ÐÕÑ½™˜¥ÌÑ½¼•…É±ä™½È½¹”½Èµ½É”Ñ•…¡•ÉÌ¸M•Ð„±…Ñ•ÈÑ•…¡•ÈÕÑ½™˜½ÈÑÕÉ¸…ÕÑ½µ…Ñ¥Œ…‰Í•¹Ð½™˜™½ÈÑ¡•´¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€•¹¥˜ì((€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ Í¡½½±}ÍÑ…ÉÐœ°Á}ÍÑ…ÉÑ}Ñ¥µ”°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ É…•}µ¥¹ÕÑ•Ìœ°Á}É…•}µ¥¹ÕÑ•ÌèéÑ•áÐ°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ Í•±™}¡•­¥¸œ°…Í”Ý¡•¸½…±•Í”¡Á}Í•±™}¡•­¥¸°™…±Í”¤Ñ¡•¸€œÄœ•±Í”€œÀœ•¹°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°Ù}ÕÑ½™˜°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ Ý••­±å}½™™}‘…åÌœ°…ÉÉ…å}Ñ½}ÍÑÉ¥¹œ¡Ù}‘…åÌ°€œ°œ¤°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð µ•ÍÍ…”œ°€M•ÑÑ¥¹ÌÍ…Ù•ÍÕ•ÍÍ™Õ±±ä¸œ°€‘…Ñ„œ°ÁÉ¥Ù…Ñ”¹ÉÕ±•Í}©Í½¸ ¤¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹‘…Í¡‰½…É‘}Ñ•…¡•È ¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”Á±ÁÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä¥¹Ù½­•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Ñ¥‰¥¥¹Ð€èôÁÉ¥Ù…Ñ”¹ÕÉÉ•¹Ñ}Ñ•…¡•É}¥ ¤ì(€Ù}Ñ½‘…ä‘…Ñ”€èôÁÉ¥Ù…Ñ”¹……‘•µå}Ñ½‘…ä ¤ì(€Ù}µ½¹Ñ ‘…Ñ”€èô‘…Ñ•}ÑÉÕ¹Œ µ½¹Ñ œ°ÁÉ¥Ù…Ñ”¹……‘•µå}Ñ½‘…ä ¤¤èé‘…Ñ”ì(€¼É•½ÉìÙ}Ñ½‘…ç~¼¶‰žËkºwµçU¹‘…¹”„©½¥¸ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ½¸Ð¹¥€ô„¹Ñ•…¡•É}¥(€€€€€Ý¡•É”„¹Ñ•…¡•É}¥€ôÙ}Ñ¥½É‘•È‰ä„¹…ÑÑ•¹‘…¹•}‘…Ñ”‘•ÍŒ±¥µ¥Ð€Ü¤Äì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð ‘…Ñ”œ°Ñ½}¡…È¡Ù}Ñ½‘…ä°€eeedµ54µœ¤°(€€€€½Ù•É…±°œ°ÁÉ¥Ù…Ñ”¹ÍÑ…ÑÍ}©Í½¸¡¼¹Àèé¥¹Ñ••È°¼¹„èé¥¹Ñ••È°¼¹°èé¥¹Ñ••È°¼¹Øèé¥¹Ñ••È¤°(€€€€Ñ¡¥Í5½¹Ñ œ°ÁÉ¥Ù…Ñ”¹ÍÑ…ÑÍ}©Í½¸¡¼¹µÀèé¥¹Ñ••È°¼¹µ„èé¥¹Ñ••È°¼¹µ°èé¥¹Ñ••È°¼¹µØèé¥¹Ñ••È¤°(€€€€Ñ½‘…äœ°Ù}Ñ½‘…å}É•Œ°€É••¹Ðœ°Ù}É••¹Ð°€ÉÕ±•Ìœ°ÁÉ¥Ù…Ñ”¹Ñ•…¡•É}ÉÕ±•Í}©Í½¸¡Ù}Ñ¥¤¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹Í•±™}¡•­}¥¸ ¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Ñ¥‰¥¥¹Ð€èôÁÉ¥Ù…Ñ”¹ÕÉÉ•¹Ñ}Ñ•…¡•É}¥ ¤ì(€Ù}¹½ÜÑ¥µ•ÍÑ…µÀ€èôÁÉ¥Ù…Ñ”¹……‘•µå}¹½Ü ¤ì(€Ù}Ñ½‘…ä‘…Ñ”€èôÙ}¹½Üèé‘…Ñ”ì(€Ù}Ñ¥µ”Ñ¥µ”€èô‘…Ñ•}ÑÉÕ¹Œ µ¥¹ÕÑ”œ°Ù}¹½Ü¤èéÑ¥µ”ì(€Ù}ÍÑ…ÉÐÑ¥µ”ì(€Ù}•àÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”ìÙ}ÍÑ…ÑÕÌÑ•áÐìÙ}É½ÜÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”ìÙ}ÐÁÕ‰±¥Œ¹Ñ•…¡•ÉÌì)‰•¥¸(€¥˜…ÕÑ ¹Õ¥ ¤¥Ì¹Õ±°Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÄ°€A±•…Í”Í¥¸¥¸Ñ¼½¹Ñ¥¹Õ”¸œ¤ì•¹¥˜ì(€¥˜Ù}Ñ¥¥Ì¹Õ±°Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½ÕÈ…½Õ¹Ð¥Ì¹½Ð…Ñ¥Ù”¸œ¤ì•¹¥˜ì(€¥˜ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í•±™}¡•­¥¸œ°€œÄœ¤€ðø€œÄœÑ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€M•±˜¡•¬µ¥¸¥ÌÑÕÉ¹•½™˜¸A±•…Í”…Í¬Ñ¡”…‘µ¥¹¥ÍÑÉ…Ñ½ÈÑ¼µ…É¬å½ÕÈ…ÑÑ•¹‘…¹”¸œ¤ì•¹¥˜ì(€¥˜•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹±•…Ù•}É•ÅÕ•ÍÑÌ°Ý¡•É”°¹Ñ•…¡•É}¥€ôÙ}Ñ¥…¹°¹ÍÑ…ÑÕÌ€ô€…ÁÁÉ½Ù•œ…¹Ù}Ñ½‘…ä‰•ÑÝ••¸°¹ÍÑ…ÉÑ}‘…Ñ”…¹°¹•¹‘}‘…Ñ”¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€e½ÕÈ±•…Ù”¥Ì…ÁÁÉ½Ù•™½ÈÑ½‘…ä¸½¹Ñ…ÐÑ¡”…‘µ¥¹¥ÍÑÉ…Ñ½È¥˜å½ÕÈÁ±…¹Ì¡…Ù”¡…¹•¸œ¤ì(€•¹¥˜ì(€Ù}ÍÑ…ÉÐ€èôÁÉ¥Ù…Ñ”¹Ñ•…¡•É}ÍÑ…ÉÑ}Ñ¥µ”¡Ù}Ñ¥¤ì(€¥˜ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}Ñ¥µ”¤€ðÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}ÍÑ…ÉÐ¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°™½Éµ…Ð ¡•¬µ¥¸½Á•¹Ì…Ð€•Ì¸e½Ô…¹¹½Ð¡•¬¥¸‰•™½É”å½ÕÈÍ¡•‘Õ±•ÍÑ…ÉÐÑ¥µ”¸œ°Ñ½}¡…È¡Ù}ÍÑ…ÉÐ°€5! ÄÈé5$4œ¤¤¤ì(€•¹¥˜ì(€Í•±•Ð€¨¥¹Ñ¼Ù}•à™É½´ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”Ý¡•É”Ñ•…¡•É}¥€ôÙ}Ñ¥…¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôÙ}Ñ½‘…äì(€¥˜™½Õ¹Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°…Í”Ý¡•¸Ù}•à¹¡•­}¥¸¥Ì¹½Ð¹Õ±°Ñ¡•¸€e½Ô¡…Ù”…±É•…‘ä¡•­•¥¸Ñ½‘…ä¸œ•±Í”€e½ÕÈ…ÑÑ•¹‘…¹”™½ÈÑ½‘…ä¡…Ì…±É•…‘ä‰••¸µ…É­•‰äÑ¡”…‘µ¥¹¥ÍÑÉ…Ñ½È¸œ•¹¤ì(€•¹¥˜ì(€Ù}ÍÑ…ÑÕÌ€èô…Í”Ý¡•¸ÁÉ¥Ù…Ñ”¹µ¥¹ÕÑ•Í}½˜¡Ù}Ñ¥µ”¤€øÁÉ¥Ù…Ñ”¹½¹}Ñ¥µ•}±¥µ¥Ð¡Ù}Ñ¥¤Ñ¡•¸€±…Ñ”œ•±Í”€ÁÉ•Í•¹Ðœ•¹ì(€‰•¥¸(€€€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”€¡Ñ•…¡•É}¥°…ÑÑ•¹‘…¹•}‘…Ñ”°¡•­}¥¸°ÍÑ…ÑÕÌ°É•µ…É­Ì¤(€€€Ù…±Õ•Ì€¡Ù}Ñ¥°Ù}Ñ½‘…ä°Ù}Ñ¥µ”°Ù}ÍÑ…ÑÕÌ°€M•±˜¡•¬µ¥¸œ¤É•ÑÕÉ¹¥¹œ€¨¥¹Ñ¼Ù}É½Üì(€•á•ÁÑ¥½¸Ý¡•¸Õ¹¥ÅÕ•}Ù¥½±…Ñ¥½¸Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀä°€e½Ô¡…Ù”…±É•…‘ä¡•­•¥¸Ñ½‘…ä¸œ¤ì(€•¹ì(€Í•±•Ð€¨¥¹Ñ¼Ù}Ð™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÝ¡•É”¥€ôÙ}Ñ¥ì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€µ•ÍÍ…”œ°…Í”Ý¡•¸Ù}ÍÑ…ÑÕÌ€ô€±…Ñ”œ(€€€€  then format('Checked in at %s. You are marked Late (%s minutes after %s).', to_char(v_time, 'FMHH12:MI AM'), v_row.late_minutes, to_char(v_start, 'FMHH12:MI AM'))
+-- Production migration: per-teacher attendance schedule overrides.
+alter table public.teachers add column if not exists attendance_start_time time;
+alter table public.teachers add column if not exists attendance_grace_minutes integer;
+alter table public.teachers add column if not exists auto_absent_mode text not null default 'school';
+alter table public.teachers add column if not exists auto_absent_time time;
+do $$ begin
+  if not exists (select 1 from pg_constraint where conrelid = 'public.teachers'::regclass and conname = 'teachers_attendance_grace_minutes_check') then
+    alter table public.teachers add constraint teachers_attendance_grace_minutes_check
+      check (attendance_grace_minutes is null or attendance_grace_minutes between 0 and 120);
+  end if;
+  if not exists (select 1 from pg_constraint where conrelid = 'public.teachers'::regclass and conname = 'teachers_auto_absent_mode_check') then
+    alter table public.teachers add constraint teachers_auto_absent_mode_check
+      check (auto_absent_mode in ('school', 'custom', 'off'));
+  end if;
+  if not exists (select 1 from pg_constraint where conrelid = 'public.teachers'::regclass and conname = 'teachers_auto_absent_time_mode_check') then
+    alter table public.teachers add constraint teachers_auto_absent_time_mode_check
+      check ((auto_absent_mode = 'custom') = (auto_absent_time is not null));
+  end if;
+end $$;
+-- 8. Per-teacher attendance schedules. NULL start/grace values inherit the school defaults.
+-- auto_absent_mode is school, custom (requires auto_absent_time), or off.
+create or replace function private.teacher_start_time(p_teacher bigint) returns time
+language sql stable security definer set search_path = '' as $$
+  select coalesce(t.attendance_start_time,
+    case when coalesce(private.setting('school_start', '08:00'), '') ~ '^([01][0-9]|2[0-3]):[0-5][0-9]$'
+      then private.setting('school_start', '08:00')::time else time '08:00' end)
+  from public.teachers t where t.id = p_teacher
+$$;
+
+create or replace function private.teacher_grace_minutes(p_teacher bigint) returns integer
+language sql stable security definer set search_path = '' as $$
+  select coalesce(t.attendance_grace_minutes,
+    case when coalesce(private.setting('grace_minutes', '15'), '') ~ '^[0-9]{1,3}$'
+           and private.setting('grace_minutes', '15')::integer between 0 and 120
+      then private.setting('grace_minutes', '15')::integer else 15 end)
+  from public.teachers t where t.id = p_teacher
+$$;
+
+create or replace function private.on_time_limit(p_teacher bigint) returns integer
+language sql stable security definer set search_path = '' as $$
+  select least(private.minutes_of(private.teacher_start_time(p_teacher))
+    + private.teacher_grace_minutes(p_teacher), 23 * 60 + 59)
+$$;
+
+create or replace function private.teacher_absent_cutoff(p_teacher bigint) returns time
+language sql stable security definer set search_path = '' as $$
+  select case
+    when t.auto_absent_mode = 'off' then null::time
+    when t.auto_absent_mode = 'custom' then t.auto_absent_time
+    else case when coalesce(private.setting('auto_absent_time', ''), '') ~ '^([01][0-9]|2[0-3]):[0-5][0-9]$'
+      then private.setting('auto_absent_time', '')::time else null::time end
+  end
+  from public.teachers t where t.id = p_teacher
+$$;
+
+create or replace function private.teacher_rules_json(p_teacher bigint) returns jsonb
+language sql stable security definer set search_path = '' as $$
+  select jsonb_build_object(
+    'startTime', to_char(private.teacher_start_time(p_teacher), 'HH24:MI'),
+    'graceMinutes', private.teacher_grace_minutes(p_teacher),
+    'selfCheckin', private.setting('self_checkin', '1') = '1',
+    'lateAfter', lpad((private.on_time_limit(p_teacher) / 60)::text, 2, '0') || ':' || lpad((private.on_time_limit(p_teacher) % 60)::text, 2, '0'),
+    'timezone', private.academy_tz(),
+    'autoAbsentTime', coalesce(to_char(private.teacher_absent_cutoff(p_teacher), 'HH24:MI'), ''),
+    'weeklyOffDays', coalesce((
+      select jsonb_agg(day::integer order by ordinal)
+      from unnest(string_to_array(private.setting('weekly_off_days', '0'), ',')) with ordinality as days(day, ordinal)
+    ), '[]'::jsonb))
+$$;
+
+create or replace function private.normalize_teacher_attendance_rules(
+  p_rules jsonb,
+  p_school_start text default null,
+  p_school_grace integer default null,
+  p_school_cutoff text default null
+) returns jsonb
+language plpgsql stable security definer set search_path = '' as $$
+declare
+  v_start time;
+  v_grace_text text;
+  v_grace integer;
+  v_mode text;
+  v_custom_cutoff time;
+  v_effective_cutoff time;
+  v_school_start time;
+  v_school_grace integer;
+  v_school_cutoff text;
+  v_effective_start time;
+  v_effective_grace integer;
+begin
+  if coalesce(jsonb_typeof(p_rules), 'null') <> 'object' then
+    perform private.fail(400, 'Enter valid teacher attendance rules.');
+  end if;
+
+  v_school_start := private.parse_time(coalesce(nullif(p_school_start, ''), private.setting('school_start', '08:00')), 'schoolStart');
+  v_school_grace := coalesce(p_school_grace, nullif(private.setting('grace_minutes', '15'), '')::integer, 15);
+  v_school_cutoff := case when p_school_cutoff is null then private.setting('auto_absent_time', '') else p_school_cutoff end;
+
+  v_start := private.parse_time(nullif(trim(coalesce(p_rules ->> 'startTime', '')), ''), 'startTimeOverride');
+  v_grace_text := nullif(trim(coalesce(p_rules ->> 'graceMinutes', '')), '');
+  if v_grace_text is not null then
+    if v_grace_text !~ '^[0-9]{1,3}$' then perform private.fail(400, 'Enter a whole number of minutes (0-120), or leave blank for the school default.', 'graceMinutesOverride'); end if;
+    v_grace := v_grace_text::integer;
+    if v_grace not between 0 and 120 then perform private.fail(400, 'Enter a whole number of minutes (0-120), or leave blank for the school default.', 'graceMinutesOverride'); end if;
+  end if;
+
+  v_mode := coalesce(nullif(trim(p_rules ->> 'autoAbsentMode'), ''), 'school');
+  if v_mode not in ('school', 'custom', 'off') then
+    perform private.fail(400, 'Choose a valid automatic absent rule.', 'autoAbsentMode');
+  end if;
+  if v_mode = 'custom' then
+    v_custom_cutoff := private.parse_time(nullif(trim(coalesce(p_rules ->> 'autoAbsentTime', '')), ''), 'autoAbsentTime');
+    if v_custom_cutoff is null then perform private.fail(400, 'Choose a custom absent cutoff time.', 'autoAbsentTime'); end if;
+    v_effective_cutoff := v_custom_cutoff;
+  elsif v_mode = 'school' then
+    v_effective_cutoff := private.parse_time(nullif(trim(coalesce(v_school_cutoff, '')), ''), 'autoAbsentTime');
+  end if;
+
+  v_effective_start := coalesce(v_start, v_school_start);
+  v_effective_grace := coalesce(v_grace, v_school_grace);
+  if v_effective_cutoff is not null and private.minutes_of(v_effective_cutoff) <= least(
+    private.minutes_of(v_effective_start) + v_effective_grace, 23 * 60 + 59
+  ) then
+    perform private.fail(400, 'The absent cutoff must be later than this teacherâ€™s start time and grace period.', 'autoAbsentTime');
+  end if;
+
+  return jsonb_build_object(
+    'attendanceStartTime', coalesce(to_char(v_start, 'HH24:MI'), ''),
+    'attendanceGraceMinutes', v_grace,
+    'autoAbsentMode', v_mode,
+    'autoAbsentTime', coalesce(to_char(v_custom_cutoff, 'HH24:MI'), '')
+  );
+end
+$$;
+
+create or replace function private.teacher_json(t public.teachers) returns jsonb
+language sql immutable set search_path = '' as $$
+  select jsonb_build_object(
+    'id', t.id, 'teacher_id', t.teacher_id, 'name', t.name, 'email', t.email, 'phone', t.phone,
+    'subject', t.subject, 'date_of_birth', coalesce(to_char(t.date_of_birth, 'YYYY-MM-DD'), ''),
+    'joining_date', to_char(t.joining_date, 'YYYY-MM-DD'), 'leaving_date', coalesce(to_char(t.leaving_date, 'YYYY-MM-DD'), ''),
+    'address', t.address, 'status', t.status,
+    'attendance_start_time', coalesce(to_char(t.attendance_start_time, 'HH24:MI'), ''),
+    'attendance_grace_minutes', t.attendance_grace_minutes,
+    'auto_absent_mode', t.auto_absent_mode,
+    'auto_absent_time', coalesce(to_char(t.auto_absent_time, 'HH24:MI'), ''),
+    'created_at', t.created_at, 'updated_at', t.updated_at)
+$$;
+
+create or replace function private.teachers_audit() returns trigger
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_action text;
+  v_old jsonb := '{}'::jsonb;
+  v_new jsonb := '{}'::jsonb;
+  v_sens text[] := '{}';
+begin
+  if private.is_importing() then return new; end if;
+  if new.status is distinct from old.status then
+    v_action := case
+      when old.status = 'pending' and new.status = 'active' then 'teacher_approved'
+      when new.status = 'rejected' then 'teacher_rejected'
+      when new.status = 'active' then 'teacher_activated'
+      when new.status = 'inactive' then 'teacher_deactivated'
+      else 'teacher_status_changed' end;
+    v_old := v_old || jsonb_build_object('status', old.status);
+    v_new := v_new || jsonb_build_object('status', new.status);
+  end if;
+  if new.name is distinct from old.name then v_old := v_old || jsonb_build_object('name', old.name); v_new := v_new || jsonb_build_object('name', new.name); end if;
+  if new.teacher_id is distinct from old.teacher_id then v_old := v_old || jsonb_build_object('teacher_id', old.teacher_id); v_new := v_new || jsonb_build_object('teacher_id', new.teacher_id); end if;
+  if new.subject is distinct from old.subject then v_old := v_old || jsonb_build_object('subject', old.subject); v_new := v_new || jsonb_build_object('subject', new.subject); end if;
+  if new.joining_date is distinct from old.joining_date then v_old := v_old || jsonb_build_object('joining_date', old.joining_date); v_new := v_new || jsonb_build_object('joining_date', new.joining_date); end if;
+  if new.attendance_start_time is distinct from old.attendance_start_time then v_old := v_old || jsonb_build_object('attendance_start_time', old.attendance_start_time); v_new := v_new || jsonb_build_object('attendance_start_time', new.attendance_start_time); end if;
+  if new.attendance_grace_minutes is distinct from old.attendance_grace_minutes then v_old := v_old || jsonb_build_object('attendance_grace_minutes', old.attendance_grace_minutes); v_new := v_new || jsonb_build_object('attendance_grace_minutes', new.attendance_grace_minutes); end if;
+  if new.auto_absent_mode is distinct from old.auto_absent_mode then v_old := v_old || jsonb_build_object('auto_absent_mode', old.auto_absent_mode); v_new := v_new || jsonb_build_object('auto_absent_mode', new.auto_absent_mode); end if;
+  if new.auto_absent_time is distinct from old.auto_absent_time then v_old := v_old || jsonb_build_object('auto_absent_time', old.auto_absent_time); v_new := v_new || jsonb_build_object('auto_absent_time', new.auto_absent_time); end if;
+  if new.phone is distinct from old.phone then v_sens := array_append(v_sens, 'phone'); end if;
+  if new.address is distinct from old.address then v_sens := array_append(v_sens, 'address'); end if;
+  if new.date_of_birth is distinct from old.date_of_birth then v_sens := array_append(v_sens, 'date_of_birth'); end if;
+  if v_new = '{}'::jsonb and cardinality(v_sens) = 0 then return new; end if;
+  if cardinality(v_sens) > 0 then v_new := v_new || jsonb_build_object('sensitive_fields_changed', to_jsonb(v_sens)); end if;
+  perform private.audit(auth.uid(), coalesce(v_action, 'teacher_updated'), 'teacher', new.id::text, v_old, v_new);
+  return new;
+end
+$$;
+
+create or replace function private.attendance_before_write() returns trigger
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_school_start text;
+  v_start time;
+begin
+  if tg_op = 'UPDATE' and (new.teacher_id is distinct from old.teacher_id or new.attendance_date is distinct from old.attendance_date) then
+    raise exception 'The teacher and date cannot be changed.' using errcode = 'PT400';
+  end if;
+  if not private.is_importing() and new.attendance_date > private.academy_today() then
+    raise exception 'You cannot record attendance for a future date.' using errcode = 'PT400';
+  end if;
+  v_school_start := coalesce(private.setting('school_start', '08:00'), '08:00');
+  if v_school_start ~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then v_start := v_school_start::time; else v_start := time '08:00'; end if;
+  select coalesce(t.attendance_start_time, v_start) into v_start from public.teachers t where t.id = new.teacher_id;
+  if new.status = 'late' and new.check_in is not null then
+    new.late_minutes := greatest(0, private.minutes_of(new.check_in) - private.minutes_of(v_start));
+  else
+    new.late_minutes := 0;
+  end if;
+  new.updated_by := coalesce(auth.uid(), new.updated_by);
+  if tg_op = 'INSERT' then new.created_by := coalesce(new.created_by, auth.uid()); end if;
+  return new;
+end
+$$;
+
+create or replace function public.admin_precheck_new_teacher(
+  p_teacher_id text, p_name text, p_email text, p_phone text, p_subject text,
+  p_date_of_birth text, p_joining_date text, p_address text, p_status text,
+  p_attendance_rules jsonb
+) returns boolean language plpgsql security definer set search_path = '' as $$
+declare v jsonb; v_rules jsonb; v_email text := lower(trim(coalesce(p_email, '')));
+begin
+  if not private.is_admin() then perform private.fail(403, 'You donâ€™t have permission to do that.'); end if;
+  if v_email !~* '^[^@[:space:]]+@[^@[:space:]]+\.[^@[:space:]]+$' or char_length(v_email) > 120 then perform private.fail(400, 'Enter a valid email address.', 'email'); end if;
+  v := private.validate_teacher_input(p_teacher_id, p_name, p_phone, p_subject, p_date_of_birth, p_joining_date, p_address, coalesce(nullif(p_status, ''), 'active'));
+  if v ->> 'status' not in ('active', 'inactive') then perform private.fail(400, 'Choose a status.', 'status'); end if;
+  v_rules := private.normalize_teacher_attendance_rules(p_attendance_rules);
+  if exists (select 1 from public.teachers t where t.teacher_id = v ->> 'teacher_id') then perform private.fail(409, 'This Teacher ID is already in use.', 'teacher_id'); end if;
+  if exists (select 1 from public.teachers t where lower(t.email) = v_email) or exists (select 1 from auth.users u where lower(u.email) = v_email) then perform private.fail(409, 'This email is already in use.', 'email'); end if;
+  return true;
+end
+$$;
+
+create or replace function public.admin_update_teacher(
+  p_id bigint, p_teacher_id text, p_name text, p_phone text, p_subject text,
+  p_date_of_birth text, p_joining_date text, p_address text, p_status text,
+  p_attendance_rules jsonb
+) returns jsonb language plpgsql security definer set search_path = '' as $$
+declare v jsonb; v_rules jsonb; v_t public.teachers;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You donâ€™t have permission to do that.'); end if;
+  v := private.validate_teacher_input(p_teacher_id, p_name, p_phone, p_subject, p_date_of_birth, p_joining_date, p_address, p_status);
+  v_rules := private.normalize_teacher_attendance_rules(p_attendance_rules);
+  begin
+    update public.teachers set
+      teacher_id = v ->> 'teacher_id', name = v ->> 'name', phone = v ->> 'phone', subject = v ->> 'subject',
+      date_of_birth = nullif(v ->> 'date_of_birth', '')::date, joining_date = (v ->> 'joining_date')::date,
+      address = v ->> 'address', status = v ->> 'status',
+      attendance_start_time = nullif(v_rules ->> 'attendanceStartTime', '')::time,
+      attendance_grace_minutes = nullif(v_rules ->> 'attendanceGraceMinutes', '')::integer,
+      auto_absent_mode = v_rules ->> 'autoAbsentMode',
+      auto_absent_time = nullif(v_rules ->> 'autoAbsentTime', '')::time
+    where id = p_id returning * into v_t;
+  exception when unique_violation then perform private.fail(409, 'This Teacher ID is already in use.', 'teacher_id');
+  end;
+  if v_t.id is null then perform private.fail(404, 'We could not find that teacher.'); end if;
+  return jsonb_build_object('message', 'Teacher updated successfully.', 'data', private.teacher_json(v_t));
+end
+$$;
+
+create or replace function public.admin_complete_new_teacher(
+  p_auth_user_id uuid, p_teacher_id text, p_name text, p_phone text, p_subject text,
+  p_date_of_birth text, p_joining_date text, p_address text, p_status text,
+  p_attendance_rules jsonb
+) returns jsonb language plpgsql security definer set search_path = '' as $$
+declare v jsonb; v_rules jsonb; v_t public.teachers; v_id bigint;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You donâ€™t have permission to do that.'); end if;
+  v := private.validate_teacher_input(p_teacher_id, p_name, p_phone, p_subject, p_date_of_birth, p_joining_date, p_address, coalesce(nullif(p_status, ''), 'active'));
+  if v ->> 'status' not in ('active', 'inactive') then perform private.fail(400, 'Choose a status.', 'status'); end if;
+  v_rules := private.normalize_teacher_attendance_rules(p_attendance_rules);
+  select id into v_id from public.teachers where auth_user_id = p_auth_user_id and status = 'pending' for update;
+  if v_id is null then perform private.fail(409, 'We could not finish creating this teacher. Please check the Teachers page.'); end if;
+  begin
+    update public.teachers set
+      teacher_id = v ->> 'teacher_id', name = v ->> 'name', phone = v ->> 'phone', subject = v ->> 'subject',
+      date_of_birth = nullif(v ->> 'date_of_birth', '')::date, joining_date = (v ->> 'joining_date')::date,
+      address = v ->> 'address', status = v ->> 'status',
+      attendance_start_time = nullif(v_rules ->> 'attendanceStartTime', '')::time,
+      attendance_grace_minutes = nullif(v_rules ->> 'attendanceGraceMinutes', '')::integer,
+      auto_absent_mode = v_rules ->> 'autoAbsentMode',
+      auto_absent_time = nullif(v_rules ->> 'autoAbsentTime', '')::time
+    where id = v_id returning * into v_t;
+  exception when unique_violation then perform private.fail(409, 'This Teacher ID is already in use.', 'teacher_id');
+  end;
+  return jsonb_build_object('message', 'Teacher added successfully.', 'data', private.teacher_json(v_t));
+end
+$$;
+
+create or replace function public.admin_update_attendance_rules(
+  p_start_time text, p_grace_minutes integer, p_self_checkin boolean,
+  p_auto_absent_time text, p_weekly_off_days integer[]
+) returns jsonb language plpgsql security definer set search_path = '' as $$
+declare
+  v_uid uuid := auth.uid();
+  v_cutoff text := coalesce(p_auto_absent_time, '');
+  v_days integer[];
+  v_cutoff_minutes integer;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You donâ€™t have permission to do that.'); end if;
+  if coalesce(p_start_time, '') !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then perform private.fail(400, 'Choose the time school starts.', 'startTime'); end if;
+  if p_grace_minutes is null or p_grace_minutes not between 0 and 120 then perform private.fail(400, 'Enter a whole number of minutes (0-120).', 'graceMinutes'); end if;
+  if v_cutoff <> '' and v_cutoff !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then perform private.fail(400, 'Choose a valid automatic absent time.', 'autoAbsentTime'); end if;
+  if p_weekly_off_days is null or exists (select 1 from unnest(p_weekly_off_days) d where d < 0 or d > 6) then perform private.fail(400, 'Choose valid weekly off days.'); end if;
+  select coalesce(array_agg(day order by day), array[]::integer[]) into v_days
+    from (select distinct d as day from unnest(p_weekly_off_days) d) choices;
+
+  if v_cutoff <> '' then
+    v_cutoff_minutes := private.minutes_of(v_cutoff::time);
+    if v_cutoff_minutes <= least(private.minutes_of(p_start_time::time) + p_grace_minutes, 23 * 60 + 59) then
+      perform private.fail(400, 'Choose a time later than the school late threshold.', 'autoAbsentTime');
+    end if;
+  end if;
+  if exists (
+    select 1 from public.teachers t
+    where t.status = 'active' and t.auto_absent_mode = 'custom'
+      and private.minutes_of(t.auto_absent_time) <= least(
+        private.minutes_of(coalesce(t.attendance_start_time, p_start_time::time))
+          + coalesce(t.attendance_grace_minutes, p_grace_minutes), 23 * 60 + 59)
+  ) then
+    perform private.fail(400, 'The new school hours would make a custom teacher absent cutoff too early. Update that teacherâ€™s schedule first.', 'autoAbsentTime');
+  end if;
+  if v_cutoff <> '' and exists (
+    select 1 from public.teachers t
+    where t.status = 'active' and t.auto_absent_mode = 'school'
+      and private.minutes_of(v_cutoff::time) <= least(
+        private.minutes_of(coalesce(t.attendance_start_time, p_start_time::time))
+          + coalesce(t.attendance_grace_minutes, p_grace_minutes), 23 * 60 + 59)
+  ) then
+    perform private.fail(400, 'This school absent cutoff is too early for one or more teachers. Set a later teacher cutoff or turn automatic absent off for them.', 'autoAbsentTime');
+  end if;
+
+  insert into public.settings (name, value, updated_by) values ('school_start', p_start_time, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('grace_minutes', p_grace_minutes::text, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('self_checkin', case when coalesce(p_self_checkin, false) then '1' else '0' end, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('auto_absent_time', v_cutoff, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('weekly_off_days', array_to_string(v_days, ','), v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  return jsonb_build_object('message', 'Settings saved successfully.', 'data', private.rules_json());
+end
+$$;
+
+create or replace function public.dashboard_teacher() returns jsonb
+language plpgsql stable security invoker set search_path = '' as $$
+declare
+  v_tid bigint := private.current_teacher_id();
+  v_today date := private.academy_today();
+  v_month date := date_trunc('month', private.academy_today())::date;
+  o record; v_today_rec jsonb; v_recent jsonb;
+begin
+  if v_tid is null then perform private.fail(403, 'Your account is not active.'); end if;
+  select count(*) filter (where status = 'present') as p, count(*) filter (where status = 'absent') as a,
+         count(*) filter (where status = 'late') as l, count(*) filter (where status = 'leave') as v,
+         count(*) filter (where status = 'present' and attendance_date >= v_month) as mp,
+         count(*) filter (where status = 'absent' and attendance_date >= v_month) as ma,
+         count(*) filter (where status = 'late' and attendance_date >= v_month) as ml,
+         count(*) filter (where status = 'leave' and attendance_date >= v_month) as mv
+    into o from public.attendance where teacher_id = v_tid;
+  select private.att_json(a, t) into v_today_rec from public.attendance a join public.teachers t on t.id = a.teacher_id
+    where a.teacher_id = v_tid and a.attendance_date = v_today;
+  select coalesce(jsonb_agg(private.att_json(q.a, q.t) order by q.d desc), '[]'::jsonb) into v_recent
+    from (select a as a, t as t, a.attendance_date as d from public.attendance a join public.teachers t on t.id = a.teacher_id
+      where a.teacher_id = v_tid order by a.attendance_date desc limit 7) q;
+  return jsonb_build_object('date', to_char(v_today, 'YYYY-MM-DD'),
+    'overall', private.stats_json(o.p::integer, o.a::integer, o.l::integer, o.v::integer),
+    'thisMonth', private.stats_json(o.mp::integer, o.ma::integer, o.ml::integer, o.mv::integer),
+    'today', v_today_rec, 'recent', v_recent, 'rules', private.teacher_rules_json(v_tid));
+end
+$$;
+
+create or replace function public.self_check_in() returns jsonb
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_tid bigint := private.current_teacher_id();
+  v_now timestamp := private.academy_now();
+  v_today date := v_now::date;
+  v_time time := date_trunc('minute', v_now)::time;
+  v_start time;
+  v_ex public.attendance; v_status text; v_row public.attendance; v_t public.teachers;
+begin
+  if auth.uid() is null then perform private.fail(401, 'Please sign in to continue.'); end if;
+  if v_tid is null then perform private.fail(403, 'Your account is not active.'); end if;
+  if private.setting('self_checkin', '1') <> '1' then perform private.fail(403, 'Self check-in is turned off. Please ask the administrator to mark your attendance.'); end if;
+  if exists (select 1 from public.leave_requests l where l.teacher_id = v_tid and l.status = 'approved' and v_today between l.start_date and l.end_date) then
+    perform private.fail(409, 'Your leave is approved for today. Contact the administrator if your plans have changed.');
+  end if;
+  v_start := private.teacher_start_time(v_tid);
+  if private.minutes_of(v_time) < private.minutes_of(v_start) then
+    perform private.fail(403, format('Check-in opens at %s. You cannot check in before your scheduled start time.', to_char(v_start, 'FMHH12:MI AM')));
+  end if;
+  select * into v_ex from public.attendance where teacher_id = v_tid and attendance_date = v_today;
+  if found then
+    perform private.fail(409, case when v_ex.check_in is not null then 'You have already checked in today.' else 'Your attendance for today has already been marked by the administrator.' end);
+  end if;
+  v_status := case when private.minutes_of(v_time) > private.on_time_limit(v_tid) then 'late' else 'present' end;
+  begin
+    insert into public.attendance (teacher_id, attendance_date, check_in, status, remarks)
+    values (v_tid, v_today, v_time, v_status, 'Self check-in') returning * into v_row;
+  exception when unique_violation then perform private.fail(409, 'You have already checked in today.');
+  end;
+  select * into v_t from public.teachers where id = v_tid;
+  return jsonb_build_object(
+    'message', case when v_status = 'late'
+      then format('Checked in at %s. You are marked Late (%s minutes after %s).', to_char(v_time, 'FMHH12:MI AM'), v_row.late_minutes, to_char(v_start, 'FMHH12:MI AM'))
       else format('Checked in at %s. You are marked Present.', to_char(v_time, 'FMHH12:MI AM')) end,
     'data', private.att_json(v_row, v_t));
 end

@@ -1,4 +1,263 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Ô´´MÕ¹Í¡¥¹”…‘•µä±¥Ù”…ÑÑ•¹‘…¹”™•…ÑÕÉ”Á…Ñ (´´ÁÁ±äÑ¼Ñ¡”•á¥ÍÑ¥¹œMÕ¹Í¡¥¹”…‘•µäMÕÁ…‰…Í”ÁÉ½©•Ð…™Ñ•ÈÉ•Ù¥•Ý¥¹œ¸(´´Q¡¥ÌÁÉ•Í•ÉÙ•Ì•á¥ÍÑ¥¹œ…ÑÑ•¹‘…¹”É½ÝÌ…¹ÕÉÉ•¹ÐÍ•ÕÉ¥ÑäÍ•ÑÑ¥¹Ì¸()É•…Ñ”•áÑ•¹Í¥½¸¥˜¹½Ð•á¥ÍÑÌÁ}É½¸Ý¥Ñ Í¡•µ„Á}…Ñ…±½œì)É…¹ÐÕÍ…”½¸Í¡•µ„É½¸Ñ¼Á½ÍÑÉ•Ìì)É…¹Ð…±°ÁÉ¥Ù¥±••Ì½¸…±°Ñ…‰±•Ì¥¸Í¡•µ„É½¸Ñ¼Á½ÍÑÉ•Ìì()…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì‘É½À½¹ÍÑÉ…¥¹Ð¥˜•á¥ÍÑÌÍ•ÑÑ¥¹Í}¹…µ•}¡•¬ì)…±Ñ•ÈÑ…‰±”ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì…‘½¹ÍÑÉ…¥¹ÐÍ•ÑÑ¥¹Í}¹…µ•}¡•¬¡•¬€¡¹…µ”€ô…¹ä€¡…ÉÉ…ål(€€Í¡½½±}ÍÑ…ÉÐœ°€É…•}µ¥¹ÕÑ•Ìœ°€Í•±™}¡•­¥¸œ°€Ñ¥µ•é½¹”œ°€µ…á}Á•¹‘¥¹œœ°€±•…å}±¥¹¬œ°(€€……‘•µå}¹•ÑÝ½É­}¥‘ÉÌœ°€…ÑÑ•¹‘…¹•}Í•ÕÉ¥Ñå}ÍÑ…ÉÐœ°€…ÑÑ•¹‘…¹•}Í•ÕÉ¥Ñå}É…”œ°(€€…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°€Ý••­±å}½™™}‘…åÌœ)tèéÑ•áÑmt¤¤ì()¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”¤Ù…±Õ•Ì(€€ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°€œœ¤°€ Ý••­±å}½™™}‘…åÌœ°€œÀœ¤)½¸½¹™±¥Ð€¡¹…µ”¤‘¼¹½Ñ¡¥¹œì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹ÍÑ…ÑÍ}©Í½¸¡À¥¹Ñ••È°„¥¹Ñ••È°°¥¹Ñ••È°Ø¥¹Ñ••È¤)É•ÑÕÉ¹Ì©Í½¹ˆ±…¹Õ…”ÍÅ°¥µµÕÑ…‰±”Í•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€Ñ½Ñ…±…åÌœ°À€¬„€¬°€¬Ø°(€€€€ÁÉ•Í•¹Ðœ°À€¬°°(€€€€…‰Í•¹Ðœ°„°(€€€€±…Ñ”œ°°°(€€€€±•…Ù”œ°Ø°(€€€€Á•É•¹Ñ…”œ°…Í”Ý¡•¸À€¬„€¬°€¬Ø€ô€ÀÑ¡•¸€À(€€€€€•±Í”É½Õ¹ ¡À€¬°¤èé¹Õµ•É¥Œ€¼€¡À€¬„€¬°€¬Ø¤€¨€ÄÀÀ°€Ä¤•¹(€€¤(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹ÉÕ±•Í}©Í½¸ ¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”ÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€ÍÑ…ÉÑQ¥µ”œ°ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í¡½½±}ÍÑ…ÉÐœ°€œÀàèÀÀœ¤°(€€€€É…•5¥¹ÕÑ•Ìœ°½…±•Í”¡¹Õ±±¥˜¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ É…•}µ¥¹ÕÑ•Ìœ°€œÄÔœ¤°€œœ¤èé¥¹Ñ••È°€ÄÔ¤°(€€€€Í•±™¡•­¥¸œ°ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Í•±™}¡•­¥¸œ°€œÄœ¤€ô€œÄœ°(€€€€±…Ñ•™Ñ•Èœ°±Á… ¡ÁÉ¥Ù…Ñ”¹½¹}Ñ¥µ•}±¥µ¥Ð ¤€¼€ØÀ¤èéÑ•áÐ°€È°€œÀœ¤ñð€œèœñð±Á… ¡ÁÉ¥Ù…Ñ”¹½¹}Ñ¥µ•}±¥µ¥Ð ¤€”€ØÀ¤èéÑ•áÐ°€È°€œÀœ¤°(€€€€Ñ¥µ•é½¹”œ°ÁÉ¥Ù…Ñ”¹……‘•µå}Ñè ¤°(€€€€…ÕÑ½‰Í•¹ÑQ¥µ”œ°ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°€œœ¤°(€€€€Ý••­±å=™™…åÌœ°½…±•Í”  (€€€€€Í•±•Ð©Í½¹‰}…œ¡‘…äèé¥¹Ñ••È½É‘•È‰ä½É‘¥¹…°¤(€€€€€™É½´Õ¹¹•ÍÐ¡ÍÑÉ¥¹}Ñ½}…ÉÉ…ä¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Ý••­±å}½™™}‘…åÌœ°€œÀœ¤°€œ°œ¤¤Ý¥Ñ ½É‘¥¹…±¥Ñä…Ì‘…åÌ¡‘…ä°½É‘¥¹…°¤(€€€€¤°€mtœèé©Í½¹ˆ¤(€€¤(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹Í}Ù…±¥‘…Ñ” ¤É•ÑÕÉ¹ÌÑÉ¥•È)±…¹Õ…”Á±ÁÍÅ°Í•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‰•¥¸(€¥˜¹•Ü¹¹…µ”€ô€Í¡½½±}ÍÑ…ÉÐœ…¹¹•Ü¹Ù…±Õ”€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸(€€€É…¥Í”•á•ÁÑ¥½¸€M¡½½°ÍÑ…ÉÐÑ¥µ”µÕÍÐ±½½¬±¥­”€ÀàèÀÀ¸œÕÍ¥¹œ•ÉÉ½‘”€ô€APÐÀÀœ°¡¥¹Ð€ô€ÍÑ…ÉÑQ¥µ”œì(€•±Í¥˜¹•Ü¹¹…µ”€ô€É…•}µ¥¹ÕÑ•Ìœ…¹€¡¹•Ü¹Ù…±Õ”€…ø€ylÀ´åuìÄ°Íôœ½È¹•Ü¹Ù…±Õ”èé¥¹Ñ••È€ø€ÄÈÀ¤Ñ¡•¸(€€€É…¥Í”•á•ÁÑ¥½¸€É…”Á•É¥½µÕÍÐ‰”„Ý¡½±”¹Õµ‰•È½˜µ¥¹ÕÑ•Ì€ À´ÄÈÀ¤¸œÕÍ¥¹œ•ÉÉ½‘”€ô€APÐÀÀœ°¡¥¹Ð€ô€É…•5¥¹ÕÑ•Ìœì(€•±Í¥˜»~¼¶‰žËkºwµçpÍÑ…‰±”Í•ÕÉ¥Ñä¥¹Ù½­•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Ñ½‘…ä‘…Ñ”€èôÁÉ¥Ù…Ñ”¹……‘•µå}Ñ½‘…ä ¤ì(€Ù}Ñ½Ñ…°¥¹Ñ••Èì(€Ù}Á•¹‘¥¹œ¥¹Ñ••Èì(€Ù}¹½Ñ}µ…É­•¥¹Ñ••Èì(€Ù}±¥ÍÐ©Í½¹ˆì(€ÈÉ•½Éì)‰•¥¸(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}…‘µ¥¸ ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½Ô‘½¸œÐ¡…Ù”Á•Éµ¥ÍÍ¥½¸Ñ¼‘¼Ñ¡…Ð¸œ¤ì•¹¥˜ì(€Í•±•Ð½Õ¹Ð ¨¤¥¹Ñ¼Ù}Ñ½Ñ…°™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÝ¡•É”ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œì(€Í•±•Ð½Õ¹Ð ¨¤¥¹Ñ¼Ù}Á•¹‘¥¹œ™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÝ¡•É”ÍÑ…ÑÕÌ€ô€Á•¹‘¥¹œœì(€Í•±•Ð½Õ¹Ð ¨¤™¥±Ñ•È€¡Ý¡•É”„¹ÍÑ…ÑÕÌ¥¸€ ÁÉ•Í•¹Ðœ°€±…Ñ”œ¤¤…ÌÀ°(€€€€€€€€½Õ¹Ð ¨¤™¥±Ñ•È€¡Ý¡•É”„¹ÍÑ…ÑÕÌ€ô€…‰Í•¹Ðœ¤…Ì„°(€€€€€€€€½Õ¹Ð ¨¤™¥±Ñ•È€¡Ý¡•É”„¹ÍÑ…ÑÕÌ€ô€±…Ñ”œ¤…Ì°°(€€€€€€€€½Õ¹Ð ¨¤™¥±Ñ•È€¡Ý¡•É”„¹ÍÑ…ÑÕÌ€ô€±•…Ù”œ¤…ÌØ(€€€¥¹Ñ¼È™É½´ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”„©½¥¸ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ½¸Ð¹¥€ô„¹Ñ•…¡•É}¥(€€Ý¡•É”„¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôÙ}Ñ½‘…äì(€Í•±•Ð½…±•Í”¡©Í½¹‰}…œ¡ÁÉ¥Ù…Ñ”¹…ÑÑ}©Í½¸¡„°Ð¤½É‘•È‰äÐ¹¹…µ”¤°€mtœèé©Í½¹ˆ¤¥¹Ñ¼Ù}±¥ÍÐ(€€€™É½´ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”„©½¥¸ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ½¸Ð¹¥€ô„¹Ñ•…¡•É}¥Ý¡•É”„¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôÙ}Ñ½‘…äì(€¥˜ÁÉ¥Ù…Ñ”¹¥Í}Ý••­±å}½™˜¡Ù}Ñ½‘…ä¤Ñ¡•¸(€€€Ù}¹½Ñ}µ…É­•€èô€Àì(€•±Í”(€€€Í•±•Ð½Õ¹Ð ¨¤¥¹Ñ¼Ù}¹½Ñ}µ…É­•™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ(€€€€Ý¡•É”Ð¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œ…¹Ð¹©½¥¹¥¹}‘…Ñ”€ðôÙ}Ñ½‘…ä…¹€¡Ð¹±•…Ù¥¹}‘…Ñ”¥Ì¹Õ±°½ÈÐ¹±•…Ù¥¹}‘…Ñ”€øôÙ}Ñ½‘…ä¤(€€€€€€…¹¹½Ð•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”„Ý¡•É”„¹Ñ•…¡•É}¥€ôÐ¹¥…¹„¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôÙ}Ñ½‘…ä¤(€€€€€€…¹¹½Ð•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹±•…Ù•}É•ÅÕ•ÍÑÌ°Ý¡•É”°¹Ñ•…¡•É}¥€ôÐ¹¥…¹°¹ÍÑ…ÑÕÌ€ô€…ÁÁÉ½Ù•œ(€€€€€€€€…¹Ù}Ñ½‘…ä‰•ÑÝ••¸°¹ÍÑ…ÉÑ}‘…Ñ”…¹°¹•¹‘}‘…Ñ”¤ì(€•¹¥˜ì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð (€€€€‘…Ñ”œ°Ñ½}¡…È¡Ù}Ñ½‘…ä°€eeedµ54µœ¤°(€€€€ÍÑ…ÑÌœ°©Í½¹‰}‰Õ¥±‘}½‰©•Ð Ñ½Ñ…±Q•…¡•ÉÌœ°Ù}Ñ½Ñ…°°€ÁÉ•Í•¹Ðœ°È¹À°€…‰Í•¹Ðœ°È¹„°€±…Ñ”œ°È¹°°€±•…Ù”œ°È¹Ø°(€€€€€€¹½Ñ5…É­•œ°Ù}¹½Ñ}µ…É­•°€Á•¹‘¥¹œœ°Ù}Á•¹‘¥¹œ¤°(€€€€Ñ½‘…åÑÑ•¹‘…¹”œ°Ù}±¥ÍÐ(€€¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÕÁ‘…Ñ•}…ÑÑ•¹‘…¹•}ÉÕ±•Ì (€Á}ÍÑ…ÉÑ}Ñ¥µ”Ñ•áÐ°(€Á}É…•}µ¥¹ÕÑ•Ì¥¹Ñ••È°(€Á}Í•±™}¡•­¥¸‰½½±•…¸°(€Á}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”Ñ•áÐ°(€Á}Ý••­±å}½™™}‘…åÌ¥¹Ñ••Émt(¤É•ÑÕÉ¹Ì©Í½¹ˆ)±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Õ¥ÕÕ¥€èô€¡Í•±•Ð…ÕÑ ¹Õ¥ ¤¤ì(€Ù}ÕÑ½™˜Ñ•áÐ€èô½…±•Í”¡Á}…ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”°€œœ¤ì(€Ù}‘…åÌ¥¹Ñ••Émtì(€Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì¥¹Ñ••Èì)‰•¥¸(€¥˜¹½ÐÁÉ¥Ù…Ñ”¹¥Í}…‘µ¥¸ ¤Ñ¡•¸Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÌ°€e½Ô‘½¸œÐ¡…Ù”Á•Éµ¥ÍÍ¥½¸Ñ¼‘¼Ñ¡…Ð¸œ¤ì•¹¥˜ì(€¥˜½…±•Í”¡Á}ÍÑ…ÉÑ}Ñ¥µ”°€œœ¤€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”Ñ¡”Ñ¥µ”Í¡½½°ÍÑ…ÉÑÌ¸œ°€ÍÑ…ÉÑQ¥µ”œ¤ì(€•¹¥˜ì(€¥˜Á}É…•}µ¥¹ÕÑ•Ì¥Ì¹Õ±°½ÈÁ}É…•}µ¥¹ÕÑ•Ì¹½Ð‰•ÑÝ••¸€À…¹€ÄÈÀÑ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¹Ñ•È„Ý¡½±”¹Õµ‰•ÈYªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ^¼N‹Z–‹­¦ëeŠw¬Ô½˜µ¥¹ÕÑ•Ì€ À´ÄÈÀ¤¸œ°€É…•5¥¹ÕÑ•Ìœ¤ì(€•¹¥˜ì(€¥˜Ù}ÕÑ½™˜€ðø€œœ…¹Ù}ÕÑ½™˜€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„Ù…±¥…ÕÑ½µ…Ñ¥Œ…‰Í•¹ÐÑ¥µ”¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€•¹¥˜ì(€¥˜Á}Ý••­±å}½™™}‘…åÌ¥Ì¹Õ±°½È•á¥ÍÑÌ€¡Í•±•Ð€Ä™É½´Õ¹¹•ÍÐ¡Á}Ý••­±å}½™™}‘…åÌ¤Ý¡•É”€ð€À½È€ø€Ø¤Ñ¡•¸(€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”Ù…±¥Ý••­±ä½™˜‘…åÌ¸œ¤ì(€•¹¥˜ì(€Í•±•Ð½…±•Í”¡…ÉÉ…å}…œ¡‘…ä½É‘•È‰ä‘…ä¤°…ÉÉ…åmtèé¥¹Ñ••Émt¤¥¹Ñ¼Ù}‘…åÌ(€€€™É½´€¡Í•±•Ð‘¥ÍÑ¥¹Ð…Ì‘…ä™É½´Õ¹¹•ÍÐ¡Á}Ý••­±å}½™™}‘…åÌ¤¤¡½¥•Ìì(€¥˜Ù}ÕÑ½™˜€ðø€œœÑ¡•¸(€€€Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì€èôÍÁ±¥Ñ}Á…ÉÐ¡Ù}ÕÑ½™˜°€œèœ°€Ä¤èé¥¹Ñ••È€¨€ØÀ€¬ÍÁ±¥Ñ}Á…ÉÐ¡Ù}ÕÑ½™˜°€œèœ°€È¤èé¥¹Ñ••Èì(€€€¥˜Ù}ÕÑ½™™}µ¥¹ÕÑ•Ì€ðô±•…ÍÐ (€€€€€ÍÁ±¥Ñ}Á…ÉÐ¡Á}ÍÑ…ÉÑ}Ñ¥µ”°€œèœ°€Ä¤èé¥¹Ñ••È€¨€ØÀ(€€€€€€€€¬ÍÁ±¥Ñ}Á…ÉÐ¡Á}ÍÑ…ÉÑ}Ñ¥µ”°€œèœ°€È¤èé¥¹Ñ••È€¬Á}É…•}µ¥¹ÕÑ•Ì°(€€€€€€ÈÌ€¨€ØÀ€¬€Ôä(€€€€¤Ñ¡•¸(€€€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹™…¥° ÐÀÀ°€¡½½Í”„Ñ¥µ”±…Ñ•ÈÑ¡…¸Ñ¡”±…Ñ”Ñ¡É•Í¡½±¸œ°€…ÕÑ½‰Í•¹ÑQ¥µ”œ¤ì(€€€•¹¥˜ì(€•¹¥˜ì((€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ Í¡½½±}ÍÑ…ÉÐœ°Á}ÍÑ…ÉÑ}Ñ¥µ”°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ É…•}µ¥¹ÕÑ•Ìœ°Á}É…•}µ¥¹ÕÑ•ÌèéÑ•áÐ°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ Í•±™}¡•­¥¸œ°…Í”Ý¡•¸½…±•Í”¡Á}Í•±™}¡•­¥¸°™…±Í”¤Ñ¡•¸€œÄœ•±Í”€œÀœ•¹°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤Ù…±Õ•Ì€ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°Ù}ÕÑ½™˜°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì(€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹Í•ÑÑ¥¹Ì€¡¹…µ”°Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä¤(€€€Ù…±Õ•Ì€ Ý••­±å}½™™}‘…åÌœ°…ÉÉ…å}Ñ½}ÍÑÉ¥¹œ¡Ù}‘…åÌ°€œ°œ¤°Ù}Õ¥¤(€€€½¸½¹™±¥Ð€¡¹…µ”¤‘¼ÕÁ‘…Ñ”Í•ÐÙ…±Õ”€ô•á±Õ‘•¹Ù…±Õ”°ÕÁ‘…Ñ•‘}‰ä€ô•á±Õ‘•¹ÕÁ‘…Ñ•‘}‰äì((€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð µ•ÍÍ…”œ°€M•ÑÑ¥¹ÌÍ…Ù•ÍÕ•ÍÍ™Õ±±ä¸œ°€‘…Ñ„œ°ÁÉ¥Ù…Ñ”¹ÉÕ±•Í}©Í½¸ ¤¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹¥Í}Ý••­±å}½™˜¡Á}‘…Ñ”‘…Ñ”¤É•ÑÕÉ¹Ì‰½½±•…¸)±…¹Õ…”ÍÅ°ÍÑ…‰±”Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€(€Í•±•Ð•áÑÉ…Ð¡‘½Ü™É½´Á}‘…Ñ”¤èé¥¹Ñ••È€ô…¹ä (€€€½…±•Í”¡ÍÑÉ¥¹}Ñ½}…ÉÉ…ä¡ÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ Ý••­±å}½™™}‘…åÌœ°€œÀœ¤°€œ°œ¤èé¥¹Ñ••Émt°…ÉÉ…åmtèé¥¹Ñ••Émt¤(€€¤(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹Ñ•…¡•É}‘…¥±å}É•Á½ÉÐ¡Á}Ñ•…¡•È‰¥¥¹Ð°Á}™É½´‘…Ñ”°Á}Ñ¼‘…Ñ”¤)É•ÑÕÉ¹Ì©Í½¹ˆ±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Ñ¼‘…Ñ”ì(€Ù}‘…Ñ„©Í½»~¼¶‰žËkºwµç\°½…±•Í”¡Ñ½}¡…È¡„¹¡•­}¥¸°€! ÈÐé5$œ¤°€œœ¤°(€€€€¡•­}½ÕÐœ°½…±•Í”¡Ñ½}¡…È¡„¹¡•­}½ÕÐ°€! ÈÐé5$œ¤°€œœ¤°(€€€€É•µ…É­Ìœ°½…±•Í”¡„¹É•µ…É­Ì°€œœ¤(€€¤½É‘•È‰äŒ¹‘…ä¤°€mtœèé©Í½¹ˆ¤(€€€¥¹Ñ¼Ù}‘…Ñ„(€€€™É½´€¡Í•±•ÐÁ}™É½´€¬‘…Ñ•Ì¹‘…å}½™™Í•Ð…Ì‘…ä™É½´•¹•É…Ñ•}Í•É¥•Ì À°Ù}Ñ¼€´Á}™É½´¤…Ì‘…Ñ•Ì¡‘…å}½™™Í•Ð¤¤Œ(€€€±•™Ð©½¥¸ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”„½¸„¹Ñ•…¡•É}¥€ôÁ}Ñ•…¡•È…¹„¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôŒ¹‘…äì(€É•ÑÕÉ¸©Í½¹‰}‰Õ¥±‘}½‰©•Ð ‘…Ñ„œ°Ù}‘…Ñ„¤ì)•¹(ì()É•…Ñ”½ÈÉ•Á±…”™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹…ÕÑ½}µ…É­}…‰Í•¹Ð ¤É•ÑÕÉ¹Ì¥¹Ñ••È)±…¹Õ…”Á±ÁÍÅ°Í•ÕÉ¥Ñä‘•™¥¹•ÈÍ•ÐÍ•…É¡}Á…Ñ €ô€œœ…Ì€)‘•±…É”(€Ù}Ñ½‘…ä‘…Ñ”€èôÁÉ¥Ù…Ñ”¹……‘•µå}Ñ½‘…ä ¤ì(€Ù}ÕÑ½™˜Ñ•áÐ€èôÁÉ¥Ù…Ñ”¹Í•ÑÑ¥¹œ …ÕÑ½}…‰Í•¹Ñ}Ñ¥µ”œ°€œœ¤ì(€Ù}¹½ÜÑ¥µ”€èôÁÉ¥Ù…Ñ”¹……‘•µå}¹½Ü ¤èéÑ¥µ”ì(€Ù}Ñ•…¡•ÈÉ•½Éì(€Ù}…ÑÑ•¹‘…¹•}¥‰¥¥¹Ðì(€Ù}µ…É­•¥¹Ñ••È€èô€Àì)‰•¥¸(€¥˜Ù}ÕÑ½™˜€ô€œœÑ¡•¸É•ÑÕÉ¸€Àì•¹¥˜ì(€¥˜Ù}ÕÑ½™˜€…ø€x¡lÀÅulÀ´åuðÉlÀ´Ít¤élÀ´ÕulÀ´åtœÑ¡•¸É•ÑÕÉ¸€Àì•¹¥˜ì(€¥˜Ù}¹½Ü€ðÙ}ÕÑ½™˜èéÑ¥µ”Ñ¡•¸É•ÑÕÉ¸€Àì•¹¥˜ì(€¥˜ÁÉ¥Ù…Ñ”¹¥Í}Ý••­±å}½™˜¡Ù}Ñ½‘…ä¤Ñ¡•¸É•ÑÕÉ¸€Àì•¹¥˜ì((€™½ÈÙ}Ñ•…¡•È¥¸(€€€Í•±•ÐÐ¹¥°Ð¹Ñ•…¡•É}¥(€€€€€™É½´ÁÕ‰±¥Œ¹Ñ•…¡•ÉÌÐ(€€€€Ý¡•É”Ð¹ÍÑ…ÑÕÌ€ô€…Ñ¥Ù”œ(€€€€€€…¹Ð¹©½¥¹¥¹}‘…Ñ”€ðôÙ}Ñ½‘…ä(€€€€€€…¹€¡Ð¹±•…Ù¥¹}‘…Ñ”¥Ì¹Õ±°½ÈÐ¹±•…Ù¥¹}‘…Ñ”€øôÙ}Ñ½‘…ä¤(€€€€€€…¹¹½Ð•á¥ÍÑÌ€ (€€€€€€€€Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”„Ý¡•É”„¹Ñ•…¡•É}¥€ôÐ¹¥…¹„¹…ÑÑ•¹‘…¹•}‘…Ñ”€ôÙ}Ñ½‘…ä(€€€€€€€¤(€€€€€€…¹¹½Ð•á¥ÍÑÌ€ (€€€€€€€€Í•±•Ð€Ä™É½´ÁÕ‰±¥Œ¹±•…Ù•}É•ÅÕ•ÍÑÌ°(€€€€€€€€€Ý¡•É”°¹Ñ•…¡•É}¥€ôÐ¹¥…¹°¹ÍÑ…ÑÕÌ€ô€…ÁÁÉ½Ù•œ(€€€€€€€€€€€…¹Ù}Ñ½‘…ä‰•ÑÝ••¸°¹ÍÑ…ÉÑ}‘…Ñ”…¹°¹•¹‘}‘…Ñ”(€€€€€€€¤(€€€€½É‘•È‰äÐ¹¥(€±½½À(€€€¥¹Í•ÉÐ¥¹Ñ¼ÁÕ‰±¥Œ¹…ÑÑ•¹‘…¹”€¡Ñ•…¡•É}¥°…ÑÑ•¹‘…¹•}‘…Ñ”°ÍÑ…ÑÕÌ°É•µ…É­Ì¤(€€€€€Ù…±Õ•Ì€¡Ù}Ñ•…¡•È¹¥°Ù}Ñ½‘…ä°€…‰Í•¹Ðœ°€ÕÑ½µ…Ñ¥…±±äµ…É­•…‰Í•¹Ð…™Ñ•È€œñðÙ}ÕÑ½™˜¤(€€€€€½¸½¹™±¥Ð€¡Ñ•…¡•É}¥°…ÑÑ•¹‘…¹•}‘…Ñ”¤‘¼¹½Ñ¡¥¹œ(€€€€€É•ÑÕÉ¹¥¹œ¥¥¹Ñ¼Ù}…ÑÑ•¹‘…¹•}¥ì(€€€¥˜™½Õ¹Ñ¡•¸(€€€€€Á•É™½É´ÁÉ¥Ù…Ñ”¹…Õ‘¥Ð¡¹Õ±°°€…ÑÑ•¹‘…¹•}…ÕÑ½}…‰Í•¹Ðœ°€…ÑÑ•¹‘…¹”œ°Ù}…ÑÑ•¹‘…¹•}¥èéÑ•áÐ°¹Õ±°°(€€€€€€€©Í½¹‰}‰Õ¥±‘}½‰©•Ð Ñ•…¡•É}¥œ°Ù}Ñ•…¡•È¹¥°€Ñ•…¡•É}½‘”œ°Ù}Ñ•…¡•È¹Ñ•…¡•É}¥°(€€€€€€€€€€‘…Ñ”œ°Ù}Ñ½‘…ä°€ÍÑ…ÑÕÌœ°€…‰Í•¹Ðœ°€ÕÑ½™˜œ°Ù}ÕÑ½™˜¤¤ì(€€€€€Ù}µ…É­•€èôÙ}µ…É­•€¬€Äì(€€€•¹¥˜ì(€•¹±½½Àì(€É•ÑÕÉ¸Ù}µ…É­•ì)•¹(ì()É•Ù½­”…±°½¸™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹…ÕÑ½}µ…É­}…‰Í•¹Ð ¤™É½´ÁÕ‰±¥Œ°…¹½¸°…ÕÑ¡•¹Ñ¥…Ñ•ì)É•Ù½­”…±°½¸™Õ¹Ñ¥½¸ÁÉ¥Ù…Ñ”¹¥Í}Ý••­±å}½™˜¡‘…Ñ”¤™É½´ÁÕ‰±¥Œ°…¹½¸°…ÕÑ¡•¹Ñ¥…Ñ•ì)É•Ù½­”…±°½¸™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÕÁ‘…Ñ•}…ÑÑ•¹‘…¹•}ÉÕ±•Ì¡Ñ•áÐ°¥¹Ñ••È°‰½½±•…¸°Ñ•áÐ°¥¹Ñ••Émt¤™É½´ÁÕ‰±¥Œ°…¹½¸ì)É•Ù½­”…±°½¸™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹Ñ•…¡•É}‘…¥±å}É•Á½ÉÐ¡‰¥¥¹Ð°‘…Ñ”°‘…Ñ”¤™É½´ÁÕ‰±¥Œ°…¹½¸ì)É…¹Ð•á•ÕÑ”½¸™Õ¹Ñ¥½¸ÁÕ‰±¥Œ¹…‘µ¥¹}ÕÁ‘…Ñ•}…Ðtendance_rules(text, integer, boolean, text, integer[]) to authenticated;
+-- Sunshine Academy live attendance feature patch
+-- Apply to the existing Sunshine Academy Supabase project after reviewing.
+-- This preserves existing attendance rows and current security settings.
+
+create extension if not exists pg_cron with schema pg_catalog;
+grant usage on schema cron to postgres;
+grant all privileges on all tables in schema cron to postgres;
+
+alter table public.settings drop constraint if exists settings_name_check;
+alter table public.settings add constraint settings_name_check check (name = any (array[
+  'school_start', 'grace_minutes', 'self_checkin', 'timezone', 'max_pending', 'legacy_link',
+  'academy_network_cidrs', 'attendance_security_start', 'attendance_security_grace',
+  'auto_absent_time', 'weekly_off_days'
+]::text[]));
+
+insert into public.settings (name, value) values
+  ('auto_absent_time', ''), ('weekly_off_days', '0')
+on conflict (name) do nothing;
+
+create or replace function private.stats_json(p integer, a integer, l integer, v integer)
+returns jsonb language sql immutable set search_path = '' as $$
+  select jsonb_build_object(
+    'totalDays', p + a + l + v,
+    'present', p + l,
+    'absent', a,
+    'late', l,
+    'leave', v,
+    'percentage', case when p + a + l + v = 0 then 0
+      else round((p + l)::numeric / (p + a + l + v) * 100, 1) end
+  )
+$$;
+
+create or replace function private.rules_json() returns jsonb
+language sql stable security definer set search_path = '' as $$
+  select jsonb_build_object(
+    'startTime', private.setting('school_start', '08:00'),
+    'graceMinutes', coalesce(nullif(private.setting('grace_minutes', '15'), '')::integer, 15),
+    'selfCheckin', private.setting('self_checkin', '1') = '1',
+    'lateAfter', lpad((private.on_time_limit() / 60)::text, 2, '0') || ':' || lpad((private.on_time_limit() % 60)::text, 2, '0'),
+    'timezone', private.academy_tz(),
+    'autoAbsentTime', private.setting('auto_absent_time', ''),
+    'weeklyOffDays', coalesce((
+      select jsonb_agg(day::integer order by ordinal)
+      from unnest(string_to_array(private.setting('weekly_off_days', '0'), ',')) with ordinality as days(day, ordinal)
+    ), '[]'::jsonb)
+  )
+$$;
+
+create or replace function private.settings_validate() returns trigger
+language plpgsql set search_path = '' as $$
+begin
+  if new.name = 'school_start' and new.value !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then
+    raise exception 'School start time must look like 08:00.' using errcode = 'PT400', hint = 'startTime';
+  elsif new.name = 'grace_minutes' and (new.value !~ '^[0-9]{1,3}$' or new.value::integer > 120) then
+    raise exception 'Grace period must be a whole number of minutes (0-120).' using errcode = 'PT400', hint = 'graceMinutes';
+  elsif new.name in ('self_checkin', 'legacy_link') and new.value not in ('0', '1') then
+    raise exception 'That setting must be 0 or 1.' using errcode = 'PT400';
+  elsif new.name = 'max_pending' and (new.value !~ '^[0-9]{1,3}$' or new.value::integer < 1) then
+    raise exception 'max_pending must be a number from 1 to 999.' using errcode = 'PT400';
+  elsif new.name = 'timezone' and not exists (select 1 from pg_catalog.pg_timezone_names z where z.name = new.value) then
+    raise exception 'Unknown timezone.' using errcode = 'PT400';
+  elsif new.name = 'auto_absent_time' and new.value <> '' and new.value !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then
+    raise exception 'Automatic absent time must look like 16:30 or be blank.' using errcode = 'PT400', hint = 'autoAbsentTime';
+  elsif new.name = 'weekly_off_days' and new.value <> '' and new.value !~ '^[0-6](,[0-6])*$' then
+    raise exception 'Weekly off days must be comma-separated weekday numbers from 0 to 6.' using errcode = 'PT400';
+  end if;
+  return new;
+end
+$$;
+
+create or replace function public.dashboard_admin() returns jsonb
+language plpgsql stable security invoker set search_path = '' as $$
+declare
+  v_today date := private.academy_today();
+  v_total integer;
+  v_pending integer;
+  v_not_marked integer;
+  v_list jsonb;
+  r record;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You don''t have permission to do that.'); end if;
+  select count(*) into v_total from public.teachers where status = 'active';
+  select count(*) into v_pending from public.teachers where status = 'pending';
+  select count(*) filter (where a.status in ('present', 'late')) as p,
+         count(*) filter (where a.status = 'absent') as a,
+         count(*) filter (where a.status = 'late') as l,
+         count(*) filter (where a.status = 'leave') as v
+    into r from public.attendance a join public.teachers t on t.id = a.teacher_id
+   where a.attendance_date = v_today;
+  select coalesce(jsonb_agg(private.att_json(a, t) order by t.name), '[]'::jsonb) into v_list
+    from public.attendance a join public.teachers t on t.id = a.teacher_id where a.attendance_date = v_today;
+  if private.is_weekly_off(v_today) then
+    v_not_marked := 0;
+  else
+    select count(*) into v_not_marked from public.teachers t
+     where t.status = 'active' and t.joining_date <= v_today and (t.leaving_date is null or t.leaving_date >= v_today)
+       and not exists (select 1 from public.attendance a where a.teacher_id = t.id and a.attendance_date = v_today)
+       and not exists (select 1 from public.leave_requests l where l.teacher_id = t.id and l.status = 'approved'
+         and v_today between l.start_date and l.end_date);
+  end if;
+  return jsonb_build_object(
+    'date', to_char(v_today, 'YYYY-MM-DD'),
+    'stats', jsonb_build_object('totalTeachers', v_total, 'present', r.p, 'absent', r.a, 'late', r.l, 'leave', r.v,
+      'notMarked', v_not_marked, 'pending', v_pending),
+    'todayAttendance', v_list
+  );
+end
+$$;
+
+create or replace function public.admin_update_attendance_rules(
+  p_start_time text,
+  p_grace_minutes integer,
+  p_self_checkin boolean,
+  p_auto_absent_time text,
+  p_weekly_off_days integer[]
+) returns jsonb
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_uid uuid := (select auth.uid());
+  v_cutoff text := coalesce(p_auto_absent_time, '');
+  v_days integer[];
+  v_cutoff_minutes integer;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You don''t have permission to do that.'); end if;
+  if coalesce(p_start_time, '') !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then
+    perform private.fail(400, 'Choose the time school starts.', 'startTime');
+  end if;
+  if p_grace_minutes is null or p_grace_minutes not between 0 and 120 then
+    perform private.fail(400, 'Enter a whole number of minutes (0-120).', 'graceMinutes');
+  end if;
+  if v_cutoff <> '' and v_cutoff !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then
+    perform private.fail(400, 'Choose a valid automatic absent time.', 'autoAbsentTime');
+  end if;
+  if p_weekly_off_days is null or exists (select 1 from unnest(p_weekly_off_days) d where d < 0 or d > 6) then
+    perform private.fail(400, 'Choose valid weekly off days.');
+  end if;
+  select coalesce(array_agg(day order by day), array[]::integer[]) into v_days
+    from (select distinct d as day from unnest(p_weekly_off_days) d) choices;
+  if v_cutoff <> '' then
+    v_cutoff_minutes := split_part(v_cutoff, ':', 1)::integer * 60 + split_part(v_cutoff, ':', 2)::integer;
+    if v_cutoff_minutes <= least(
+      split_part(p_start_time, ':', 1)::integer * 60
+        + split_part(p_start_time, ':', 2)::integer + p_grace_minutes,
+      23 * 60 + 59
+    ) then
+      perform private.fail(400, 'Choose a time later than the late threshold.', 'autoAbsentTime');
+    end if;
+  end if;
+
+  insert into public.settings (name, value, updated_by) values ('school_start', p_start_time, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('grace_minutes', p_grace_minutes::text, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('self_checkin', case when coalesce(p_self_checkin, false) then '1' else '0' end, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by) values ('auto_absent_time', v_cutoff, v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+  insert into public.settings (name, value, updated_by)
+    values ('weekly_off_days', array_to_string(v_days, ','), v_uid)
+    on conflict (name) do update set value = excluded.value, updated_by = excluded.updated_by;
+
+  return jsonb_build_object('message', 'Settings saved successfully.', 'data', private.rules_json());
+end
+$$;
+
+create or replace function private.is_weekly_off(p_date date) returns boolean
+language sql stable security definer set search_path = '' as $$
+  select extract(dow from p_date)::integer = any(
+    coalesce(string_to_array(private.setting('weekly_off_days', '0'), ',')::integer[], array[]::integer[])
+  )
+$$;
+
+create or replace function public.teacher_daily_report(p_teacher bigint, p_from date, p_to date)
+returns jsonb language plpgsql security definer set search_path = '' as $$
+declare
+  v_to date;
+  v_data jsonb;
+begin
+  if not private.is_admin() then perform private.fail(403, 'You don''t have permission to do that.'); end if;
+  if p_teacher is null or p_from is null or p_to is null or p_to < p_from then
+    perform private.fail(400, 'Choose a teacher and a valid date range.');
+  end if;
+  if not exists (select 1 from public.teachers where id = p_teacher) then
+    perform private.fail(404, 'Teacher not found.');
+  end if;
+  v_to := least(p_to, private.academy_today());
+  if p_from > v_to then return jsonb_build_object('data', '[]'::jsonb); end if;
+  if v_to - p_from > 365 then perform private.fail(400, 'Daily reports are limited to 366 days.'); end if;
+
+  select coalesce(jsonb_agg(jsonb_build_object(
+    'date', to_char(c.day, 'YYYY-MM-DD'),
+    'status', case
+      when a.id is not null then a.status
+      when private.is_weekly_off(c.day) then 'weekly_off'
+      when exists (select 1 from public.leave_requests l where l.teacher_id = p_teacher
+        and l.status = 'approved' and c.day between l.start_date and l.end_date) then 'approved_leave'
+      else 'not_marked'
+    end,
+    'check_in', coalesce(to_char(a.check_in, 'HH24:MI'), ''),
+    'check_out', coalesce(to_char(a.check_out, 'HH24:MI'), ''),
+    'remarks', coalesce(a.remarks, '')
+  ) order by c.day), '[]'::jsonb)
+    into v_data
+    from (select p_from + dates.day_offset as day from generate_series(0, v_to - p_from) as dates(day_offset)) c
+    left join public.attendance a on a.teacher_id = p_teacher and a.attendance_date = c.day;
+  return jsonb_build_object('data', v_data);
+end
+$$;
+
+create or replace function private.auto_mark_absent() returns integer
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_today date := private.academy_today();
+  v_cutoff text := private.setting('auto_absent_time', '');
+  v_now time := private.academy_now()::time;
+  v_teacher record;
+  v_attendance_id bigint;
+  v_marked integer := 0;
+begin
+  if v_cutoff = '' then return 0; end if;
+  if v_cutoff !~ '^([01][0-9]|2[0-3]):[0-5][0-9]$' then return 0; end if;
+  if v_now < v_cutoff::time then return 0; end if;
+  if private.is_weekly_off(v_today) then return 0; end if;
+
+  for v_teacher in
+    select t.id, t.teacher_id
+      from public.teachers t
+     where t.status = 'active'
+       and t.joining_date <= v_today
+       and (t.leaving_date is null or t.leaving_date >= v_today)
+       and not exists (
+         select 1 from public.attendance a where a.teacher_id = t.id and a.attendance_date = v_today
+       )
+       and not exists (
+         select 1 from public.leave_requests l
+          where l.teacher_id = t.id and l.status = 'approved'
+            and v_today between l.start_date and l.end_date
+       )
+     order by t.id
+  loop
+    insert into public.attendance (teacher_id, attendance_date, status, remarks)
+      values (v_teacher.id, v_today, 'absent', 'Automatically marked absent after ' || v_cutoff)
+      on conflict (teacher_id, attendance_date) do nothing
+      returning id into v_attendance_id;
+    if found then
+      perform private.audit(null, 'attendance_auto_absent', 'attendance', v_attendance_id::text, null,
+        jsonb_build_object('teacher_id', v_teacher.id, 'teacher_code', v_teacher.teacher_id,
+          'date', v_today, 'status', 'absent', 'cutoff', v_cutoff));
+      v_marked := v_marked + 1;
+    end if;
+  end loop;
+  return v_marked;
+end
+$$;
+
+revoke all on function private.auto_mark_absent() from public, anon, authenticated;
+revoke all on function private.is_weekly_off(date) from public, anon, authenticated;
+revoke all on function public.admin_update_attendance_rules(text, integer, boolean, text, integer[]) from public, anon;
+revoke all on function public.teacher_daily_report(bigint, date, date) from public, anon;
+grant execute on function public.admin_update_attendance_rules(text, integer, boolean, text, integer[]) to authenticated;
 grant execute on function public.teacher_daily_report(bigint, date, date) to authenticated;
 grant execute on function private.is_weekly_off(date) to authenticated;
 grant execute on function private.auto_mark_absent() to postgres;

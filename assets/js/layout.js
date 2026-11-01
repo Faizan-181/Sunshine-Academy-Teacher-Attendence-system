@@ -1,2 +1,107 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×Ý¸N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐì¡Ñµ°°µ½Õ¹Ð°¥Œ°…Ù…Ñ…È°‰…‘”°‘•‰½Õ¹”°‘‰=ÕÑ‘…Ñ•‘9½Ñ¥”ô™É½´€œ¸½Õ¤¹©Ìœì4)¥µÁ½ÉÐì•Ðô™É½´€œ¸½…Á¤¹©Ìœì4)¥µÁ½ÉÐìÍÑ…Ñ”ô™É½´€œ¸½ÍÑ…Ñ”¹©Ìœì4)¥µÁ½ÉÐì™½Éµ…Ñ1½¹…Ñ”ô™É½´€œ¸½™½Éµ…Ð¹©Ìœì4(4)½¹ÍÐ5%9}1%9-L€ôl4(€lœ¼œ°€…Í¡‰½…Éœ°€±…å½ÕÐµ‘…Í¡‰½…Ét°4(€lœ½Ñ•…¡•ÉÌœ°€Q•…¡•ÉÌœ°€ÕÍ•ÉÌt°4(€lœ½µ…É¬µ…ÑÑ•¹‘…¹”œ°€5…É¬ÑÑ•¹‘…¹”œ°€±¥Á‰½…Éµ¡•¬t°4(€lœ½…ÑÑ•¹‘…¹”œ°€ÑÑ•¹‘…¹”!¥ÍÑ½Éäœ°€¡¥ÍÑ½Éät°4(€lœ½±•…Ù”µÉ•ÅÕ•ÍÑÌœ°€1•…Ù”I•ÅÕ•ÍÑÌœ°€…±•¹‘…Èµ¡•¬t°4(€lœ½É•Á½ÉÑÌœ°€I•Á½ÉÑÌœ°€¡…ÉÐµ½±Õµ¸t°4(€lœ½ÑÉ•¹‘Ìœ°€ÑÑ•¹‘…¹”QÉ•¹‘Ìœ°€¡…ÉÐµ½±Õµ¸t°4(€lœ½ÁÉ½™¥±”œ°€AÉ½™¥±”œ°€¥É±”µÕÍ•Èt°4(€lœ½Í•ÑÑ¥¹Ìœ°€M•ÑÑ¥¹Ìœ°€Í•ÑÑ¥¹Ìt°4)tì4)½¹ÍÐQ!I}1%9-L€ôl4(€lœ¼œ°€…Í¡‰½…Éœ°€±…å½ÕÐµ‘…Í¡‰½…Ét°4(€lœ½µäµ…ÑÑ•¹‘…¹”œ°€5äÑÑ•¹‘…¹”œ°€…±•¹‘…Èµ¡•¬t°4(€lœ½±•…Ù”µÉ•ÅÕ•ÍÑÌœ°€5ä1•…Ù”œ°€…±•¹‘…Èµ¡•¬t°4(€lœ½ÁÉ½™¥±”œ°€5äAÉ½™¥±”œ°€¥É±”µÕÍ•Èt°4)tì4(4(¼¨¨É…ÝÌÑ¡”Í¥‘•‰…È€¬Ñ½À‰…È½¹”…™Ñ•ÈÍ¥¸µ¥¸…¹É•ÑÕÉ¹ÌÑ¡”•±•µ•¹ÐÁ…•ÌÉ•¹‘•È¥¹Ñ¼¸€¨¼4)•áÁ½ÉÐ™Õ¹Ñ¥½¸É•¹‘•ÉM¡•±°¡…ÁÀ¤ì4(€½¹ÍÐÕÍ•È€ôÍÑ…Ñ”¹ÕÍ•Èì4(€½¹ÍÐ±¥¹­Ì€ôÕÍ•È¹É½±”€ôôô€…‘µ¥¸œ€ü5%9}1%9-L€èQ!I}1%9-Lì4(4(€µ½Õ¹Ð¡…ÁÀ°¡Ñµ±€4(€€€€ñ…Í¥‘”±…ÍÌô‰Í¥‘•‰…Èˆ¥ô‰Í¥‘•‰…Èˆ…É¥„µ±…‰•°ô‰5…¥¸¹…Ù¥…Ñ¥½¸ˆø4(€€€€€€ñ‘¥Ø±…ÍÌô‰Í¥‘•‰…Èµ‰É…¹ˆø4(€€€€€€€€ñÍÁ…¸±…ÍÌô‰Í¥‘•‰…Èµ±½¼ˆøñ¥µœÍÉŒô‰…ÍÍ•ÑÌ½¥µœ½±½¼¹Á¹œˆ…±Ðô‰MÕ¹Í¡¥¹”…‘•µäÉ•ÍÐˆÝ¥‘Ñ ôˆÐàˆ¡•¥¡ÐôˆÐàˆøð½ÍÁ…¸ø4(€€€€€€€€ñ‘¥Ø±…ÍÌô‰Í¥‘•‰…ÈµÑ¥Ñ±”ˆøñÍÑÉ½¹œùMÕ¹Í¡¥¹”ð½ÍÑÉ½¹œøñÍÁ…¸ù…‘•µäð½ÍÁ…¸øð½‘¥Øø4(€€€€€€€€ñ‰ÕÑÑ½¸ÑåÁ”ô‰‰ÕÑÑ½¸ˆ±…ÍÌô‰Í¥‘•‰…Èµ±½Í”ˆ¥ô‰µ•¹Ôµ±½Í”ˆ…É¥„µ±…‰•°ô‰±½Í”µ•¹Ôˆø‘í¥Œ àœ°€ÈÀ¥ôð½‰ÕÑÑ½¸ø4(€€€€€€ð½‘¥Øø4(€€€€€€ñ¹…Ø±…ÍÌô‰¹…Øˆø‘í±¥¹­Ì¹µ…À ¡mÑ¼°±…‰•°°¹…µ•t¤€ôø¡Ñµ±€ñ„¡É•˜ôˆŒ‘íÑ½ôˆ‘…Ñ„µ¹…Øôˆ‘íÑ½ôˆø‘í¥Œ¡¹…µ”°€ÈÀ¥ô€‘í±…‰•±ôð½„ù€¥ôð½¹…Øø4(€€€€€€ñ‘¥Ø±…ÍÌô‰Í¥‘•‰…Èµ™½½Ðˆøñ‰ÕÑÑ½¸ÑåÁ”ô‰‰ÕÑÑ½¸ˆ¥ô‰±½½ÕÐµ‰Ñ¸ˆø‘í¥Œ ±½œµ½ÕÐœ°€ÈÀ¥ô1½½ÕÐð½‰ÕÑÑ½¸øð½‘¥Øø4(€€€€ð½…Í¥‘”ø4(€€€€ñ‘¥Ø±…ÍÌô‰‰…­‘É½À¡¥‘‘•¸ˆ¥ô‰‰…­‘É½Àˆøð½‘¥Øø4(€€€€ñ‘¥Ø±…ÍÌô‰µ…¥¸ˆø4(€€€€€€ñ¡•…‘•È±…ÍÌô‰Ñ½Á‰…Èˆø4(€€€€€€€€ñ‰ÕÑÑ½¸ÑåÁ”ô‰‰ÕÑÑ½¸ˆ±…ÍÌô‰µ•¹Ôµ‰Ñ¸ˆ¥ô‰µ•¹Ôµ½Á•¸ˆ…É¥„µ±…‰•°ô‰=Á•¸µ•¹Ôˆø‘í¥Œ µ•¹Ôœ°€ÈÐ¥ôð½‰ÕÑÑ½¸ø4(€€€€€€€€‘íÕÍ•È¹É½±”€ôôô€…‘µ¥¸œ4(€€€€€€€€€€ü¡Ñµ±€ñ‘¥Ø±…ÍÌô‰Í•…É ˆ¥ô‰Í•…É ˆÉ½±”ô‰Í•…É ˆø‘í¥Œ Í•…É œ°€ÄØ¥ôñ¥¹ÁÕÐ±…ÍÌô‰¥¹ÁÕÐˆ¥ô‰Í•…É µ¥¹ÁÕÐˆÑåÁ”ô‰Í•…É ˆÁ±…•¡½±‘•Èô‰M•…É Ñ•…¡•ÉÌ‰ä¹…µ”°%½ÈÍÕ‰©•Ðˆ…É¥„µ±…‰•°ô‰M•…É Ñ•…¡•ÉÌˆ…ÕÑ½½µÁ±•Ñ”ô‰½™˜ˆøñ‘¥Ø±…ÍÌô‰Í•…É µÉ•ÍÕ±ÑÌ¡§}¸¶‰žËkºwµçy•È ±¥¬œ°€ ¤€ôøÍ•Ñ=Á•¸¡™…±Í”¤¤ì4(€…ÁÀ¹ÅÕ•ÉåM•±•Ñ½É±° m‘…Ñ„µ¹…Ùtœ¤¹™½É…  ¡„¤€ôø„¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøÍ•Ñ=Á•¸¡™…±Í”¤¤¤ì4(€…ÁÀ¹ÅÕ•ÉåM•±•Ñ½È œ±½½ÕÐµ‰Ñ¸œ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôø‘½Õµ•¹Ð¹‘¥ÍÁ…Ñ¡Ù•¹Ð¡¹•ÜÕÍÑ½µÙ•¹Ð …ÁÀé±½½ÕÐœ¤¤¤ì4(4(€‰¥¹‘±½‰…±M•…É ¡…ÁÀ¤ì4(€É•ÑÕÉ¸…ÁÀ¹ÅÕ•ÉåM•±•Ñ½È œÙ¥•Üœ¤ì4)ô4(4(¼¨¨‘µ¥¸µ½¹±äÍ•…É ‰½à¥¸Ñ¡”Ñ½À‰…ÈèÑåÁ”„¹…µ”°%½ÈÍÕ‰©•Ð…¹©ÕµÀÑ¼Ñ¡…ÐÑ•…¡•È¸€¨¼4)™Õ¹Ñ¥½¸‰¥¹‘±½‰…±M•…É ¡…ÁÀ¤ì4(€½¹ÍÐ‰½à€ô…ÁÀ¹ÅÕ•ÉåM•±•Ñ½È œÍ•…É œ¤ì4(€¥˜€ …‰½à¤É•ÑÕÉ¸ì4(€½¹ÍÐ¥¹ÁÕÐ€ô‰½à¹ÅÕ•ÉåM•±•Ñ½È ¥¹ÁÕÐœ¤ì4(€½¹ÍÐÁ…¹•°€ô‰½à¹ÅÕ•ÉåM•±•Ñ½È œÍ•…É µÉ•ÍÕ±ÑÌœ¤ì4(€±•Ð±…Ñ•ÍÐ€ô€Àì4(4(€½¹ÍÐ±½Í”€ô€ ¤€ôøÁ…¹•°¹±…ÍÍ1¥ÍÐ¹…‘ ¡¥‘‘•¸œ¤ì4(€½¹ÍÐÍ¡½Ü€ô€¡½¹Ñ•¹Ð¤€ôøìµ½Õ¹Ð¡Á…¹•°°½¹Ñ•¹Ð¤ìÁ…¹•°¹±…ÍÍ1¥ÍÐ¹É•µ½Ù” ¡¥‘‘•¸œ¤ìôì4(4(€½¹ÍÐÍ•…É €ô‘•‰½Õ¹”¡…Íå¹Œ€¡ÅÕ•Éä¤€ôøì4(€€€½¹ÍÐµ¥¹”€ô€¬­±…Ñ•ÍÐì4(€€€¥˜€¡ÅÕ•Éä¹±•¹Ñ €ð€È¤É•ÑÕÉ¸±½Í” ¤ì4(€€€ÑÉäì4(€€€€€½¹ÍÐì‘…Ñ„ô€ô…Ý…¥Ð•Ð œ½Ñ•…¡•ÉÌœ°ìÍ•…É èÅÕ•Éä°±¥µ¥Ðè€Øô¤ì4(€€€€€¥˜€¡µ¥¹”€„ôô±…Ñ•ÍÐ¤É•ÑÕÉ¸ì€¼¼„¹•Ý•ÈÍ•…É ¥Ì…±É•…‘äÉÕ¹¹¥¹œ4(€€€€€Í¡½Ü¡‘…Ñ„¹±•¹Ñ 4(€€€€€€€€ü¡Ñµ±€‘í‘…Ñ„¹µ…À ¡Ð¤€ôø¡Ñµ±€ñ„±…ÍÌô‰Ìµ¥Ñ•´ˆ¡É•˜ôˆŒ½Ñ•…¡•ÉÌ¼‘íÐ¹¥‘ôˆø‘í…Ù…Ñ…È¡Ð¹¹…µ”¥ôñÍÁ…¸±…ÍÌô‰ÌµÑ•áÐˆøñˆø‘íÐ¹¹…µ•ôð½ˆøñÍµ…±°ø‘íÐ¹Ñ•…¡•É}¥‘ôƒ
-Ü€‘íÐ¹ÍÕ‰©•Ñôð½Íµ…±°øð½ÍÁ…¸ø‘í‰…‘”¡Ð¹ÍÑ…ÑÕÌ¥ôð½„ù€¥õ€4(€€€€€€€€è¡Ñµ±€ñÀ±…ÍÌô‰Ìµ•µÁÑäˆù9¼Ñ•…¡•ÉÌ™½Õ¹¸ð½Àù€¤ì4(€€€ô…Ñ ì4(€€€€€¥˜€¡µ¥¹”€ôôô±…Ñ•ÍÐ¤Í¡½Ü¡¡Ñµ±€ñÀ±…ÍÌô‰Ìµ•µÁÑäˆùU¹…‰±”Ñ¼Í•…É É¥¡Ð¹½Ü¸ð½Àù€¤ì4(€€€ô4(€ô°€ÈÔÀ¤ì4(4(€¥¹ÁÕÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ¥¹ÁÕÐœ°€ ¤€ôøÍ•…É ¡¥¹ÁÕÐ¹Ù…±Õ”¹ÑÉ¥´ ¤¤¤ì4(€¥¹ÁÕÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ­•å‘½Ý¸œ°€¡”¤€ôøì4(€€€¥˜€¡”¹­•ä€ôôô€Í…Á”œ¤ì±½Í” ¤ì¥¹ÁÕÐ¹‰±ÕÈ ¤ìô4(€€€¥˜€¡”¹­•ä€ôôô€¹Ñ•Èœ¤Á…¹•°¹ÅÕ•ÉåM•±•Ñ½È œ¹Ìµ¥Ñ•´œ¤ü¹±¥¬ ¤ì4(€ô¤ì4(€Á…¹•°¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€¡”¤€ôøì¥˜€¡”¹Ñ…É•Ð¹±½Í•ÍÐ œ¹Ìµ¥Ñ•´œ¤¤ì±½Í” ¤ì¥¹ÁÕÐ¹Ù…±Õ”€ô€œœìôô¤ì4(€‘½Õµ•¹Ð¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È µ½ÕÍ•‘½Ý¸œ°€¡”¤€ôøì¥˜€ …‰½à¹½¹Ñ…¥¹Ì¡”¹Ñ…É•Ð¤¤±½Í” ¤ìô¤ì4)ô4(4(¼¨¨!¥¡±¥¡ÑÌÑ¡”ÕÉÉ•¹ÐÁ…”¥¸Ñ¡”Í¥‘•‰…È¸€¨¼4)•áÁ½ÉÐ™Õ¹Ñ¥½¸Í•ÑÑ¥Ù•9…Ø¡Á…Ñ ¤ì4(€‘½Õµ•¹Ð¹ÅÕ•ÉåM•±•Ñ½É±° m‘…Ñ„µ¹…Ùtœ¤¹™½É…  ¡„¤€ôøì4(€€€½¹ÍÐÑ¼€ô„¹‘…Ñ…Í•Ð¹¹…Øì4(€€€½¹ÍÐ…Ñ¥Ù”€ôÑ¼€ôôô€œ¼œ€üÁ…Ñ €ôôô€œ¼œ€èÁ…Ñ €ôôôÑ¼ñðÁ…Ñ ¹ÍÑ…ÉÑÍ]¥Ñ ¡Ñ¼€¬€œ¼œ¤ì4(€€€„¹±…ÍÍ1¥ÍÐ¹Ñ½±” …Ñ¥Ù”œ°…Ñ¥Ù”¤ì4(€€€¥˜€¡…Ñ¥Ù”¤„¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µÕÉÉ•¹Ðœ°€Á…”œ¤ì•±Í”„¹É•µ½Ù•ÑÑÉ¥‰ÕÑ” …É¥„µÕÉÉ•¹Ðœ¤ì4(€ô¤ì4)ô4
+import { html, mount, ic, avatar, badge, debounce, dbOutdatedNotice } from './ui.js';
+import { get } from './api.js';
+import { state } from './state.js';
+import { formatLongDate } from './format.js';
+
+const ADMIN_LINKS = [
+  ['/', 'Dashboard', 'layout-dashboard'],
+  ['/teachers', 'Teachers', 'users'],
+  ['/mark-attendance', 'Mark Attendance', 'clipboard-check'],
+  ['/attendance', 'Attendance History', 'history'],
+  ['/leave-requests', 'Leave Requests', 'calendar-check'],
+  ['/reports', 'Reports', 'chart-column'],
+  ['/trends', 'Attendance Trends', 'chart-column'],
+  ['/profile', 'Profile', 'circle-user'],
+  ['/settings', 'Settings', 'settings'],
+];
+const TEACHER_LINKS = [
+  ['/', 'Dashboard', 'layout-dashboard'],
+  ['/my-attendance', 'My Attendance', 'calendar-check'],
+  ['/leave-requests', 'My Leave', 'calendar-check'],
+  ['/profile', 'My Profile', 'circle-user'],
+];
+
+/** Draws the sidebar + top bar once after sign-in and returns the element pages render into. */
+export function renderShell(app) {
+  const user = state.user;
+  const links = user.role === 'admin' ? ADMIN_LINKS : TEACHER_LINKS;
+
+  mount(app, html`
+    <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+      <div class="sidebar-brand">
+        <span class="sidebar-logo"><img src="assets/img/logo.png" alt="Sunshine Academy crest" width="48" height="48"></span>
+        <div class="sidebar-title"><strong>Sunshine</strong><span>Academy</span></div>
+        <button type="button" class="sidebar-close" id="menu-close" aria-label="Close menu">${ic('x', 20)}</button>
+      </div>
+      <nav class="nav">${links.map(([to, label, name]) => html`<a href="#${to}" data-nav="${to}">${ic(name, 20)} ${label}</a>`)}</nav>
+      <div class="sidebar-foot"><button type="button" id="logout-btn">${ic('log-out', 20)} Logout</button></div>
+    </aside>
+    <div class="backdrop hidden" id="backdrop"></div>
+    <div class="main">
+      <header class="topbar">
+        <button type="button" class="menu-btn" id="menu-open" aria-label="Open menu">${ic('menu', 24)}</button>
+        ${user.role === 'admin'
+          ? html`<div class="gsearch" id="gsearch" role="search">${ic('search', 16)}<input class="input" id="gsearch-input" type="search" placeholder="Search teachers by name, ID or subject" aria-label="Search teachers" autocomplete="off"><div class="gsearch-results hidden" id="gsearch-results"></div></div>`
+          : html`<a class="topbar-brand" href="#/"><img src="assets/img/logo.png" alt="" width="32" height="32"><span>Sunshine Academy</span></a>`}
+        <p class="topbar-date">${formatLongDate(state.today)}</p>
+        <div class="topbar-user"><div class="who"><strong>${user.name}</strong><span>${user.role}</span></div>${avatar(user.name)}</div>
+      </header>
+      <main class="content">${state.dbOutdated && user.role === 'admin' ? dbOutdatedNotice() : ''}<div id="view"></div></main>
+    </div>`);
+
+  const sidebar = app.querySelector('#sidebar');
+  const backdrop = app.querySelector('#backdrop');
+  const setOpen = (open) => { sidebar.classList.toggle('open', open); backdrop.classList.toggle('hidden', !open); };
+  app.querySelector('#menu-open').addEventListener('click', () => setOpen(true));
+  app.querySelector('#menu-close').addEventListener('click', () => setOpen(false));
+  backdrop.addEventListener('click', () => setOpen(false));
+  app.querySelectorAll('[data-nav]').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+  app.querySelector('#logout-btn').addEventListener('click', () => document.dispatchEvent(new CustomEvent('app:logout')));
+
+  bindGlobalSearch(app);
+  return app.querySelector('#view');
+}
+
+/** Admin-only search box in the top bar: type a name, ID or subject and jump to that teacher. */
+function bindGlobalSearch(app) {
+  const box = app.querySelector('#gsearch');
+  if (!box) return;
+  const input = box.querySelector('input');
+  const panel = box.querySelector('#gsearch-results');
+  let latest = 0;
+
+  const close = () => panel.classList.add('hidden');
+  const show = (content) => { mount(panel, content); panel.classList.remove('hidden'); };
+
+  const search = debounce(async (query) => {
+    const mine = ++latest;
+    if (query.length < 2) return close();
+    try {
+      const { data } = await get('/teachers', { search: query, limit: 6 });
+      if (mine !== latest) return; // a newer search is already running
+      show(data.length
+        ? html`${data.map((t) => html`<a class="gs-item" href="#/teachers/${t.id}">${avatar(t.name)}<span class="gs-text"><b>${t.name}</b><small>${t.teacher_id} Â· ${t.subject}</small></span>${badge(t.status)}</a>`)}`
+        : html`<p class="gs-empty">No teachers found.</p>`);
+    } catch {
+      if (mine === latest) show(html`<p class="gs-empty">Unable to search right now.</p>`);
+    }
+  }, 250);
+
+  input.addEventListener('input', () => search(input.value.trim()));
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { close(); input.blur(); }
+    if (e.key === 'Enter') panel.querySelector('.gs-item')?.click();
+  });
+  panel.addEventListener('click', (e) => { if (e.target.closest('.gs-item')) { close(); input.value = ''; } });
+  document.addEventListener('mousedown', (e) => { if (!box.contains(e.target)) close(); });
+}
+
+/** Highlights the current page in the sidebar. */
+export function setActiveNav(path) {
+  document.querySelectorAll('[data-nav]').forEach((a) => {
+    const to = a.dataset.nav;
+    const active = to === '/' ? path === '/' : path === to || path.startsWith(to + '/');
+    a.classList.toggle('active', active);
+    if (active) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+  });
+}

@@ -1,4 +1,67 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌ€^ºNãZñã≠¶Îeäw¨’•µ¡Ω…–ÅÏÅ°—µ∞∞ÅµΩ’π–∞Å•å∞Å¡Öùï!ïÖê∞Åô•ï±ê∞Å•π¡’–∞ÅÕï±ïç–∞Å—ï·—Ö…ïÑ∞Å¡ÖÕÕ›Ω…ëΩπ—…Ω∞∞Åâ•πëAÖÕÕ›Ω…ëQΩùù±ïÃ∞ÅÕ°Ω›•ï±ë……Ω…Ã∞ÅôΩ…µYÖ±’ïÃ∞ÅÕï—1ΩÖë•πú∞Å—ΩÖÕ–∞Åï……Ω…M—Ö—î∞Å±ΩÖë•πú∞ÄêÅÙÅô…Ω¥Äú∏∏Ω’§π©ÃúÏ4)•µ¡Ω…–ÅÏÅùï–∞Å¡ΩÕ–∞Å¡’–∞Åï……5ÕúÅÙÅô…Ω¥Äú∏∏ΩÖ¡§π©ÃúÏ4(4(ººÅQ°îÅÕÖµîÅ…’±ïÃÅ—°îÅÕï…Ÿï»Å’ÕïÃ∞ÅÕºÅ¡ïΩ¡±îÅùï–Å•πÕ—Öπ–ÅôïïëâÖç¨∏4)ô’πç—•Ω∏ÅŸÖ±•ëÖ—î°ÿ∞Å•Õë•–§ÅÏ4(ÄÅçΩπÕ–ÅîÄÙÅÌÙÏ4(ÄÅ•òÄ†ÑΩymµiÑµË¿¥‰µuÏ»∞»¡Ùêºπ—ïÕ–°ÿπ—ïÖç°ï…}•êπ—…•¥†§§§Åîπ—ïÖç°ï…}•êÄÙÄùUÕîÅ±ï——ï…Ã∞Åπ’µâï…ÃÅÖπêÅëÖÕ°ïÃÅΩπ±‰Ä†ÀäL»¿Åç°Ö…Öç—ï…Ã§∏úÏ4(ÄÅ•òÄ°ÿππÖµîπ—…•¥†§π±ïπù—†ÄÄ»§ÅîππÖµîÄÙÄùπ—ï»Å—°îÅô’±∞ÅπÖµî∏úÏ4(ÄÅ•òÄ†ÑΩyqL≠qL≠pπqL¨êºπ—ïÕ–°ÿπïµÖ•∞π—…•¥†§§§ÅîπïµÖ•∞ÄÙÄùπ—ï»ÅÑÅŸÖ±•êÅïµÖ•∞ÅÖëë…ïÕÃ∏úÏ4(ÄÅ•òÄ†ÑΩyl¿¥‰≠pµqÃ†•uÏ‹∞»¡Ùêºπ—ïÕ–°ÿπ¡°Ωπîπ—…•¥†§§§Åîπ¡°ΩπîÄÙÄùπ—ï»ÅÑÅŸÖ±•êÅ¡°ΩπîÅπ’µâï»∏úÏ4(ÄÅ•òÄ°ÿπÕ’â©ïç–π—…•¥†§π±ïπù—†ÄÄ»§ÅîπÕ’â©ïç–ÄÙÄùπ—ï»Å—°îÅÕ’â©ïç–∏úÏ4(ÄÅ•òÄ†Öÿπ©Ω•π•πù}ëÖ—î§Åîπ©Ω•π•πù}ëÖ—îÄÙÄù°ΩΩÕîÅ—°îÅ©Ω•π•πúÅëÖ—î∏úÏ4(ÄÅ•òÄ°ÿπëÖ—ï}Ωô}â•…—†ÄòòÅÿπ©Ω•π•πù}ëÖ—îÄòòÅÿπëÖ—ï}Ωô}â•…—†Ä¯ÙÅÿπ©Ω•π•πù}ëÖ—î§ÅîπëÖ—ï}Ωô}â•…—†ÄÙÄùÖ—îÅΩòÅâ•…—†Åµ’Õ–ÅâîÅâïôΩ…îÅ—°îÅ©Ω•π•πúÅëÖ—î∏úÏ4(ÄÅ•òÄ°ÿπÕ—Ö…—Q•µï=Ÿï……•ëîÄòòÄÑΩx°l¿≈ul¿¥Âu…l¿¥Õt§Èl¿¥’ul¿¥Âtêºπ—ïÕ–°ÿπÕ—Ö…—Q•µï=Ÿï……•ëî§§ÅîπÕ—Ö…—Q•µï=Ÿï……•ëîÄÙÄù°ΩΩÕîÅÑÅŸÖ±•êÅÕ—Ö…–Å—•µî∏úÏ4(ÄÅ•òÄ°ÿπù…Öçï5•π’—ïÕ=Ÿï……•ëîÄÑÙÙÄúúÄòòÄ†ÑΩyqê¨êºπ—ïÕ–°ÿπù…Öçï5•π’—ïÕ=Ÿï……•ëî§ÅÒÅ9’µâï»°ÿπù…Öçï5•π’—ïÕ=Ÿï……•ëî§Ä¯Äƒ»¿§§Åîπù…Öçï5•π’—ïÕ=Ÿï……•ëîÄÙÄùπ—ï»ÅÑÅ›°Ω±îÅπ’µâï»ÅΩòÅµ•π’—ïÃÄ†√äLƒ»¿§∞ÅΩ»Å±ïÖŸîÅâ±Öπ¨ÅôΩ»Å—°îÅÕç°ΩΩ∞ÅëïôÖ’±–∏úÏ4(ÄÅ•òÄ°ÿπÖ’—ΩâÕïπ—5ΩëîÄÙÙÙÄùç’Õ—Ω¥úÄòòÄÑΩx°l¿≈ul¿¥Âu…l¿¥Õt§Èl¿¥’ul¿¥Âtêºπ—ïÕ–°ÿπÖ’—ΩâÕïπ—Q•µîÅÒÄúú§§ÅîπÖ’—ΩâÕïπ—Q•µîÄÙÄù°ΩΩÕîÅÑÅç’Õ—Ω¥ÅÖâÕïπ–Åç’—ΩôòÅ—•µî∏úÏ4(ÄÅ•òÄ†Ö•Õë•–ÄòòÅÿπ¡ÖÕÕ›Ω…êπ±ïπù—†ÄÄ‡§Åîπ¡ÖÕÕ›Ω…êÄÙÄùAÖÕÕ›Ω…êÅµ’Õ–ÅâîÅÖ–Å±ïÖÕ–Ä‡Åç°Ö…Öç—ï…Ã∏úÏ4(ÄÅ…ï—’…∏ÅîÏ4)Ù4(4)ï·¡Ω…–ÅëïôÖ’±–ÅÖÕÂπåÅô’πç—•Ω∏Å—ïÖç°ï…Ω…¥°ÏÅ…ΩΩ–∞Å¡Ö…ÖµÃÅÙ§ÅÏ4(ÄÅçΩπÕ–Å•Õë•–ÄÙÅ	ΩΩ±ïÖ∏°¡Ö…ÖµÃπ•ê§Ï4(ÄÅ±ï–Å–ÄÙÅÏÅ—ïÖç°ï…}•êËÄúú∞ÅπÖµîËÄúú∞ÅïµÖ•∞ËÄúú∞Å¡°ΩπîËÄúú∞ÅÕ’â©ïç–ËÄúú∞ÅëÖ—ï}Ωô}â•…—†ËÄúú∞Å©Ω•π•πù}ëÖ—îËÄúú∞ÅÖëë…ïÕÃËÄúú∞ÅÕ—Ö—’ÃËÄùÖç—•Ÿîú∞ÅÖ——ïπëÖπçï}Õ—Ö…—}—•µîËÄúú∞ÅÖ——ïπëÖπçï}ù…Öçï}µ•π’—ïÃËÅπ’±∞∞ÅÖ’—Ω}ÖâÕïπ—}µΩëîËÄùÕç°ΩΩ∞ú∞ÅÖ’—Ω}ÖâÕïπ—}—•µîËÄúúÅÙÏ4(4(ÄÅ•òÄ°•Õë•–§ÅÏ4(ÄÄÄÅµΩ’π–°…ΩΩ–∞Å±ΩÖë•πú†ù1ΩÖë•πúÅ—ïÖç°ïÀäòú§§Ï4(ÄÄÄÅ—…‰ÅÏ4(ÄÄÄÄÄÅ–ÄÙÄ°Ö›Ö•–Åùï–°ÄΩ—ïÖç°ï…ÃºëÌ¡Ö…ÖµÃπ•ëıÄ§§πëÖ—ÑÏ4(ÄÄÄÅÙÅçÖ—ç†Ä°ï……Ω»§ÅÏ4(ÄÄÄÄÄÅµΩ’π–°…ΩΩ–∞Å°—µ±ÄÒë•ÿÅç±ÖÕÃÙâçÖ…êà¯ëÌï……Ω…M—Ö—î°ï……5Õú°ï……Ω»∞ÄùUπÖâ±îÅ—ºÅ±ΩÖêÅ—°•ÃÅ—ïÖç°ï»∏ÅA±ïÖÕîÅ—…‰ÅÖùÖ•∏∏ú§•ÙΩë•ÿ˘Ä§Ï4(ÄÄÄÄÄÄê†ùmëÖ—Ñµ…ï—…Âtú∞Å…ΩΩ–§πÖëëŸïπ—1•Õ—ïπï»†ùç±•ç¨ú∞Ä†§ÄÙ¯Å±ΩçÖ—•Ω∏π…ï±ΩÖê†§§Ï4(ÄÄÄÄÄÅ…ï—’…∏Ï4(ÄÄÄÅÙ4(ÄÅÙ4(4(ÄÅµΩ’π–°…ΩΩ–∞Å°—µ±Ä4(ÄÄÄÄëÌ¡Öùï!ïÖê°•Õë•–Ä¸Äùë•–ÅQïÖç°ï»úÄËÄùëêÅQïÖç°ï»ú∞Å°—µ±Å•ï±ëÃÅµÖ…≠ïêÄÒàÅç±ÖÕÃÙâ…ïƒà¯®Ωà¯ÅÖ…îÅ…ï≈’•…ïêπÄ∞Å°—µ±ÄÒÑÅç±ÖÕÃÙââ—∏Åâ—∏µÕïçΩπëÖ…‰àÅ°…ïòÙàåΩ—ïÖç°ï…Ãà¯ëÌ•å†ùÖ……Ω‹µ±ïô–ú∞Äƒÿ•ÙÅ	Öç¨Å—ºÅ—ïÖç°ï…ÃΩÑ˘Ä•Ù4(ÄÄÄÄÒôΩ…¥Å•êÙâ—ïÖç°ï»∑~º∂âûÀk∫wµÁQï»ËÄùîπú∏Å5Ö—°ïµÖ—•çÃúÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄù©Ω•π•πù}ëÖ—îú∞Å±Öâï∞ËÄù)Ω•π•πúÅëÖ—îú∞Å…ï≈’•…ïêËÅ—…’î∞ÅçΩπ—…Ω∞ËÅ•π¡’–°ÏÅπÖµîËÄù©Ω•π•πù}ëÖ—îú∞Å—Â¡îËÄùëÖ—îú∞ÅŸÖ±’îËÅ–π©Ω•π•πù}ëÖ—îÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùëÖ—ï}Ωô}â•…—†ú∞Å±Öâï∞ËÄùÖ—îÅΩòÅâ•…—†ú∞ÅçΩπ—…Ω∞ËÅ•π¡’–°ÏÅπÖµîËÄùëÖ—ï}Ωô}â•…—†ú∞Å—Â¡îËÄùëÖ—îú∞ÅŸÖ±’îËÅ–πëÖ—ï}Ωô}â•…—†ÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùÕ—Ö—’Ãú∞Å±Öâï∞ËÄùM—Ö—’Ãú∞Å…ï≈’•…ïêËÅ—…’î∞ÅçΩπ—…Ω∞ËÅÕï±ïç–°ÏÅπÖµîËÄùÕ—Ö—’Ãú∞ÅŸÖ±’îËÅ–πÕ—Ö—’Ã∞ÅΩ¡—•ΩπÃËÅmÏÅŸÖ±’îËÄùÖç—•Ÿîú∞Å±Öâï∞ËÄùç—•ŸîúÅÙ∞ÅÏÅŸÖ±’îËÄù•πÖç—•Ÿîú∞Å±Öâï∞ËÄù%πÖç—•ŸîúÅÙ∞Ä∏∏∏°–πÕ—Ö—’ÃÄÙÙÙÄù¡ïπë•πúúÄ¸ÅmÏÅŸÖ±’îËÄù¡ïπë•πúú∞Å±Öâï∞ËÄùAïπë•πúÅÖ¡¡…ΩŸÖ∞úÅıtÄËÅmt•tÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùÖëë…ïÕÃú∞Å±Öâï∞ËÄùëë…ïÕÃú∞ÅÕ¡Ö∏ËÅ—…’î∞ÅçΩπ—…Ω∞ËÅ—ï·—Ö…ïÑ°ÏÅπÖµîËÄùÖëë…ïÕÃú∞ÅŸÖ±’îËÅ–πÖëë…ïÕÃ∞Å¡±Öçï°Ω±ëï»ËÄùM—…ïï–∞Åç•—‰úÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄΩë•ÿ¯ΩÕïç—•Ω∏¯4(ÄÄÄÄÄÄÒÕïç—•Ω∏Åç±ÖÕÃÙâçÖ…êà¯Òë•ÿÅç±ÖÕÃÙâçÖ…êµ°ïÖêà¯Ò†»˘——ïπëÖπçîÅÕç°ïë’±îΩ†»¯Ωë•ÿ¯Òë•ÿÅç±ÖÕÃÙâçÖ…êµâΩë‰à¯4(ÄÄÄÄÄÄÄÄÒ¿Åç±ÖÕÃÙâµ’—ïêàÅÕ—Â±îÙâôΩπ–µÕ•ÈîËƒ—¡‡ÌµÖ…ù•∏Ë¿Ä¿Äƒ—¡‡à˘Mï–Å—°•ÃÅ—ïÖç°ïÀäeÃÅΩ›∏Å°Ω’…Ã∞ÅΩ»Å±ïÖŸîÅÕ—Ö…–ÅÖπêÅù…ÖçîÅâ±Öπ¨Å—ºÅ’ÕîÅ—°îÅÕç°ΩΩ∞ÅëïôÖ’±—Ã∏Å]ïï≠±‰ÅΩôòÅëÖÂÃÅÕ—•±∞ÅôΩ±±Ω‹ÅÕç°ΩΩ∞ÅÕï——•πùÃ∏Ω¿¯4(ÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÃÙâôΩ…¥µù…•êà¯4(ÄÄÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùÕ—Ö…—Q•µï=Ÿï……•ëîú∞Å±Öâï∞ËÄùQïÖç°ï»ÅÕ—Ö…–Å—•µîú∞Å°•π–ËÄù=¡—•ΩπÖ∞∏Å	±Öπ¨Å’ÕïÃÅ—°îÅÕç°ΩΩ∞ÅÕ—Ö…–Å—•µî∏ú∞ÅçΩπ—…Ω∞ËÅ•π¡’–°ÏÅπÖµîËÄùÕ—Ö…—Q•µï=Ÿï……•ëîú∞Å—Â¡îËÄù—•µîú∞ÅŸÖ±’îËÅ–πÖ——ïπëÖπçï}Õ—Ö…—}—•µîÅÒÄúúÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùù…Öçï5•π’—ïÕ=Ÿï……•ëîú∞Å±Öâï∞ËÄùQïÖç°ï»Åù…ÖçîÅ¡ï…•ΩêÄ°µ•π’—ïÃ§ú∞Å°•π–ËÄù=¡—•ΩπÖ∞∏Å	±Öπ¨Å’ÕïÃÅ—°îÅÕç°ΩΩ∞Åù…ÖçîÅ¡ï…•Ωê∏ú∞ÅçΩπ—…Ω∞ËÅ•π¡’–°ÏÅπÖµîËÄùù…Öçï5•π’—ïÕ=Ÿï……•ëîú∞Å—Â¡îËÄùπ’µâï»ú∞ÅŸÖ±’îËÅ–πÖ——ïπëÖπçï}ù…Öçï}µ•π’—ïÃÄ¸¸Äúú∞Åï·—…ÑËÄùµ•∏Ùà¿àÅµÖ‡Ùàƒ»¿àÅÕ—ï¿ÙàƒàÅ•π¡’—µΩëîÙâπ’µï…•åàúÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùÖ’—ΩâÕïπ—5Ωëîú∞Å±Öâï∞ËÄù’—ΩµÖ—•åÅÖâÕïπ–Å…’±îú∞ÅçΩπ—…Ω∞ËÅÕï±ïç–°ÏÅπÖµîËÄùÖ’—ΩâÕïπ—5Ωëîú∞ÅŸÖ±’îËÅ–πÖ’—Ω}ÖâÕïπ—}µΩëîÅÒÄùÕç°ΩΩ∞ú∞ÅΩ¡—•ΩπÃËÅl4(ÄÄÄÄÄÄÄÄÄÄÄÅÏÅŸÖ±’îËÄùÕç°ΩΩ∞ú∞Å±Öâï∞ËÄùUÕîÅÕç°ΩΩ∞ÅÕï——•πúúÅÙ∞ÅÏÅŸÖ±’îËÄùç’Õ—Ω¥ú∞Å±Öâï∞ËÄùUÕîÅÑÅç’Õ—Ω¥Åç’—ΩôòúÅÙ∞ÅÏÅŸÖ±’îËÄùΩôòú∞Å±Öâï∞ËÄù=ôòÅôΩ»Å—°•ÃÅ—ïÖç°ï»úÅÙ∞4(ÄÄÄÄÄÄÄÄÄÅtÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄÄÄëÌô•ï±ê°ÏÅπÖµîËÄùÖ’—ΩâÕïπ—Q•µîú∞Å±Öâï∞ËÄùQïÖç°ï»ÅÖâÕïπ–Åç’—Ωôòú∞Å°•π–ËÄù=π±‰Å’ÕïêÅ›•—†ÉäqUÕîÅÑÅç’Õ—Ω¥Åç’—Ωôõät∏ú∞ÅçΩπ—…Ω∞ËÅ•π¡’–°ÏÅπÖµîËÄùÖ’—ΩâÕïπ—Q•µîú∞Å—Â¡îËÄù—•µîú∞ÅŸÖ±’îËÅ–πÖ’—Ω}ÖâÕïπ—}—•µîÅÒÄúú∞Åï·—…ÑËÅ–πÖ’—Ω}ÖâÕïπ—}µΩëîÄÙÙÙÄùç’Õ—Ω¥úÄ¸ÄúúÄËÄùë•ÕÖâ±ïêúÅÙ§ÅÙ•Ù4(ÄÄÄÄÄÄÄÄΩë•ÿ¯4(ÄÄÄÄÄÄÄÄÒ¿Åç±ÖÕÃÙâ°•π–àÅ•êÙâ—ïÖç°ï»µÖâÕïπ–µ°•π–àÅÕ—Â±îÙâµÖ…ù•∏µ—Ω¿Ëƒ…¡‡à¯Ω¿¯4(ÄÄÄÄÄÄΩë•ÿ¯ΩÕïç—•Ω∏¯4(ÄÄÄÄÄÄÒÕïç—•Ω∏Åç±ÖÕÃÙâçÖ…êà¯Òë•ÿÅç±ÖÕÃÙâçÖ…êµ°ïÖêà¯Ò†»˘M•ù∏µ•∏Åëï—Ö•±ÃΩ†»¯Ωë•ÿ¯Òë•ÿÅç±ÖÕÃÙâçÖ…êµâΩë‰ÅôΩ…¥µù…•êà¯4(ÄÄÄÄÄÄÄÄëÌ•Õë•–4(ÄÄÄÄÄÄÄÄÄÄ¸Å°—µ±ÄÒë•ÿÅç±ÖÕÃÙâÕ¡Ö∏¥»à¯Ò¿Åç±ÖÕÃÙâµ’—ïêàÅÕ—Â±îÙâôΩπ–µÕ•ÈîËƒ—¡‡ÌµÖ…ù•∏µâΩ——Ω¥Ëƒ»px">${t.name} signs in with <b>${t.email}</b>. To give them a new password, send a password reset email.</p>
+import { html, mount, ic, pageHead, field, input, select, textarea, passwordControl, bindPasswordToggles, showFieldErrors, formValues, setLoading, toast, errorState, loading, $ } from '../ui.js';
+import { get, post, put, errMsg } from '../api.js';
+
+// The same rules the server uses, so people get instant feedback.
+function validate(v, isEdit) {
+  const e = {};
+  if (!/^[A-Za-z0-9-]{2,20}$/.test(v.teacher_id.trim())) e.teacher_id = 'Use letters, numbers and dashes only (2‚Äì20 characters).';
+  if (v.name.trim().length < 2) e.name = 'Enter the full name.';
+  if (!/^\S+@\S+\.\S+$/.test(v.email.trim())) e.email = 'Enter a valid email address.';
+  if (!/^[0-9+\-\s()]{7,20}$/.test(v.phone.trim())) e.phone = 'Enter a valid phone number.';
+  if (v.subject.trim().length < 2) e.subject = 'Enter the subject.';
+  if (!v.joining_date) e.joining_date = 'Choose the joining date.';
+  if (v.date_of_birth && v.joining_date && v.date_of_birth >= v.joining_date) e.date_of_birth = 'Date of birth must be before the joining date.';
+  if (v.startTimeOverride && !/^([01][0-9]|2[0-3]):[0-5][0-9]$/.test(v.startTimeOverride)) e.startTimeOverride = 'Choose a valid start time.';
+  if (v.graceMinutesOverride !== '' && (!/^\d+$/.test(v.graceMinutesOverride) || Number(v.graceMinutesOverride) > 120)) e.graceMinutesOverride = 'Enter a whole number of minutes (0‚Äì120), or leave blank for the school default.';
+  if (v.autoAbsentMode === 'custom' && !/^([01][0-9]|2[0-3]):[0-5][0-9]$/.test(v.autoAbsentTime || '')) e.autoAbsentTime = 'Choose a custom absent cutoff time.';
+  if (!isEdit && v.password.length < 8) e.password = 'Password must be at least 8 characters.';
+  return e;
+}
+
+export default async function teacherForm({ root, params }) {
+  const isEdit = Boolean(params.id);
+  let t = { teacher_id: '', name: '', email: '', phone: '', subject: '', date_of_birth: '', joining_date: '', address: '', status: 'active', attendance_start_time: '', attendance_grace_minutes: null, auto_absent_mode: 'school', auto_absent_time: '' };
+
+  if (isEdit) {
+    mount(root, loading('Loading teacher‚Ä¶'));
+    try {
+      t = (await get(`/teachers/${params.id}`)).data;
+    } catch (error) {
+      mount(root, html`<div class="card">${errorState(errMsg(error, 'Unable to load this teacher. Please try again.'))}</div>`);
+      $('[data-retry]', root).addEventListener('click', () => location.reload());
+      return;
+    }
+  }
+
+  mount(root, html`
+    ${pageHead(isEdit ? 'Edit Teacher' : 'Add Teacher', html`Fields marked <b class="req">*</b> are required.`, html`<a class="btn btn-secondary" href="#/teachers">${ic('arrow-left', 16)} Back to teachers</a>`)}
+    <form id="teacher-form" class="stack" novalidate>
+      <section class="card"><div class="card-head"><h2>Teacher details</h2></div><div class="card-body form-grid">
+        ${field({ name: 'teacher_id', label: 'Teacher ID', required: true, control: input({ name: 'teacher_id', value: t.teacher_id, placeholder: 'e.g. T-001' }) })}
+        ${field({ name: 'name', label: 'Full name', required: true, control: input({ name: 'name', value: t.name, placeholder: 'e.g. Ayesha Khan' }) })}
+        ${field({ name: 'email', label: 'Email', required: true, hint: isEdit ? 'This is the teacher\'s login, so it cannot be changed here.' : 'The teacher signs in with this email address.', control: input({ name: 'email', type: 'email', value: t.email, placeholder: 'name@example.com', extra: isEdit ? 'readonly' : '' }) })}
+        ${field({ name: 'phone', label: 'Phone number', required: true, control: input({ name: 'phone', type: 'tel', value: t.phone, placeholder: 'e.g. 0300 1234567' }) })}
+        ${field({ name: 'subject', label: 'Subject', required: true, control: input({ name: 'subject', value: t.subject, placeholder: 'e.g. Mathematics' }) })}
+        ${field({ name: 'joining_date', label: 'Joining date', required: true, control: input({ name: 'joining_date', type: 'date', value: t.joining_date }) })}
+        ${field({ name: 'date_of_birth', label: 'Date of birth', control: input({ name: 'date_of_birth', type: 'date', value: t.date_of_birth }) })}
+        ${field({ name: 'status', label: 'Status', required: true, control: select({ name: 'status', value: t.status, options: [{ value: 'active', label: 'Active' }, { value: 'inactive', label: 'Inactive' }, ...(t.status === 'pending' ? [{ value: 'pending', label: 'Pending approval' }] : [])] }) })}
+        ${field({ name: 'address', label: 'Address', span: true, control: textarea({ name: 'address', value: t.address, placeholder: 'Street, city' }) })}
+      </div></section>
+      <section class="card"><div class="card-head"><h2>Attendance schedule</h2></div><div class="card-body">
+        <p class="muted" style="font-size:14px;margin:0 0 14px">Set this teacher‚Äôs own hours, or leave start and grace blank to use the school defaults. Weekly off days still follow school settings.</p>
+        <div class="form-grid">
+          ${field({ name: 'startTimeOverride', label: 'Teacher start time', hint: 'Optional. Blank uses the school start time.', control: input({ name: 'startTimeOverride', type: 'time', value: t.attendance_start_time || '' }) })}
+          ${field({ name: 'graceMinutesOverride', label: 'Teacher grace period (minutes)', hint: 'Optional. Blank uses the school grace period.', control: input({ name: 'graceMinutesOverride', type: 'number', value: t.attendance_grace_minutes ?? '', extra: 'min="0" max="120" step="1" inputmode="numeric"' }) })}
+          ${field({ name: 'autoAbsentMode', label: 'Automatic absent rule', control: select({ name: 'autoAbsentMode', value: t.auto_absent_mode || 'school', options: [
+            { value: 'school', label: 'Use school setting' }, { value: 'custom', label: 'Use a custom cutoff' }, { value: 'off', label: 'Off for this teacher' },
+          ] }) })}
+          ${field({ name: 'autoAbsentTime', label: 'Teacher absent cutoff', hint: 'Only used with ‚ÄúUse a custom cutoff‚Äù.', control: input({ name: 'autoAbsentTime', type: 'time', value: t.auto_absent_time || '', extra: t.auto_absent_mode === 'custom' ? '' : 'disabled' }) })}
+        </div>
+        <p class="hint" id="teacher-absent-hint" style="margin-top:12px"></p>
+      </div></section>
+      <section class="card"><div class="card-head"><h2>Sign-in details</h2></div><div class="card-body form-grid">
+        ${isEdit
+          ? html`<div class="span-2"><p class="muted" style="font-size:14px;margin-bottom:12px">${t.name} signs in with <b>${t.email}</b>. To give them a new password, send a password reset email.</p>
               <button type="button" class="btn btn-secondary" id="send-reset">${ic('mail', 16)} Send password reset email</button></div>`
           : field({ name: 'password', label: 'Password', required: true, hint: 'At least 8 characters.', control: passwordControl({ name: 'password' }) })}
       </div></section>

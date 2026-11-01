@@ -1,3 +1,238 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛM5N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐì¡Ñµ°°µ½Õ¹Ð°Á…•!•…°™¥•±°Í•±•Ð°ÍÑ…Ñ…É°Í•Ñ1½…‘¥¹œ°±½…‘¥¹œ°•ÉÉ½ÉMÑ…Ñ”°•µÁÑåMÑ…Ñ”°€ô™É½´€œ¸¸½Õ¤¹©Ìœì)¥µÁ½ÉÐì•Ð°•ÉÉ5Íœô™É½´€œ¸¸½…Á¤¹©Ìœì)¥µÁ½ÉÐìÍÑ…Ñ”ô™É½´€œ¸¸½ÍÑ…Ñ”¹©Ìœì)¥µÁ½ÉÐì5=9Q!}95Lô™É½´€œ¸¸½™½Éµ…Ð¹©Ìœì()½¹ÍÐ]-eL€ôlMÕ¹‘…äœ°€5½¹‘…äœ°€QÕ•Í‘…äœ°€]•‘¹•Í‘…äœ°€Q¡ÕÉÍ‘…äœ°€É¥‘…äœ°€M…ÑÕÉ‘…ätì)½¹ÍÐ5=9Q!}=U9Q}=AQ%=9L€ôl(€ìÙ…±Õ”è€œØœ°±…‰•°è€1…ÍÐ€Øµ½¹Ñ¡Ìœô°(€ìÙ…±Õ”è€œÄÈœ°±…‰•°è€1…ÍÐ€ÄÈµ½¹Ñ¡Ìœô°)tì()™Õ¹Ñ¥½¸µ½¹Ñ¡-•ä¡‘…Ñ”¤ì(€É•ÑÕÉ¸‘…Ñ”¹Í±¥” À°€Ü¤ì)ô()™Õ¹Ñ¥½¸µ½¹Ñ¡I…¹”¡½Õ¹Ð°Ñ½‘…ä¤ì(€½¹ÍÐmå•…È°µ½¹Ñ¡t€ôÑ½‘…ä¹Í±¥” À°€Ü¤¹ÍÁ±¥Ð œ´œ¤¹µ…À¡9Õµ‰•È¤ì(€½¹ÍÐ­•åÌ€ôÉÉ…ä¹™É½´¡ì±•¹Ñ è½Õ¹Ðô°€¡|°¥¹‘•à¤€ôøì(€€€½¹ÍÐ‘…Ñ”€ô¹•Ü…Ñ”¡…Ñ”¹UQ¡å•…È°µ½¹Ñ €´€Ä€´€¡½Õ¹Ð€´€Ä¤€¬¥¹‘•à°€Ä¤¤ì(€€€É•ÑÕÉ¸‘…Ñ”¹•ÑUQÕ±±e•…È ¤€¬€œ´œ€¬MÑÉ¥¹œ¡‘…Ñ”¹•ÑUQ5½¹Ñ  ¤€¬€Ä¤¹Á…‘MÑ…ÉÐ È°€œÀœ¤ì(€ô¤ì(€É•ÑÕÉ¸ì­•åÌ°™É½´è­•åÍlÁt€¬€œ´ÀÄœ°Ñ¼èÑ½‘…äôì)ô()™Õ¹Ñ¥½¸µ½¹Ñ¡1…‰•°¡­•ä¤ì(€½¹ÍÐmå•…È°µ½¹Ñ¡t€ô­•ä¹ÍÁ±¥Ð œ´œ¤¹µ…À¡9Õµ‰•È¤ì(€É•ÑÕÉ¸5=9Q!}95Mmµ½¹Ñ €´€Åt¹Í±¥” À°€Ì¤€¬€œ€œ€¬MÑÉ¥¹œ¡å•…È¤¹Í±¥” ´È¤ì)ô()½¹ÍÐÁ•É•¹Ð€ô€¡Ù…±Õ”¤€ôø9Õµ‰•È¡Ù…±Õ”ñð€À¤¹Ñ½¥á• Ä¤€¬€œ”œì)½¹ÍÐÍ¥¹•‘A½¥¹ÑÌ€ô€¡Ù…±Õ”¤€ôø€¡Ù…±Õ”€ø€À€ü€œ¬œ€è€œœ¤€¬9Õµ‰•È¡Ù…±Õ”ñð€À¤¹Ñ½¥á• Ä¤€¬€œÁÀœì()™Õ¹Ñ¥½¸…ÑÑ•¹‘…¹•1¥¹•¡…ÉÐ¡µ½¹Ñ¡Ì¤ì(€½¹ÍÐÝ¥‘Ñ €ô€ÜÈÀ°¡•¥¡Ð€ô€ÈØÀ°±•™Ð€ô€Ðà°É¥¡Ð€ô€Äà°Ñ½À€ô€Äà°‰½ÑÑ½´€ô€ÐØì(€½¹ÍÐÁ±½Ñ]¥‘Ñ €ôÝ¥‘Ñ €´±•™Ð€´É¥¡Ð°Á±½Ñ!•¥¡Ð€ô¡•¥¡Ð€´Ñ½À€´‰½ÑÑ½´ì(€½¹ÍÐÁ½¥¹ÑÌ€ôµ½¹Ñ¡Ì¹µ…À ¡¥Ñ•´°¥¹‘•à¤€ôø€¡ì(€€€€¸¸¹¥Ñ•´°(€€€àèµ½¹Ñ¡Ì¹±•¹Ñ €ôôô€Ä€ü±•™Ð€¬Á±½Ñ]¥‘Ñ €¼€È€è±•™Ð€¬¥¹‘•à€¨Á±½Ñ]¥‘Ñ €¼€¡µ½¹Ñ¡Ì¹±•¹Ñ €´€Ä¤°(€€€äè¥Ñ•´¹É…Ñ”€ôôô¹Õ±°€ü¹Õ±°€èÑ½À€¬€ ÄÀÀ€´¥Ñ•´¹É…Ñ”¤€¨Á±½Ñ!•¥¡Ð€¼€ÄÀÀ°(€ô¤¤ì(€½¹ÍÐÍ•µ•¹ÑÌ€ômtì(€±•ÐÍ•µ•¹Ð€ômtì(€Á½¥¹ÑÌ¹™½É…  ¡Á½¥¹Ð¤€ôøì(€€€¥˜€¡Á½¥¹Ð¹ä€ôôô¹Õ±°¤ì(€€€€€¥˜€¡Í•µ•¹Ð¹±•¹Ñ €ø€Ä¤Í•µ•¹ÑÌ¹ÁÕÍ ¡Í•µ•¹Ð¤ì(€€€€€Í•µ•¹Ð€ômtì(€€€ô•±Í”ì(€€€€€Í•µ•¹Ð¹ÁÕÍ ¡Á½¥¹Ð¤ì(€€€ô(€ô¤ì(€¥˜€¡Í•µ•¹Ð¹±•¹Ñ €ø€Ä¤Í•µ•¹ÑÌ¹ÁÕÍ ¡Í•µ•¹Ð¤ì((€É•ÑÕÉ¸¡Ñµ±€ñÍ•Ñ¥½¸±…ÍÌô‰…ÉÑÉ•¹µ¡…ÉÐµ…Éˆø(€€€€ñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ‘¥Øøñ Èù5½¹Ñ¡±ä…ÑÑ•¹‘…¹”É…Ñ”ð½ ÈøñÀ±…ÍÌô‰‘¥´ˆùAÉ•Í•¹Ð°¥¹±Õ‘¥¹œ±…Ñ”°…Ì„Í¡…É”½˜É•½É‘•‘…åÌ¸ð½Àøð½‘¥Øøð½‘¥Øø(€€€€ñ‘¥Ø±…ÍÌô‰…Éµ‰½‘äÑÉ•¹µ¡…ÉÐµ‰½‘äˆøñ‘¥Ø±…ÍÌô‰ÑÉ•¹µÍÙœµÍÉ½±°ˆøñÍÙœ±…ÍÌô‰ÑÉ•¹µ±¥¹”µ¡…ÉÐˆÙ¥•Ý	½àôˆÀ€À€‘íÝ¥‘Ñ¡ô€‘í¡•¥¡ÑôˆÉ½±”ô‰¥µœˆ…É¥„µ±…‰•°ô‰5½¹Ñ¡±ä…ÑÑ•¹‘…¹”É…Ñ”ˆø(€€€€€€‘ílÄÀÀ°€ÜÔ°€ÔÀ°€ÈÔ°€Át¹µ…À ¡Ù…±Õ”¤€ôøì(€€€€€€€¿5¶‰žËkºwµçdì(€É•ÑÕÉ¸¡Ñµ±€ñÍ•Ñ¥½¸±…ÍÌô‰…ÉÑÉ•¹µ¡…ÉÐµ…Éˆø(€€€€ñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ‘¥Øøñ Èù‰Í•¹•Ì‰äÝ••­‘…äð½ ÈøñÀ±…ÍÌô‰‘¥´ˆù]¡¥ Ý••­‘…åÌ¡…Ù”Ñ¡”µ½ÍÐÉ•½É‘•…‰Í•¹•Ìüð½Àøð½‘¥Øøð½‘¥Øø(€€€€ñ‘¥Ø±…ÍÌô‰…Éµ‰½‘äÑÉ•¹µÝ••­‘…äµ±¥ÍÐˆø‘íÝ••­‘…åÌ¹µ…À ¡‘…ä¤€ôøì(€€€€€½¹ÍÐÝ¥‘Ñ €ô5…Ñ ¹É½Õ¹¡‘…ä¹½Õ¹Ð€¨€ÄÀÀ€¼µ…à¤ì(€€€€€É•ÑÕÉ¸¡Ñµ±€ñ‘¥Ø±…ÍÌô‰ÑÉ•¹µÝ••­‘…äµÉ½ÜˆøñÍÁ…¸ø‘í‘…ä¹±…‰•±ôð½ÍÁ…¸øñ‘¥Ø±…ÍÌô‰ÑÉ•¹µ‰…ÈµÑÉ…¬ˆÉ½±”ô‰ÁÉ½É•ÍÍ‰…Èˆ…É¥„µ±…‰•°ôˆ‘í‘…ä¹±…‰•±ô…‰Í•¹•Ìˆ…É¥„µÙ…±Õ•¹½Üôˆ‘í‘…ä¹½Õ¹Ñôˆ…É¥„µÙ…±Õ•µ¥¸ôˆÀˆ…É¥„µÙ…±Õ•µ…àôˆ‘íµ…áôˆøñ¤ÍÑå±”ô‰Ý¥‘Ñ è‘íÝ¥‘Ñ¡ô”ˆøð½¤øð½‘¥Øøñˆø‘í‘…ä¹½Õ¹Ñôð½ˆøð½‘¥Øù€ì(€€€ô¥ôð½‘¥Øø(€€€€ñ‘¥Ø±…ÍÌô‰ÑÉ•¹µ¡…ÉÐµ¹½Ñ”ˆù=¹±ä…ÑÑ•¹‘…¹”É•½É‘Ìµ…É­•‰Í•¹Ð…É”½Õ¹Ñ•¸ð½‘¥Øø(€€ð½Í•Ñ¥½¸ù€ì)ô()™Õ¹Ñ¥½¸Ñ•…¡•ÉQÉ•¹‘Q…‰±”¡½µÁ…É¥Í½¹Ì°¹½Ñ½µÁ…É…‰±”°•…É±¥•É1…‰•°°É••¹Ñ1…‰•°¤ì(€½¹ÍÐ¹½Ñ”€ô¹½Ñ½µÁ…É…‰±”€ü¹½Ñ½µÁ…É…‰±”€¬€œÑ•…¡•È¡Ì¤‘¥¹½Ð¡…Ù”¡•¬µ¥¹Ì¥¸‰½Ñ Á•É¥½‘Ì…¹Ý•É”±•™Ð½ÕÐ¸œ€è€œœì(€É•ÑÕÉ¸¡Ñµ±€ñÍ•Ñ¥½¸±…ÍÌô‰…ÉÑÉ•¹µ¡…ÉÐµ…Éˆø(€€€€ñ‘¥Ø±…ÍÌô‰…Éµ¡•…ˆøñ‘¥Øøñ Èù1…Ñ”…ÑÑ•¹‘…¹”‰äÑ•…¡•Èð½ ÈøñÀ±…ÍÌô‰‘¥´ˆùM½ÉÑ•‰äÑ¡”±…É•ÍÐ¥¹É•…Í”¥¸±…Ñ”É…Ñ”¸ð½Àøð½‘¥Øøð½‘¥Øø(€€€€‘í½µÁ…É¥Í½¹Ì¹±•¹Ñ €ü¡Ñµ±€ñ‘¥Ø±…ÍÌô‰Ñ…‰±”µÍÉ½±°ˆøñÑ…‰±”±…ÍÌô‰Ñ…‰±”ÑÉ•¹µÑ•…¡•ÈµÑ…‰±”ˆø(€€€€€€ñÑ¡•…øñÑÈøñÑ ùQ•…¡•Èð½Ñ øñÑ ±…ÍÌô‰¹Õ´ˆø‘í•…É±¥•É1…‰•±ôð½Ñ øñÑ ±…ÍÌô‰¹Õ´ˆø‘íÉ••¹Ñ1…‰•±ôð½Ñ øñÑ ±…ÍÌô‰¹Õ´ˆù¡…¹”ð½Ñ øð½ÑÈøð½Ñ¡•…ø(€€€€€€ñÑ‰½‘äø‘í½µÁ…É¥Í½¹Ì¹Í±¥” À°€ÄÀ¤¹µ…À ¡Ñ•…¡•È¤€ôø¡Ñµ±€ñÑÈø(€€€€€€€€ñÑ‘…Ñ„µ±…‰•°ô‰Q•…¡•ÈˆøñÍÁ…¸±…ÍÌô‰ÍÑÉ½¹œˆø‘íÑ•…¡•È¹¹…µ•ôð½ÍÁ…¸øñÍµ…±°±…ÍÌô‰ÑÉ•¹µÑ•…¡•Èµ½‘”ˆø‘íÑ•…¡•È¹½‘•ôð½Íµ…±°øð½Ñø(€€€€€€€€ñÑ‘…Ñ„µ±…‰•°ôˆ‘í•…É±¥•É1…‰•±ôˆ±…ÍÌô‰¹Õ´ˆø‘íÁ•É•¹Ð¡Ñ•…¡•È¹•…É±¥•ÉI…Ñ”¥ôð½Ñø(€€€€€€€€ñÑ‘…Ñ„µ±…‰•°ôˆ‘íÉ••¹Ñ1…‰•±ôˆ±…ÍÌô‰¹Õ´ÍÑÉ½¹œˆø‘íÁ•É•¹Ð¡Ñ•…¡•È¹É••¹ÑI…Ñ”¥ôð½Ñø(€€€€€€€€ñÑ‘…Ñ„µ±…‰•°ô‰¡…¹”ˆ±…ÍÌô‰¹Õ´ˆøñÍÁ…¸±…ÍÌô‰ÑÉ•¹µ‘•±Ñ„€‘íÑ•…¡•È¹‘•±Ñ„€ø€À€ü€ÑÉ•¹µ‘•±Ñ„µÕÀœ€èÑ•…¡•È¹‘•±Ñ„€ð€À€ü€ÑÉ•¹µ‘•±Ñ„µ‘½Ý¸œ€è€œôˆø‘íÍ¥¹•‘A½¥¹ÑÌ¡Ñ•…¡•È¹‘•±Ñ„¥ôð½ÍÁ…¸øð½Ñø(€€€€€€ð½ÑÈù€¥ôð½Ñ‰½‘äø(€€€€ð½Ñ…‰±”øð½‘¥Øù€€è¡Ñµ±€ñ‘¥Ø±…ÍÌô‰…Éµ‰½‘äˆø‘í•µÁÑåMÑ…Ñ”¡ì¥½¸è€¡…ÉÐµ½±Õµ¸œ°Ñ¥Ñ±”è€9½Ð•¹½Õ ‘…Ñ„Ñ¼½µÁ…É”Ñ•…¡•ÉÌå•Ð¸œ°Ñ•áÐè€Q•…¡•ÉÌ¹••É•½É‘•¡•¬µ¥¹Ì¥¸‰½Ñ ½µÁ…É¥Í½¸Á•É¥½‘Ì¸œô¥ôð½‘¥Øùô(€€€€ñ‘¥Ø±…ÍÌô‰ÑÉ•¹µ¡…ÉÐµ¹½Ñ”ˆù1…Ñ”É…Ñ”€ô±…Ñ”¡•¬µ¥¹ÌƒÜÉ•½É‘•¡•¬µ¥¹Ì¸€‘í¹½Ñ•ôð½‘¥Øø(€€ð½Í•Ñ¥½¸ù€ì)ô()™Õ¹Ñ¥½¸ÍÕµµ…É¥é”¡É½ÝÌ°­•åÌ¤ì(€½¹ÍÐµ½¹Ñ¡%¹‘•à€ô¹•Ü5…À¡f«ž)à¶»§q«^v‹­¦ëh®("©m¢G§r‹§·m4Õ:-jZ.¶›­–)Þ³V¶W—2æÖ‚†¶W’Â–æFW‚’Óâ¶¶W’Â–æFW…Ò’“°¢6öç7BÖöçF‡2Ò¶W—2æÖ‚†¶W’’Óâ‡²¶W’ÂF÷FÃ¢Â&W6VçC¢Â'6VçC¢ÂÆFS¢ÂÆVfS¢Â&FS¢çVÆÂÒ’“°¢6öç7BvVV¶F—2ÒtTT´D•2æÖ‚†Æ&VÂ’Óâ‡²Æ&VÂÂ6÷VçC¢Ò’“°¢6öç7BFV6†W'2ÒæWrÖ‚“°¢6öç7B7Æ—BÒÖF‚æfÆö÷"†¶W—2æÆVæwF‚ò"“°¢ÆWBV&Æ–W$6†V6¶–ç2ÒÂV&Æ–W$ÆFRÒÂ&V6VçD6†V6¶–ç2ÒÂ&V6VçDÆFRÒ° ¢&÷w2æf÷$V6‚‚‡&÷r’Óâ°¢6öç7B–æFW‚ÒÖöçF„–æFW‚ævWB†ÖöçF„¶W’‡&÷ræFFR’“°¢–b†–æFW‚ÓÓÒVæFVf–æVB’&WGW&ã°¢6öç7BÖöçF‚ÒÖöçF‡5¶–æFW…Ó°¢ÖöçF‚çF÷FÂ³Ò°¢6öç7BFV6†W$¶W’Ò7G&–ær‡&÷rçFV6†W%ö–BÇÂ&÷rçFV6†W%öæÖRÇÂwVæ¶æ÷vâr“°¢–b‚FV6†W'2æ†2‡FV6†W$¶W’’’FV6†W'2ç6WB‡FV6†W$¶W’Â°¢æÖS¢&÷rçFV6†W%öæÖRÇÂuVæ¶æ÷vâFV6†W"rÂ6öFS¢&÷rçFV6†W%ö–BÇÂ~(	BrÀ¢V&Æ–W$6†V6¶–ç3¢ÂV&Æ–W$ÆFS¢Â&V6VçD6†V6¶–ç3¢Â&V6VçDÆFS¢À¢Ò“°¢6öç7BFV6†W"ÒFV6†W'2ævWB‡FV6†W$¶W’“°¢6öç7B—5&V6VçBÒ–æFW‚ãÒ7Æ—C° ¢–b‡&÷rç7FGW2ÓÓÒw&W6VçBr’ÖöçF‚ç&W6VçB³Ò°¢–b‡&÷rç7FGW2ÓÓÒvÆFRr’ÖöçF‚æÆFR³Ò°¢–b‡&÷rç7FGW2ÓÓÒv'6VçBr’°¢ÖöçF‚æ'6VçB³Ò°¢6öç7BF’ÒæWrFFR‡&÷ræFFR²uC££¢r’ævWEUD4F’‚“°¢vVV¶F—5¶F•Òæ6÷VçB³Ò°¢Ð¢–b‡&÷rç7FGW2ÓÓÒvÆVfRr’ÖöçF‚æÆVfR³Ò° ¢–b‡&÷rç7FGW2ÓÓÒw&W6VçBrÇÂ&÷rç7FGW2ÓÓÒvÆFRr’°¢–b†—5&V6VçB’FV6†W"ç&V6VçD6†V6¶–ç2³Ò°¢VÇ6RFV6†W"æV&Æ–W$6†V6¶–ç2³Ò°¢–b†—5&V6VçB’&V6VçD6†V6¶–ç2³Ò°¢VÇ6RV&Æ–W$6†V6¶–ç2³Ò°¢Ð¢–b‡&÷rç7FGW2ÓÓÒvÆFRr’°¢–b†—5&V6VçB’°¢FV6†W"ç&V6VçDÆFR³Ò°¢&V6VçDÆFR³Ò°¢ÒVÇ6R°¢FV6†W"æV&Æ–W$ÆFR³Ò°¢V&Æ–W$ÆFR³Ò°¢Ð¢Ð¢Ò“° ¢ÖöçF‡2æf÷$V6‚‚†ÖöçF‚’Óâ°¢ÖöçF‚ç&FRÒÖöçF‚çF÷FÂòÖF‚ç&÷VæB‚†ÖöçF‚ç&W6VçB²ÖöçF‚æÆFR’¢òÖöçF‚çF÷FÂ’ò¢çVÆÃ°¢Ò“° ¢6öç7B6ö×&—6öç2Ò²ââçFV6†W'2çfÇVW2‚•Ð¢æf–ÇFW"‚‡FV6†W"’ÓâFV6†W"æV&Æ–W$6†V6¶–ç2âbbFV6†W"ç&V6VçD6†V6¶–ç2â¢æÖ‚‡FV6†W"’Óâ°¢6öç7BV&Æ–W%&FRÒFV6†W"æV&Æ–W$ÆFR¢òFV6†W"æV&Æ–W$6†V6¶–ç3°¢6öç7B&V6VçE&FRÒFV6†W"ç&V6VçDÆFR¢òFV6†W"ç&V6VçD6†V6¶–ç3°¢&WGW&â²ââçFV6†W"ÂV&Æ–W%&FRÂ&V6VçE&FRÂFVÇF¢&V6VçE&FRÒV&Æ–W%&FRÓ°¢Ò¢ç6÷'B‚†Â"’Óâ"æFVÇFÒæFVÇF“°¢6öç7Bæ÷D6ö×&&ÆRÒ²ââçFV6†W'2çfÇVW2‚•ÒæÆVæwF‚Ò6ö×&—6öç2æÆVæwFƒ°¢6öç7BV&Æ–W%&FRÒV&Æ–W$6†V6¶–ç2òV&Î4ÖÚ$z{-®éÜj×Ò7VÖÖ'’æÆFU&FT6†ævRÓÓÒçVÆÂò~(	Br¢6–væVEö–çG2‡7VÖÖ'’æÆFU&FT6†ævR“°¢&WGW&â‡FÖÆÆF—b6Æ73Ò'7F6²#à¢ÆF—b6Æ73Ò'G&VæB×7FBÖw&–B#à¢G·7FD6&B‚v6†'BÖ6öÇVÖârÂtGFVæFæ6R&FRrÂ7VÖÖ'’æGFVæFæ6U&FR²rRrÂvÆVbr—Ð¢G·7FD6&B‚wW6W"×‚rÂt'6Væ6R&V6÷&G2rÂ7VÖÖ'’æ'6VçBÂw&VBr—Ð¢G·7FD6&B‚v6Æö6²rÂtÆFR6†V6²Ö–ç2rÂ7VÖÖ'’æÆFRÂvÖ&W"r—Ð¢G·7FD6&B‚v6†'BÖ6öÇVÖârÂuFV6†W'2v—F‚&—6–ærÆFR&FW2rÂ7VÖÖ'’ç&—6–æuFV6†W'2Âvæg’r—Ð¢ÂöF—cà¢G¶GFVæFæ6TÆ–æT6†'B‡7VÖÖ'’æÖöçF‡2—Ð¢ÆF—b6Æ73Ò'G&VæBÖw&–B#à¢G·vVV¶F”6†'B‡7VÖÖ'’çvVV¶F—2—Ð¢G·FV6†W%G&VæEF&ÆR‡7VÖÖ'’æ6ö×&—6öç2Â7VÖÖ'’ææ÷D6ö×&&ÆRÂV&Æ–W$Æ&VÂÂ&V6VçDÆ&VÂ—Ð¢ÂöF—cà¢Ç6Æ73Ò&†–çB#å6†÷v–ærG·&ævRæg&ö×ÒFòG·&ævRçF÷ÒâÆFR6†V6²Ö–ç26÷VçB2&W6VçC²ÆFR×&FR6†ævW26ö×&RF†RGvò†ÇfW2öbF†R6VÆV7FVBW&–öB‚G¶6†ævUFW‡GÒ÷fW&ÆÂ’ãÂ÷à¢ÂöF—cæ°§Ð ¦W‡÷'BFVfVÇB7–æ2gVæ7F–öâGFVæFæ6UG&VæG2‡²&ö÷BÒ’°¢6öç7BFöF’Ò7FFRçFöF’ÇÂæWrFFR‚’çFô•4õ7G&–ær‚’ç6Æ–6RƒÂ“°¢Ö÷VçB‡&ö÷BÂ‡FÖÆG·vT†VB‚tGFVæFæ6RG&VæG2rÂu7÷BGFVæFæ6RGFW&ç2'’ÖöçF‚ÂvVV¶F’æBFV6†W"ârÂ‡FÖÆÆ6Æ73Ò&'Fâ'Fâ×6V6öæF'’"‡&VcÒ"2÷&W÷'G2#ä÷Vâ&W÷'G3Âöæ—Ð¢Ç6V7F–öâ6Æ73Ò&6&BG&VæBÖf–ÇFW"Ö6&B#ãÆF—b6Æ73Ò&6&BÖ&öG’#ãÆf÷&Ò–CÒ'G&VæBÖf÷&Ò"6Æ73Ò'G&VæBÖ6öçG&öÇ2#à¢G¶f–VÆB‡²æÖS¢vÖöçF‡2rÂÆ&VÃ¢uW&–öBrÂ6öçG&öÃ¢6VÆV7B‡²æÖS¢vÖöçF‡2rÂfÇVS¢sbrÂ÷F–öç3¢ÔôåD…ô4õTåEôõD”ôå2Ò’Ò—Ð¢Ç6Æ73Ò&†–çBG&VæB×W&–öBÖ†–çB#äÆFR×&FR6†ævR6ö×&W2F†Rf—'7B†Æbv—F‚F†RÆFW7B†ÆböbF†—2W&–öBãÂ÷à¢Æ'WGFöâG—SÒ'7V&Ö—B"6Æ73Ò&'Fâ'FâÖæg’"–CÒ'G&VæB×&Vg&W6‚#å&Vg&W6‚G&VæG3Âö'WGFöãà¢Âöf÷&ÓãÂöF—cãÂ÷6V7F–öãà¢ÆF—b–CÒ'G&VæBÖ6öçFVçB#âG¶ÆöF–ær‚tÆöF–ærGFVæFæ6RG&VæG>(
-br—ÓÂöF—cæ“° ¢6öç7Bf÷&ÒÒB‚r7G&VæBÖf÷&ÒrÂ&ö÷B“°¢6öç7B÷WGWBÒB‚r7G&VæBÖ6öçFVçBrÂ&ö÷B“°¢6öç7B&Vg&W6‚ÒB‚r7G&VæB×&Vg&W6‚rÂ&ö÷B“° ¢7–æ2gVæ7F–öâÆöB‚’°¢6öç7B6÷VçBÒçVÖ&W"†f÷&ÒæVÆVÖVçG2æÖöçF‡2çfÇVR’ÇÂc°¢6öç7B&ævRÒÖöçF…&ævR†6÷VçBÂFöF’“°¢6WDÆöF–ær‡&Vg&W6‚ÂG'VR“°¢f÷&ÒæVÆVÖVçG2æÖöçF‡2æF—6&ÆVBÒG'VS°¢Ö÷VçB†÷WGWBÂ‡FÖÆÇ6V7F–öâ6Æ73Ò&6&B#âG¶ÆöF–ær‚tÆöF–ærGFVæFæ6R&V6÷&G>(
-br—ÓÂ÷6V7F–öãæ“°¢G'’°¢6öç7B&÷w2ÒµÓ°¢ÆWBgFW"Ò°¢f÷"ƒ³²’°¢6öç7B²FFÒÒv—BvWB‚röW‡÷'BöGFVæFæ6RrÂ²gFW"Âg&öÓ¢&ævRæg&öÒÂFó¢&ævRçFòÒ“°¢&÷w2çW6‚‚ââæFF“°¢–b†FFæÆVæwF‚Â’'&V³°¢gFW"ÒFF¶FFæÆVæwF‚ÒÒæ–C°¢Ð¢Ö÷VçB†÷WGWBÂ&VæFW$F6†&ö&B‡7VÖÖ&—¦R‡&÷w2Â&ævRæ¶W—2’Â&ævRÂ6÷VçB’“°¢Ò6F6‚†W'&÷"’°¢Ö÷VçB†÷WGWBÂ‡FÖÆÇ6V7F–öâ6Æ73Ò&6&B#âG¶W'&÷%7FFR†W'$×6r†W'&÷"ÂuVæ&ÆRFòÆöBGFVæFæ6RG&VæG2âÆV6RG'’v–ââr’—ÓÂ÷6V7F–öãæ“°¢B‚u¶FF×&WG'•ÒrÂ÷WGWB“òæFDWfVçDÆ—7FVæW"‚v6Æ–6²rÂÆöB“°¢Òf–æÆÇ’°¢6WDÆöF–ær‡&Vg&W6‚ÂfÇ6R“°¢f÷&ÒæVÆVÖVçG2æÖöçF‡2æF—6&ÆVBÒfÇ6S°¢Ð¢Ð ¢f÷&ÒæFDWfVçDÆ—7FVæW"‚w7V&Ö—BrÂ†WfVçB’Óâ²WfVçBç&WfVçDFVfVÇB‚“²ÆöB‚“²Ò“°¢f÷&ÒæVÆVÖVçG2æÖöçF‡2æFDWfVçDÆ—7FVæW"‚v6†ævRrÂÆöB“°¢v—BÆöB‚“°§
+import { html, mount, pageHead, field, select, statCard, setLoading, loading, errorState, emptyState, $ } from '../ui.js';
+import { get, errMsg } from '../api.js';
+import { state } from '../state.js';
+import { MONTH_NAMES } from '../format.js';
+
+const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+const MONTH_COUNT_OPTIONS = [
+  { value: '6', label: 'Last 6 months' },
+  { value: '12', label: 'Last 12 months' },
+];
+
+function monthKey(date) {
+  return date.slice(0, 7);
+}
+
+function monthRange(count, today) {
+  const [year, month] = today.slice(0, 7).split('-').map(Number);
+  const keys = Array.from({ length: count }, (_, index) => {
+    const date = new Date(Date.UTC(year, month - 1 - (count - 1) + index, 1));
+    return date.getUTCFullYear() + '-' + String(date.getUTCMonth() + 1).padStart(2, '0');
+  });
+  return { keys, from: keys[0] + '-01', to: today };
+}
+
+function monthLabel(key) {
+  const [year, month] = key.split('-').map(Number);
+  return MONTH_NAMES[month - 1].slice(0, 3) + ' ' + String(year).slice(-2);
+}
+
+const percent = (value) => Number(value || 0).toFixed(1) + '%';
+const signedPoints = (value) => (value > 0 ? '+' : '') + Number(value || 0).toFixed(1) + ' pp';
+
+function attendanceLineChart(months) {
+  const width = 720, height = 260, left = 48, right = 18, top = 18, bottom = 46;
+  const plotWidth = width - left - right, plotHeight = height - top - bottom;
+  const points = months.map((item, index) => ({
+    ...item,
+    x: months.length === 1 ? left + plotWidth / 2 : left + index * plotWidth / (months.length - 1),
+    y: item.rate === null ? null : top + (100 - item.rate) * plotHeight / 100,
+  }));
+  const segments = [];
+  let segment = [];
+  points.forEach((point) => {
+    if (point.y === null) {
+      if (segment.length > 1) segments.push(segment);
+      segment = [];
+    } else {
+      segment.push(point);
+    }
+  });
+  if (segment.length > 1) segments.push(segment);
+
+  return html`<section class="card trend-chart-card">
+    <div class="card-head"><div><h2>Monthly attendance rate</h2><p class="dim">Present, including late, as a share of recorded days.</p></div></div>
+    <div class="card-body trend-chart-body"><div class="trend-svg-scroll"><svg class="trend-line-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="Monthly attendance rate">
+      ${[100, 75, 50, 25, 0].map((value) => {
+        const y = top + (100 - value) * plotHeight / 100;
+        return html`<g><line class="trend-grid-line" x1="${left}" y1="${y}" x2="${width - right}" y2="${y}"></line><text class="trend-axis-label" x="${left - 10}" y="${y + 4}" text-anchor="end">${value}%</text></g>`;
+      })}
+      ${segments.map((group) => html`<polyline class="trend-line" points="${group.map((point) => point.x + ',' + point.y).join(' ')}"></polyline>`)}
+      ${points.filter((point) => point.y !== null).map((point) => html`<g><circle class="trend-point" cx="${point.x}" cy="${point.y}" r="5"><title>${monthLabel(point.key)}: ${percent(point.rate)}</title></circle><text class="trend-month-label" x="${point.x}" y="${height - 14}" text-anchor="middle">${monthLabel(point.key)}</text></g>`)}
+      ${points.filter((point) => point.y === null).map((point) => html`<text class="trend-month-label" x="${point.x}" y="${height - 14}" text-anchor="middle">${monthLabel(point.key)}</text>`)}
+    </svg></div>
+    <p class="trend-chart-note">Months with no attendance records are left blank rather than shown as 0%.</p></div>
+  </section>`;
+}
+
+function weekdayChart(weekdays) {
+  const max = Math.max(1, ...weekdays.map((day) => day.count));
+  return html`<section class="card trend-chart-card">
+    <div class="card-head"><div><h2>Absences by weekday</h2><p class="dim">Which weekdays have the most recorded absences?</p></div></div>
+    <div class="card-body trend-weekday-list">${weekdays.map((day) => {
+      const width = Math.round(day.count * 100 / max);
+      return html`<div class="trend-weekday-row"><span>${day.label}</span><div class="trend-bar-track" role="progressbar" aria-label="${day.label} absences" aria-valuenow="${day.count}" aria-valuemin="0" aria-valuemax="${max}"><i style="width:${width}%"></i></div><b>${day.count}</b></div>`;
+    })}</div>
+    <div class="trend-chart-note">Only attendance records marked Absent are counted.</div>
+  </section>`;
+}
+
+function teacherTrendTable(comparisons, notComparable, earlierLabel, recentLabel) {
+  const note = notComparable ? notComparable + ' teacher(s) did not have check-ins in both periods and were left out.' : '';
+  return html`<section class="card trend-chart-card">
+    <div class="card-head"><div><h2>Late attendance by teacher</h2><p class="dim">Sorted by the largest increase in late rate.</p></div></div>
+    ${comparisons.length ? html`<div class="table-scroll"><table class="table trend-teacher-table">
+      <thead><tr><th>Teacher</th><th class="num">${earlierLabel}</th><th class="num">${recentLabel}</th><th class="num">Change</th></tr></thead>
+      <tbody>${comparisons.slice(0, 10).map((teacher) => html`<tr>
+        <td data-label="Teacher"><span class="strong">${teacher.name}</span><small class="trend-teacher-code">${teacher.code}</small></td>
+        <td data-label="${earlierLabel}" class="num">${percent(teacher.earlierRate)}</td>
+        <td data-label="${recentLabel}" class="num strong">${percent(teacher.recentRate)}</td>
+        <td data-label="Change" class="num"><span class="trend-delta ${teacher.delta > 0 ? 'trend-delta-up' : teacher.delta < 0 ? 'trend-delta-down' : ''}">${signedPoints(teacher.delta)}</span></td>
+      </tr>`)}</tbody>
+    </table></div>` : html`<div class="card-body">${emptyState({ icon: 'chart-column', title: 'Not enough data to compare teachers yet.', text: 'Teachers need recorded check-ins in both comparison periods.' })}</div>`}
+    <div class="trend-chart-note">Late rate = late check-ins Ã· recorded check-ins. ${note}</div>
+  </section>`;
+}
+
+function summarize(rows, keys) {
+  const monthIndex = new Map(keys.map((key, index) => [key, index]));
+  const months = keys.map((key) => ({ key, total: 0, present: 0, absent: 0, late: 0, leave: 0, rate: null }));
+  const weekdays = WEEKDAYS.map((label) => ({ label, count: 0 }));
+  const teachers = new Map();
+  const split = Math.floor(keys.length / 2);
+  let earlierCheckins = 0, earlierLate = 0, recentCheckins = 0, recentLate = 0;
+
+  rows.forEach((row) => {
+    const index = monthIndex.get(monthKey(row.date));
+    if (index === undefined) return;
+    const month = months[index];
+    month.total += 1;
+    const teacherKey = String(row.teacher_id || row.teacher_name || 'unknown');
+    if (!teachers.has(teacherKey)) teachers.set(teacherKey, {
+      name: row.teacher_name || 'Unknown teacher', code: row.teacher_id || 'â€”',
+      earlierCheckins: 0, earlierLate: 0, recentCheckins: 0, recentLate: 0,
+    });
+    const teacher = teachers.get(teacherKey);
+    const isRecent = index >= split;
+
+    if (row.status === 'present') month.present += 1;
+    if (row.status === 'late') month.late += 1;
+    if (row.status === 'absent') {
+      month.absent += 1;
+      const day = new Date(row.date + 'T00:00:00Z').getUTCDay();
+      weekdays[day].count += 1;
+    }
+    if (row.status === 'leave') month.leave += 1;
+
+    if (row.status === 'present' || row.status === 'late') {
+      if (isRecent) teacher.recentCheckins += 1;
+      else teacher.earlierCheckins += 1;
+      if (isRecent) recentCheckins += 1;
+      else earlierCheckins += 1;
+    }
+    if (row.status === 'late') {
+      if (isRecent) {
+        teacher.recentLate += 1;
+        recentLate += 1;
+      } else {
+        teacher.earlierLate += 1;
+        earlierLate += 1;
+      }
+    }
+  });
+
+  months.forEach((month) => {
+    month.rate = month.total ? Math.round((month.present + month.late) * 1000 / month.total) / 10 : null;
+  });
+
+  const comparisons = [...teachers.values()]
+    .filter((teacher) => teacher.earlierCheckins > 0 && teacher.recentCheckins > 0)
+    .map((teacher) => {
+      const earlierRate = teacher.earlierLate * 100 / teacher.earlierCheckins;
+      const recentRate = teacher.recentLate * 100 / teacher.recentCheckins;
+      return { ...teacher, earlierRate, recentRate, delta: recentRate - earlierRate };
+    })
+    .sort((a, b) => b.delta - a.delta);
+  const notComparable = [...teachers.values()].length - comparisons.length;
+  const earlierRate = earlierCheckins ? earlierLate * 100 / earlierCheckins : null;
+  const recentRate = recentCheckins ? recentLate * 100 / recentCheckins : null;
+  const presentTotal = months.reduce((sum, month) => sum + month.present + month.late, 0);
+  const recordedTotal = months.reduce((sum, month) => sum + month.total, 0);
+
+  return {
+    months, weekdays, comparisons, notComparable,
+    total: recordedTotal,
+    absent: months.reduce((sum, month) => sum + month.absent, 0),
+    late: months.reduce((sum, month) => sum + month.late, 0),
+    attendanceRate: recordedTotal ? Math.round(presentTotal * 1000 / recordedTotal) / 10 : 0,
+    risingTeachers: comparisons.filter((teacher) => teacher.delta > 0).length,
+    lateRateChange: earlierRate === null || recentRate === null ? null : recentRate - earlierRate,
+  };
+}
+
+function renderDashboard(summary, range, count) {
+  if (!summary.total) {
+    return html`<section class="card">${emptyState({ icon: 'chart-column', title: 'No attendance records for this period.', text: 'Choose a wider period or check Attendance History.' })}</section>`;
+  }
+  const earlierLabel = 'Previous ' + (count / 2) + ' months';
+  const recentLabel = 'Latest ' + (count / 2) + ' months';
+  const changeText = summary.lateRateChange === null ? 'â€”' : signedPoints(summary.lateRateChange);
+  return html`<div class="stack">
+    <div class="trend-stat-grid">
+      ${statCard('chart-column', 'Attendance rate', summary.attendanceRate + '%', 'leaf')}
+      ${statCard('user-x', 'Absence records', summary.absent, 'red')}
+      ${statCard('clock', 'Late check-ins', summary.late, 'amber')}
+      ${statCard('chart-column', 'Teachers with rising late rates', summary.risingTeachers, 'navy')}
+    </div>
+    ${attendanceLineChart(summary.months)}
+    <div class="trend-grid">
+      ${weekdayChart(summary.weekdays)}
+      ${teacherTrendTable(summary.comparisons, summary.notComparable, earlierLabel, recentLabel)}
+    </div>
+    <p class="hint">Showing ${range.from} to ${range.to}. Late check-ins count as Present; late-rate changes compare the two halves of the selected period (${changeText} overall).</p>
+  </div>`;
+}
+
+export default async function attendanceTrends({ root }) {
+  const today = state.today || new Date().toISOString().slice(0, 10);
+  mount(root, html`${pageHead('Attendance Trends', 'Spot attendance patterns by month, weekday and teacher.', html`<a class="btn btn-secondary" href="#/reports">Open Reports</a>`)}
+    <section class="card trend-filter-card"><div class="card-body"><form id="trend-form" class="trend-controls">
+      ${field({ name: 'months', label: 'Period', control: select({ name: 'months', value: '6', options: MONTH_COUNT_OPTIONS }) })}
+      <p class="hint trend-period-hint">Late-rate change compares the first half with the latest half of this period.</p>
+      <button type="submit" class="btn btn-navy" id="trend-refresh">Refresh trends</button>
+    </form></div></section>
+    <div id="trend-content">${loading('Loading attendance trendsâ€¦')}</div>`);
+
+  const form = $('#trend-form', root);
+  const output = $('#trend-content', root);
+  const refresh = $('#trend-refresh', root);
+
+  async function load() {
+    const count = Number(form.elements.months.value) || 6;
+    const range = monthRange(count, today);
+    setLoading(refresh, true);
+    form.elements.months.disabled = true;
+    mount(output, html`<section class="card">${loading('Loading attendance recordsâ€¦')}</section>`);
+    try {
+      const rows = [];
+      let after = 0;
+      for (;;) {
+        const { data } = await get('/export/attendance', { after, from: range.from, to: range.to });
+        rows.push(...data);
+        if (data.length < 1000) break;
+        after = data[data.length - 1].id;
+      }
+      mount(output, renderDashboard(summarize(rows, range.keys), range, count));
+    } catch (error) {
+      mount(output, html`<section class="card">${errorState(errMsg(error, 'Unable to load attendance trends. Please try again.'))}</section>`);
+      $('[data-retry]', output)?.addEventListener('click', load);
+    } finally {
+      setLoading(refresh, false);
+      form.elements.months.disabled = false;
+    }
+  }
+
+  form.addEventListener('submit', (event) => { event.preventDefault(); load(); });
+  form.elements.months.addEventListener('change', load);
+  await load();
+}
