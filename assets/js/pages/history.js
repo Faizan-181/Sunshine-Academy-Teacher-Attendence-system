@@ -77,10 +77,10 @@ export default async function history({ root, query }) {
     mount(results, html`<div class="table-scroll"><table class="table w820">
       <thead><tr><th>Date</th><th>Teacher</th><th>Subject</th><th>Check In</th><th>Check Out</th><th>Status</th><th>Remarks</th><th class="right">Action</th></tr></thead>
       <tbody>${records.map((r, i) => html`<tr>
-        <td class="nowrap strong" style="color:var(--ink)">${formatDate(r.date)}</td><td class="strong">${r.teacher.name}</td><td>${r.teacher.subject}</td>
-        <td class="nowrap">${formatTime(r.check_in)}</td><td class="nowrap">${formatTime(r.check_out)}</td><td>${badge(r.status, lateTitle(r))}</td>
-        <td class="dim truncate" title="${r.remarks}">${r.remarks || '—'}</td>
-        <td><div class="actions"><button type="button" class="icon-btn" data-edit="${i}" aria-label="Edit attendance" title="Edit attendance">${ic('pencil')}</button></div></td></tr>`)}</tbody></table></div>${pager(last.pagination)}`);
+        <td data-label="Date" class="nowrap strong" style="color:var(--ink)">${formatDate(r.date)}</td><td data-label="Teacher" class="strong">${r.teacher.name}</td><td data-label="Subject">${r.teacher.subject}</td>
+        <td data-label="Check In" class="nowrap">${formatTime(r.check_in)}</td><td data-label="Check Out" class="nowrap">${formatTime(r.check_out)}</td><td data-label="Status">${badge(r.status, lateTitle(r))}</td>
+        <td data-label="Remarks" class="dim truncate" title="${r.remarks}">${r.remarks || '—'}</td>
+        <td data-label="Action"><div class="actions"><button type="button" class="icon-btn" data-edit="${i}" aria-label="Edit attendance" title="Edit attendance">${ic('pencil')}</button></div></td></tr>`)}</tbody></table></div>${pager(last.pagination)}`);
     $$('[data-page]', results).forEach((b) => b.addEventListener('click', () => { page = Number(b.dataset.page); load(); }));
     $$('[data-edit]', results).forEach((b) => b.addEventListener('click', () => attendanceEditModal(records[b.dataset.edit], () => load())));
   }

@@ -59,7 +59,7 @@ export default async function markAttendance({ root }) {
     const rows = data.data.map(({ teacher, attendance: a }) => ({ teacher, status: a?.status || '', check_in: a?.check_in || '', check_out: a?.check_out || '', remarks: a?.remarks || '' }));
 
     mount(sheet, html`
-      <div class="toolbar"><div class="search" style="min-width:280px">${ic('search', 16)}<input class="input" id="filter" type="search" placeholder="Search teachers" aria-label="Search teachers" autocomplete="off"></div><p class="counts" id="counts"></p></div>
+      <div class="toolbar"><div class="search" style="width:100%;max-width:400px;min-width:0">${ic('search', 16)}<input class="input" id="filter" type="search" placeholder="Search teachers" aria-label="Search teachers" autocomplete="off"></div><p class="counts" id="counts"></p></div>
       <div class="sheet-head"><span>Teacher</span><span>Status</span><span>Check In</span><span>Check Out</span><span>Remarks</span></div>
       <ul id="rows">${rows.map(row)}</ul>
       <div id="none" class="hidden">${emptyState({ icon: 'search', title: 'No teachers found.', text: 'Try a different search.' })}</div>

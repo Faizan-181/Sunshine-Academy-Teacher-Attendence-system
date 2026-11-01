@@ -71,13 +71,13 @@ export default async function leaveRequests({ root }) {
     }
 
     const rows = last.data.map((request) => html`<tr>
-      ${isAdmin ? html`<td><b>${request.teacher}</b><br><span class="muted">${request.teacher_code}</span></td>` : ''}
-      <td class="nowrap strong">${dateRange(request)}</td>
-      <td class="leave-reason" title="${request.reason}">${request.reason}</td>
-      <td>${badge(request.status)}</td>
-      <td class="leave-note">${request.review_note || '—'}</td>
-      <td class="nowrap">${formatDate(String(request.created_at || '').slice(0, 10))}</td>
-      <td><div class="leave-actions">
+      ${isAdmin ? html`<td data-label="Teacher"><b>${request.teacher}</b><br><span class="muted">${request.teacher_code}</span></td>` : ''}
+      <td data-label="Dates" class="nowrap strong">${dateRange(request)}</td>
+      <td data-label="Reason" class="leave-reason" title="${request.reason}">${request.reason}</td>
+      <td data-label="Status">${badge(request.status)}</td>
+      <td data-label="Admin note" class="leave-note">${request.review_note || '—'}</td>
+      <td data-label="Requested" class="nowrap">${formatDate(String(request.created_at || '').slice(0, 10))}</td>
+      <td data-label="Actions"><div class="leave-actions">
         ${isAdmin && request.status === 'pending' ? html`
           <button type="button" class="btn btn-primary btn-sm" data-review="approved" data-id="${request.id}">${ic('check-check', 14)} Approve</button>
           <button type="button" class="btn btn-secondary btn-sm" data-review="rejected" data-id="${request.id}">Reject</button>` : ''}

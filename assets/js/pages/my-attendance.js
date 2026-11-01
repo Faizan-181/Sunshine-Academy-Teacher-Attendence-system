@@ -37,7 +37,7 @@ export default async function myAttendance({ root }) {
       return;
     }
     mount(results, html`<div class="table-scroll"><table class="table"><thead><tr><th>Date</th><th>Check In</th><th>Check Out</th><th>Status</th><th>Remarks</th></tr></thead>
-      <tbody>${last.data.map((r) => html`<tr><td class="nowrap strong" style="color:var(--ink)">${formatDate(r.date)}</td><td class="nowrap">${formatTime(r.check_in)}</td><td class="nowrap">${formatTime(r.check_out)}</td><td>${badge(r.status, lateTitle(r))}</td><td class="dim">${r.remarks || '—'}</td></tr>`)}</tbody></table></div>${pager(last.pagination)}`);
+      <tbody>${last.data.map((r) => html`<tr><td data-label="Date" class="nowrap strong" style="color:var(--ink)">${formatDate(r.date)}</td><td data-label="Check In" class="nowrap">${formatTime(r.check_in)}</td><td data-label="Check Out" class="nowrap">${formatTime(r.check_out)}</td><td data-label="Status">${badge(r.status, lateTitle(r))}</td><td data-label="Remarks" class="dim">${r.remarks || '—'}</td></tr>`)}</tbody></table></div>${pager(last.pagination)}`);
     $$('[data-page]', results).forEach((b) => b.addEventListener('click', () => { page = Number(b.dataset.page); load(); }));
   }
 

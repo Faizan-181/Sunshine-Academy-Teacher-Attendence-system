@@ -52,9 +52,9 @@ export default async function teachersPage({ root, query }) {
     mount(results, html`<div class="table-scroll"><table class="table w900">
       <thead><tr><th>Teacher ID</th><th>Name</th><th>Email</th><th>Phone</th><th>Subject</th><th>Joining Date</th><th>Status</th><th class="right">Actions</th></tr></thead>
       <tbody>${teachers.map((t, i) => html`<tr>
-        <td class="dim">${t.teacher_id}</td><td class="strong">${t.name}</td><td class="dim">${t.email}</td><td class="nowrap">${t.phone}</td>
-        <td>${t.subject}</td><td class="nowrap">${formatDate(t.joining_date)}</td><td>${badge(t.status)}</td>
-        <td><div class="actions">
+        <td data-label="Teacher ID" class="dim">${t.teacher_id}</td><td data-label="Name" class="strong">${t.name}</td><td data-label="Email" class="dim">${t.email}</td><td data-label="Phone" class="nowrap">${t.phone}</td>
+        <td data-label="Subject">${t.subject}</td><td data-label="Joining Date" class="nowrap">${formatDate(t.joining_date)}</td><td data-label="Status">${badge(t.status)}</td>
+        <td data-label="Actions"><div class="actions">
           <a class="icon-btn" href="#/teachers/${t.id}" aria-label="View" title="View">${ic('eye')}</a>
           <a class="icon-btn" href="#/teachers/${t.id}/edit" aria-label="Edit" title="Edit">${ic('pencil')}</a>
           <button type="button" class="icon-btn warn" data-status="${i}" aria-label="${actionLabel(t)}" title="${actionLabel(t)}">${ic(t.status === 'active' ? 'user-minus' : 'user-check')}</button>

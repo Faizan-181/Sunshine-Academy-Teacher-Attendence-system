@@ -81,10 +81,10 @@ async function adminDashboard({ root }) {
     mount(today, html`<div class="table-scroll"><table class="table">
       <thead><tr><th>Teacher ID</th><th>Teacher Name</th><th>Subject</th><th>Date</th><th>Check In</th><th>Check Out</th><th>Status</th><th class="right">Action</th></tr></thead>
       <tbody>${data.todayAttendance.map((r, i) => html`<tr>
-        <td class="dim">${r.teacher.teacher_id}</td><td class="strong">${r.teacher.name}</td><td>${r.teacher.subject}</td>
-        <td class="nowrap">${formatDate(r.date)}</td><td class="nowrap">${formatTime(r.check_in)}</td><td class="nowrap">${formatTime(r.check_out)}</td>
-        <td>${badge(r.status, lateTitle(r))}</td>
-        <td><div class="actions">
+        <td data-label="Teacher ID" class="dim">${r.teacher.teacher_id}</td><td data-label="Teacher Name" class="strong">${r.teacher.name}</td><td data-label="Subject">${r.teacher.subject}</td>
+        <td data-label="Date" class="nowrap">${formatDate(r.date)}</td><td data-label="Check In" class="nowrap">${formatTime(r.check_in)}</td><td data-label="Check Out" class="nowrap">${formatTime(r.check_out)}</td>
+        <td data-label="Status">${badge(r.status, lateTitle(r))}</td>
+        <td data-label="Action"><div class="actions">
           <a class="icon-btn" href="#/teachers/${r.teacher.id}" aria-label="View teacher" title="View teacher">${ic('eye')}</a>
           <button type="button" class="icon-btn" data-edit="${i}" aria-label="Edit attendance" title="Edit attendance">${ic('pencil')}</button></div></td></tr>`)}</tbody></table></div>`);
     $$('[data-edit]', today).forEach((btn) => btn.addEventListener('click', () => attendanceEditModal(data.todayAttendance[btn.dataset.edit], load)));
@@ -141,7 +141,7 @@ async function teacherDashboard({ root }) {
         ? statsSummary(d.thisMonth) : html`<p class="muted">No attendance has been recorded this month yet.</p>`}</div></section>
       <section class="card"><div class="card-head"><h2>Recent records</h2><a class="btn btn-secondary btn-sm" href="#/my-attendance">View all</a></div>${d.recent.length
         ? html`<div class="table-scroll"><table class="table"><thead><tr><th>Date</th><th>Check In</th><th>Check Out</th><th>Status</th><th>Remarks</th></tr></thead>
-          <tbody>${d.recent.map((r) => html`<tr><td class="nowrap strong">${formatDate(r.date)}</td><td class="nowrap">${formatTime(r.check_in)}</td><td class="nowrap">${formatTime(r.check_out)}</td><td>${badge(r.status, lateTitle(r))}</td><td class="dim">${r.remarks || '—'}</td></tr>`)}</tbody></table></div>`
+          <tbody>${d.recent.map((r) => html`<tr><td data-label="Date" class="nowrap strong">${formatDate(r.date)}</td><td data-label="Check In" class="nowrap">${formatTime(r.check_in)}</td><td data-label="Check Out" class="nowrap">${formatTime(r.check_out)}</td><td data-label="Status">${badge(r.status, lateTitle(r))}</td><td data-label="Remarks" class="dim">${r.remarks || '—'}</td></tr>`)}</tbody></table></div>`
         : emptyState({ icon: 'calendar-x', title: 'No attendance records found.', text: 'Your records will appear here once attendance is marked.' })}</section></div>`);
 
     // Check In / Check Out. The time is taken from the server, so it cannot be changed from the browser.

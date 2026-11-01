@@ -94,15 +94,15 @@ export default async function reports({ root }) {
 
   const teacherCard = (title, rows) => html`<section class="card"><div class="card-head"><h2>${title}</h2></div><div class="table-scroll"><table class="table w760">
     <thead><tr><th>Teacher ID</th><th>Teacher</th><th>Subject</th><th class="num">Working days</th><th class="num">Present (incl. late)</th><th class="num">Absent</th><th class="num">Late*</th><th class="num">Leave</th><th>Attendance</th></tr></thead>
-    <tbody>${rows.map((r) => html`<tr><td class="dim">${r.teacher.teacher_id}</td><td class="strong">${r.teacher.name}</td><td>${r.teacher.subject}</td>
-      <td class="num">${r.totalDays}</td><td class="num strong" style="color:var(--leaf)">${r.present}</td><td class="num strong" style="color:var(--red)">${r.absent}</td>
-      <td class="num strong" style="color:var(--amber)">${r.late}</td><td class="num strong" style="color:var(--royal)">${r.leave}</td><td>${bar(r.percentage)}</td></tr>`)}</tbody></table></div></section>`;
+    <tbody>${rows.map((r) => html`<tr><td data-label="Teacher ID" class="dim">${r.teacher.teacher_id}</td><td data-label="Teacher" class="strong">${r.teacher.name}</td><td data-label="Subject">${r.teacher.subject}</td>
+      <td data-label="Working days" class="num">${r.totalDays}</td><td data-label="Present (incl. late)" class="num strong" style="color:var(--leaf)">${r.present}</td><td data-label="Absent" class="num strong" style="color:var(--red)">${r.absent}</td>
+      <td data-label="Late*" class="num strong" style="color:var(--amber)">${r.late}</td><td data-label="Leave" class="num strong" style="color:var(--royal)">${r.leave}</td><td data-label="Attendance">${bar(r.percentage)}</td></tr>`)}</tbody></table></div></section>`;
 
   const monthCard = (months) => html`<section class="card"><div class="card-head"><h2>By month</h2></div><div class="table-scroll"><table class="table w760">
     <thead><tr><th>Month</th><th class="num">Working days</th><th class="num">Present (incl. late)</th><th class="num">Absent</th><th class="num">Late*</th><th class="num">Leave</th><th>Attendance</th></tr></thead>
-    <tbody>${months.map((m) => html`<tr><td class="strong">${MONTH_NAMES[m.month - 1]}</td><td class="num">${m.totalDays}</td>
-      <td class="num strong" style="color:var(--leaf)">${m.present}</td><td class="num strong" style="color:var(--red)">${m.absent}</td>
-      <td class="num strong" style="color:var(--amber)">${m.late}</td><td class="num strong" style="color:var(--royal)">${m.leave}</td><td>${bar(m.percentage)}</td></tr>`)}</tbody></table></div></section>`;
+    <tbody>${months.map((m) => html`<tr><td data-label="Month" class="strong">${MONTH_NAMES[m.month - 1]}</td><td data-label="Working days" class="num">${m.totalDays}</td>
+      <td data-label="Present (incl. late)" class="num strong" style="color:var(--leaf)">${m.present}</td><td data-label="Absent" class="num strong" style="color:var(--red)">${m.absent}</td>
+      <td data-label="Late*" class="num strong" style="color:var(--amber)">${m.late}</td><td data-label="Leave" class="num strong" style="color:var(--royal)">${m.leave}</td><td data-label="Attendance">${bar(m.percentage)}</td></tr>`)}</tbody></table></div></section>`;
 
   async function generate() {
     const mode = form.elements.mode.value;
