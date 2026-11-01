@@ -95,9 +95,13 @@ async function adminDashboard({ root }) {
 /** What the teacher sees for today: a Check In button, a Check Out button, or the result. */
 function todayCard(d) {
   const { today, rules } = d;
+  const currentDate = new Date(`${d.date}T00:00:00Z`);
+  const weeklyOffDays = (Array.isArray(rules.weeklyOffDays) ? rules.weeklyOffDays : [0]).map(Number);
+  const isWeeklyOff = weeklyOffDays.includes(currentDate.getUTCDay());
   const hint = html`<p class="hint" style="margin-top:0">Your workday starts at <b>${formatTime(rules.startTime)}</b>. Checking in after <b>${formatTime(rules.lateAfter)}</b> is marked Late.</p>`;
 
   if (!today) {
+    if (isWeeklyOff) return html`<p class="muted">Today is a weekly off day. Teacher self check-in is unavailable.</p>`;
     return rules.selfCheckin
       ? html`<div class="today-main"><div><p class="today-title">You have not checked in yet.</p>${hint}</div>
           <button type="button" class="btn btn-primary btn-lg" id="check-in">${ic('log-in', 18)} Check In</button></div>`
