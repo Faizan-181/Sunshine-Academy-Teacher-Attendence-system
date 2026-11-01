@@ -310,7 +310,7 @@ textarea.input { resize: vertical; min-height: 84px; }
 .academy-clock--brand { width: clamp(148px, 17vw, 190px); margin-top: 20px; color: #fff; }
 .academy-clock--mobile { width: clamp(138px, 40vw, 164px); margin: 18px auto 0; color: var(--navy-800); }
 .academy-clock--admin { width: 156px; color: var(--navy-800); }
-.academy-clock--profile { width: clamp(132px, 16vw, 154px); padding: 7px; border: 1px solid var(--line); border-radius: 18px; background: #fff; color: var(--navy-800); box-shadow: var(--shadow); }
+.academy-clock--profile { width: clamp(132px, 16vw, 154px); color: var(--navy-800); }
 .admin-dashboard-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; margin-bottom: 24px; }
 .admin-dashboard-top .page-head { min-width: 0; margin: 0; }
 .teacher-dashboard-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 20px; margin-bottom: 24px; }
