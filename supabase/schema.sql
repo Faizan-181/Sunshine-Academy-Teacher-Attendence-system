@@ -1958,6 +1958,7 @@ begin
   if auth.uid() is null then perform private.fail(401, 'Please sign in to continue.'); end if;
   if v_tid is null then perform private.fail(403, 'Your account is not active.'); end if;
   if private.setting('self_checkin', '1') <> '1' then perform private.fail(403, 'Self check-in is turned off. Please ask the administrator to mark your attendance.'); end if;
+  if private.is_weekly_off(v_today) then perform private.fail(403, 'Self check-in is unavailable on a weekly off day.'); end if;
   if exists (select 1 from public.leave_requests l where l.teacher_id = v_tid and l.status = 'approved' and v_today between l.start_date and l.end_date) then
     perform private.fail(409, 'Your leave is approved for today. Contact the administrator if your plans have changed.');
   end if;
